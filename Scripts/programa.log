@@ -1,0 +1,2420 @@
+[INFO] 18:28:08:448 Programa/(6811:6811): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 18:28:08:448 Programa/(6811:6811): Nuevo Proceso con PID = [6811]
+[INFO] 18:28:08:448 Programa/(6811:6811): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 18:28:08:448 Programa/(6811:6811): IP_KERNEL = [10.0.2.15]
+[DEBUG] 18:28:08:448 Programa/(6811:6811): PUERTO_KERNEL = [5000]
+[DEBUG] 18:28:08:448 Programa/(6811:6811): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 18:28:08:452 Programa/(6811:6811): Respuesta Handshake, recibida.
+[INFO] 18:28:08:452 Programa/(6811:6811): Conexion a Kernel establecida.
+[TRACE] 18:28:08:452 Programa/(6811:6811): Enviando PID al Kernel.
+[TRACE] 18:28:08:500 Programa/(6811:6811): Respuesta recepcion de PID, recibida.
+[TRACE] 18:28:08:500 Programa/(6811:6811): Abriendo script para enviarlo al Kernel.
+[TRACE] 18:28:08:500 Programa/(6811:6811): Intercambio Handshake con Kernel.
+[TRACE] 18:28:08:500 Programa/(6811:6811): Se envio script al Kernel.
+[TRACE] 18:28:08:500 Programa/(6811:6811): Intercambio Handshake con Kernel.
+[TRACE] 18:28:08:580 Programa/(6811:6811): Respuesta Envio de Script, recibida.
+[TRACE] 18:28:08:592 Programa/(6811:6811): El script fue recibido por el Kernel con exito.
+[ERROR] 18:28:17:903 Programa/(6811:6811): Kernel se cerro inesperadamente. Abortando ejecucion de script
+[INFO] 20:09:43:217 Programa/(7909:7909): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 20:09:43:217 Programa/(7909:7909): Nuevo Proceso con PID = [7909]
+[INFO] 20:09:43:217 Programa/(7909:7909): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:09:43:217 Programa/(7909:7909): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:09:43:217 Programa/(7909:7909): PUERTO_KERNEL = [5000]
+[DEBUG] 20:09:43:217 Programa/(7909:7909): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 20:09:43:225 Programa/(7909:7909): Respuesta Handshake, recibida.
+[INFO] 20:09:43:225 Programa/(7909:7909): Conexion a Kernel establecida.
+[TRACE] 20:09:43:225 Programa/(7909:7909): Enviando PID al Kernel.
+[TRACE] 20:09:43:265 Programa/(7909:7909): Kernel recibio envio de PID.
+[TRACE] 20:09:43:265 Programa/(7909:7909): Abriendo script para enviarlo al Kernel.
+[TRACE] 20:09:43:265 Programa/(7909:7909): Se envio script al Kernel.
+[TRACE] 20:09:43:345 Programa/(7909:7909): Kernel recibio envio de SCRIPT.
+[TRACE] 20:09:43:345 Programa/(7909:7909): El script fue recibido por el Kernel con exito.
+[ERROR] 20:09:57:623 Programa/(7909:7909): Kernel se cerro inesperadamente. Abortando ejecucion de script
+[INFO] 01:06:33:667 Programa/(8626:8626): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 01:06:33:667 Programa/(8626:8626): Nuevo Proceso con PID = [8626]
+[INFO] 01:06:33:667 Programa/(8626:8626): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:06:33:667 Programa/(8626:8626): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:06:33:667 Programa/(8626:8626): PUERTO_KERNEL = [5000]
+[DEBUG] 01:06:33:667 Programa/(8626:8626): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 01:06:33:675 Programa/(8626:8626): Respuesta Handshake, recibida.
+[INFO] 01:06:33:675 Programa/(8626:8626): Conexion a Kernel establecida.
+[TRACE] 01:06:33:675 Programa/(8626:8626): Enviando PID al Kernel.
+[TRACE] 01:06:33:719 Programa/(8626:8626): Kernel recibio envio de PID.
+[TRACE] 01:06:33:719 Programa/(8626:8626): Abriendo script para enviarlo al Kernel.
+[TRACE] 01:06:33:719 Programa/(8626:8626): Se envio script al Kernel.
+[TRACE] 01:06:33:803 Programa/(8626:8626): Kernel recibio envio de SCRIPT.
+[TRACE] 01:06:33:803 Programa/(8626:8626): El script fue recibido por el Kernel con exito.
+[ERROR] 01:07:52:48 Programa/(8626:8626): Kernel se cerro inesperadamente. Abortando ejecucion de script
+[INFO] 01:08:33:540 Programa/(8649:8649): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 01:08:33:544 Programa/(8649:8649): Nuevo Proceso con PID = [8649]
+[INFO] 01:08:33:544 Programa/(8649:8649): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:08:33:544 Programa/(8649:8649): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:08:33:544 Programa/(8649:8649): PUERTO_KERNEL = [5000]
+[DEBUG] 01:08:33:544 Programa/(8649:8649): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 01:08:33:548 Programa/(8649:8649): Respuesta Handshake, recibida.
+[INFO] 01:08:33:548 Programa/(8649:8649): Conexion a Kernel establecida.
+[TRACE] 01:08:33:552 Programa/(8649:8649): Enviando PID al Kernel.
+[TRACE] 01:08:33:592 Programa/(8649:8649): Kernel recibio envio de PID.
+[TRACE] 01:08:33:592 Programa/(8649:8649): Abriendo script para enviarlo al Kernel.
+[TRACE] 01:08:33:592 Programa/(8649:8649): Se envio script al Kernel.
+[TRACE] 01:08:33:672 Programa/(8649:8649): Kernel recibio envio de SCRIPT.
+[TRACE] 01:08:33:672 Programa/(8649:8649): El script fue recibido por el Kernel con exito.
+[ERROR] 01:09:08:343 Programa/(8649:8649): Kernel se cerro inesperadamente. Abortando ejecucion de script
+[INFO] 01:09:20:323 Programa/(8663:8663): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 01:09:20:323 Programa/(8663:8663): Nuevo Proceso con PID = [8663]
+[INFO] 01:09:20:323 Programa/(8663:8663): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:09:20:327 Programa/(8663:8663): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:09:20:327 Programa/(8663:8663): PUERTO_KERNEL = [5000]
+[DEBUG] 01:09:20:327 Programa/(8663:8663): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 01:09:20:331 Programa/(8663:8663): Respuesta Handshake, recibida.
+[INFO] 01:09:20:331 Programa/(8663:8663): Conexion a Kernel establecida.
+[TRACE] 01:09:20:331 Programa/(8663:8663): Enviando PID al Kernel.
+[TRACE] 01:09:20:375 Programa/(8663:8663): Kernel recibio envio de PID.
+[TRACE] 01:09:20:375 Programa/(8663:8663): Abriendo script para enviarlo al Kernel.
+[TRACE] 01:09:20:375 Programa/(8663:8663): Se envio script al Kernel.
+[TRACE] 01:09:20:455 Programa/(8663:8663): Kernel recibio envio de SCRIPT.
+[TRACE] 01:09:20:455 Programa/(8663:8663): El script fue recibido por el Kernel con exito.
+[INFO] 01:09:30:166 Programa/(8668:8668): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 01:09:30:166 Programa/(8668:8668): Nuevo Proceso con PID = [8668]
+[INFO] 01:09:30:166 Programa/(8668:8668): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:09:30:166 Programa/(8668:8668): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:09:30:166 Programa/(8668:8668): PUERTO_KERNEL = [5000]
+[DEBUG] 01:09:30:166 Programa/(8668:8668): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[ERROR] 01:09:52:77 Programa/(8663:8663): Kernel se cerro inesperadamente. Abortando ejecucion de script
+[INFO] 01:10:02:303 Programa/(8679:8679): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 01:10:02:303 Programa/(8679:8679): Nuevo Proceso con PID = [8679]
+[INFO] 01:10:02:303 Programa/(8679:8679): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:10:02:303 Programa/(8679:8679): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:10:02:303 Programa/(8679:8679): PUERTO_KERNEL = [5000]
+[DEBUG] 01:10:02:307 Programa/(8679:8679): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 01:10:02:311 Programa/(8679:8679): Respuesta Handshake, recibida.
+[INFO] 01:10:02:311 Programa/(8679:8679): Conexion a Kernel establecida.
+[TRACE] 01:10:02:311 Programa/(8679:8679): Enviando PID al Kernel.
+[TRACE] 01:10:02:355 Programa/(8679:8679): Kernel recibio envio de PID.
+[TRACE] 01:10:02:355 Programa/(8679:8679): Abriendo script para enviarlo al Kernel.
+[TRACE] 01:10:02:355 Programa/(8679:8679): Se envio script al Kernel.
+[TRACE] 01:10:02:435 Programa/(8679:8679): Kernel recibio envio de SCRIPT.
+[TRACE] 01:10:02:435 Programa/(8679:8679): El script fue recibido por el Kernel con exito.
+[INFO] 01:10:04:689 Programa/(8681:8681): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 01:10:04:689 Programa/(8681:8681): Nuevo Proceso con PID = [8681]
+[INFO] 01:10:04:689 Programa/(8681:8681): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:10:04:689 Programa/(8681:8681): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:10:04:689 Programa/(8681:8681): PUERTO_KERNEL = [5000]
+[DEBUG] 01:10:04:689 Programa/(8681:8681): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[INFO] 01:10:11:986 Programa/(8686:8686): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 01:10:11:986 Programa/(8686:8686): Nuevo Proceso con PID = [8686]
+[INFO] 01:10:11:986 Programa/(8686:8686): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:10:11:986 Programa/(8686:8686): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:10:11:986 Programa/(8686:8686): PUERTO_KERNEL = [5000]
+[DEBUG] 01:10:11:986 Programa/(8686:8686): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[INFO] 01:12:01:449 Programa/(8748:8748): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 01:12:01:453 Programa/(8748:8748): Nuevo Proceso con PID = [8748]
+[INFO] 01:12:01:453 Programa/(8748:8748): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:12:01:453 Programa/(8748:8748): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:12:01:453 Programa/(8748:8748): PUERTO_KERNEL = [5000]
+[DEBUG] 01:12:01:453 Programa/(8748:8748): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 01:12:01:457 Programa/(8748:8748): Respuesta Handshake, recibida.
+[INFO] 01:12:01:461 Programa/(8748:8748): Conexion a Kernel establecida.
+[TRACE] 01:12:01:461 Programa/(8748:8748): Enviando PID al Kernel.
+[TRACE] 01:12:01:505 Programa/(8748:8748): Kernel recibio envio de PID.
+[TRACE] 01:12:01:505 Programa/(8748:8748): Abriendo script para enviarlo al Kernel.
+[TRACE] 01:12:01:505 Programa/(8748:8748): Se envio script al Kernel.
+[TRACE] 01:12:01:585 Programa/(8748:8748): Kernel recibio envio de SCRIPT.
+[TRACE] 01:12:01:585 Programa/(8748:8748): El script fue recibido por el Kernel con exito.
+[ERROR] 01:12:09:558 Programa/(8748:8748): Kernel se cerro inesperadamente. Abortando ejecucion de script
+[INFO] 01:13:11:978 Programa/(8804:8804): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 01:13:11:982 Programa/(8804:8804): Nuevo Proceso con PID = [8804]
+[INFO] 01:13:11:982 Programa/(8804:8804): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:13:11:982 Programa/(8804:8804): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:13:11:982 Programa/(8804:8804): PUERTO_KERNEL = [5000]
+[DEBUG] 01:13:11:982 Programa/(8804:8804): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 01:13:11:986 Programa/(8804:8804): Respuesta Handshake, recibida.
+[INFO] 01:13:11:990 Programa/(8804:8804): Conexion a Kernel establecida.
+[TRACE] 01:13:11:990 Programa/(8804:8804): Enviando PID al Kernel.
+[TRACE] 01:13:12:30 Programa/(8804:8804): Kernel recibio envio de PID.
+[TRACE] 01:13:12:30 Programa/(8804:8804): Abriendo script para enviarlo al Kernel.
+[TRACE] 01:13:12:30 Programa/(8804:8804): Se envio script al Kernel.
+[TRACE] 01:13:12:110 Programa/(8804:8804): Kernel recibio envio de SCRIPT.
+[TRACE] 01:13:12:110 Programa/(8804:8804): El script fue recibido por el Kernel con exito.
+[INFO] 01:13:21:657 Programa/(8808:8808): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 01:13:21:657 Programa/(8808:8808): Nuevo Proceso con PID = [8808]
+[INFO] 01:13:21:657 Programa/(8808:8808): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:13:21:657 Programa/(8808:8808): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:13:21:657 Programa/(8808:8808): PUERTO_KERNEL = [5000]
+[DEBUG] 01:13:21:661 Programa/(8808:8808): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[INFO] 01:15:13:611 Programa/(8868:8868): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 01:15:13:611 Programa/(8868:8868): Nuevo Proceso con PID = [8868]
+[INFO] 01:15:13:611 Programa/(8868:8868): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:15:13:611 Programa/(8868:8868): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:15:13:611 Programa/(8868:8868): PUERTO_KERNEL = [5000]
+[DEBUG] 01:15:13:611 Programa/(8868:8868): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 01:15:13:619 Programa/(8868:8868): Respuesta Handshake, recibida.
+[INFO] 01:15:13:619 Programa/(8868:8868): Conexion a Kernel establecida.
+[TRACE] 01:15:13:619 Programa/(8868:8868): Enviando PID al Kernel.
+[TRACE] 01:15:13:663 Programa/(8868:8868): Kernel recibio envio de PID.
+[TRACE] 01:15:13:663 Programa/(8868:8868): Abriendo script para enviarlo al Kernel.
+[TRACE] 01:15:13:663 Programa/(8868:8868): Se envio script al Kernel.
+[TRACE] 01:15:13:743 Programa/(8868:8868): Kernel recibio envio de SCRIPT.
+[TRACE] 01:15:13:743 Programa/(8868:8868): El script fue recibido por el Kernel con exito.
+[INFO] 01:15:16:480 Programa/(8870:8870): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 01:15:16:484 Programa/(8870:8870): Nuevo Proceso con PID = [8870]
+[INFO] 01:15:16:484 Programa/(8870:8870): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:15:16:484 Programa/(8870:8870): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:15:16:484 Programa/(8870:8870): PUERTO_KERNEL = [5000]
+[DEBUG] 01:15:16:484 Programa/(8870:8870): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 01:15:16:488 Programa/(8870:8870): Respuesta Handshake, recibida.
+[INFO] 01:15:16:488 Programa/(8870:8870): Conexion a Kernel establecida.
+[TRACE] 01:15:16:488 Programa/(8870:8870): Enviando PID al Kernel.
+[TRACE] 01:15:16:532 Programa/(8870:8870): Kernel recibio envio de PID.
+[TRACE] 01:15:16:532 Programa/(8870:8870): Abriendo script para enviarlo al Kernel.
+[TRACE] 01:15:16:532 Programa/(8870:8870): Se envio script al Kernel.
+[TRACE] 01:15:16:616 Programa/(8870:8870): Kernel recibio envio de SCRIPT.
+[TRACE] 01:15:16:616 Programa/(8870:8870): El script fue recibido por el Kernel con exito.
+[ERROR] 01:15:54:20 Programa/(8868:8868): Kernel se cerro inesperadamente. Abortando ejecucion de script
+[INFO] 01:16:00:570 Programa/(8885:8885): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 01:16:00:570 Programa/(8885:8885): Nuevo Proceso con PID = [8885]
+[INFO] 01:16:00:570 Programa/(8885:8885): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:16:00:570 Programa/(8885:8885): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:16:00:570 Programa/(8885:8885): PUERTO_KERNEL = [5000]
+[DEBUG] 01:16:00:570 Programa/(8885:8885): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 01:16:00:574 Programa/(8885:8885): Respuesta Handshake, recibida.
+[INFO] 01:16:00:574 Programa/(8885:8885): Conexion a Kernel establecida.
+[TRACE] 01:16:00:574 Programa/(8885:8885): Enviando PID al Kernel.
+[TRACE] 01:16:00:618 Programa/(8885:8885): Kernel recibio envio de PID.
+[TRACE] 01:16:00:618 Programa/(8885:8885): Abriendo script para enviarlo al Kernel.
+[TRACE] 01:16:00:618 Programa/(8885:8885): Se envio script al Kernel.
+[TRACE] 01:16:00:702 Programa/(8885:8885): Kernel recibio envio de SCRIPT.
+[TRACE] 01:16:00:702 Programa/(8885:8885): El script fue recibido por el Kernel con exito.
+[INFO] 01:16:02:828 Programa/(8887:8887): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 01:16:02:828 Programa/(8887:8887): Nuevo Proceso con PID = [8887]
+[INFO] 01:16:02:828 Programa/(8887:8887): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:16:02:828 Programa/(8887:8887): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:16:02:828 Programa/(8887:8887): PUERTO_KERNEL = [5000]
+[DEBUG] 01:16:02:828 Programa/(8887:8887): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 01:16:02:832 Programa/(8887:8887): Respuesta Handshake, recibida.
+[INFO] 01:16:02:840 Programa/(8887:8887): Conexion a Kernel establecida.
+[TRACE] 01:16:02:840 Programa/(8887:8887): Enviando PID al Kernel.
+[TRACE] 01:16:02:884 Programa/(8887:8887): Kernel recibio envio de PID.
+[TRACE] 01:16:02:884 Programa/(8887:8887): Abriendo script para enviarlo al Kernel.
+[TRACE] 01:16:02:884 Programa/(8887:8887): Se envio script al Kernel.
+[TRACE] 01:16:02:964 Programa/(8887:8887): Kernel recibio envio de SCRIPT.
+[TRACE] 01:16:02:964 Programa/(8887:8887): El script fue recibido por el Kernel con exito.
+[ERROR] 01:16:46:814 Programa/(8885:8885): Kernel se cerro inesperadamente. Abortando ejecucion de script
+[ERROR] 01:16:46:818 Programa/(8887:8887): Kernel se cerro inesperadamente. Abortando ejecucion de script
+[INFO] 02:09:09:675 Programa/(2233:2233): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 02:09:09:685 Programa/(2233:2233): Nuevo Proceso con PID = [2233]
+[INFO] 02:09:09:685 Programa/(2233:2233): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 02:09:09:685 Programa/(2233:2233): IP_KERNEL = [10.0.2.15]
+[DEBUG] 02:09:09:685 Programa/(2233:2233): PUERTO_KERNEL = [5000]
+[DEBUG] 02:09:09:687 Programa/(2233:2233): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 02:09:09:695 Programa/(2233:2233): Respuesta Handshake, recibida.
+[INFO] 02:09:09:698 Programa/(2233:2233): Conexion a Kernel establecida.
+[TRACE] 02:09:09:699 Programa/(2233:2233): Enviando PID al Kernel.
+[TRACE] 02:09:09:746 Programa/(2233:2233): Kernel recibio envio de PID.
+[TRACE] 02:09:09:748 Programa/(2233:2233): Abriendo script para enviarlo al Kernel.
+[TRACE] 02:09:09:757 Programa/(2233:2233): Se envio script al Kernel.
+[TRACE] 02:09:09:842 Programa/(2233:2233): Kernel recibio envio de SCRIPT.
+[TRACE] 02:09:09:842 Programa/(2233:2233): El script fue recibido por el Kernel con exito.
+[ERROR] 02:09:36:412 Programa/(2233:2233): Kernel se cerro inesperadamente. Abortando ejecucion de script
+[INFO] 02:11:37:616 Programa/(2306:2306): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 02:11:37:617 Programa/(2306:2306): Nuevo Proceso con PID = [2306]
+[INFO] 02:11:37:617 Programa/(2306:2306): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 02:11:37:617 Programa/(2306:2306): IP_KERNEL = [10.0.2.15]
+[DEBUG] 02:11:37:617 Programa/(2306:2306): PUERTO_KERNEL = [5000]
+[DEBUG] 02:11:37:618 Programa/(2306:2306): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 02:11:37:624 Programa/(2306:2306): Respuesta Handshake, recibida.
+[INFO] 02:11:37:625 Programa/(2306:2306): Conexion a Kernel establecida.
+[TRACE] 02:11:37:626 Programa/(2306:2306): Enviando PID al Kernel.
+[TRACE] 02:11:37:667 Programa/(2306:2306): Kernel recibio envio de PID.
+[TRACE] 02:11:37:668 Programa/(2306:2306): Abriendo script para enviarlo al Kernel.
+[TRACE] 02:11:37:668 Programa/(2306:2306): Se envio script al Kernel.
+[TRACE] 02:11:37:754 Programa/(2306:2306): Kernel recibio envio de SCRIPT.
+[TRACE] 02:11:37:754 Programa/(2306:2306): El script fue recibido por el Kernel con exito.
+[INFO] 02:14:26:590 Programa/(2378:2378): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 02:14:26:591 Programa/(2378:2378): Nuevo Proceso con PID = [2378]
+[INFO] 02:14:26:591 Programa/(2378:2378): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 02:14:26:591 Programa/(2378:2378): IP_KERNEL = [10.0.2.15]
+[DEBUG] 02:14:26:591 Programa/(2378:2378): PUERTO_KERNEL = [5000]
+[DEBUG] 02:14:26:592 Programa/(2378:2378): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 02:14:26:603 Programa/(2378:2378): Respuesta Handshake, recibida.
+[INFO] 02:14:26:604 Programa/(2378:2378): Conexion a Kernel establecida.
+[TRACE] 02:14:26:605 Programa/(2378:2378): Enviando PID al Kernel.
+[TRACE] 02:14:26:646 Programa/(2378:2378): Kernel recibio envio de PID.
+[TRACE] 02:14:26:646 Programa/(2378:2378): Abriendo script para enviarlo al Kernel.
+[TRACE] 02:14:26:647 Programa/(2378:2378): Se envio script al Kernel.
+[TRACE] 02:14:26:726 Programa/(2378:2378): Kernel recibio envio de SCRIPT.
+[TRACE] 02:14:26:726 Programa/(2378:2378): El script fue recibido por el Kernel con exito.
+[ERROR] 02:14:32:184 Programa/(2378:2378): Kernel se cerro inesperadamente. Abortando ejecucion de script
+[INFO] 02:17:39:505 Programa/(2556:2556): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 02:17:39:506 Programa/(2556:2556): Nuevo Proceso con PID = [2556]
+[INFO] 02:17:39:506 Programa/(2556:2556): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 02:17:39:506 Programa/(2556:2556): IP_KERNEL = [10.0.2.15]
+[DEBUG] 02:17:39:506 Programa/(2556:2556): PUERTO_KERNEL = [5000]
+[DEBUG] 02:17:39:507 Programa/(2556:2556): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 02:17:39:511 Programa/(2556:2556): Respuesta Handshake, recibida.
+[INFO] 02:17:39:512 Programa/(2556:2556): Conexion a Kernel establecida.
+[TRACE] 02:17:39:513 Programa/(2556:2556): Enviando PID al Kernel.
+[TRACE] 02:17:39:554 Programa/(2556:2556): Kernel recibio envio de PID.
+[TRACE] 02:17:39:555 Programa/(2556:2556): Abriendo script para enviarlo al Kernel.
+[TRACE] 02:17:39:560 Programa/(2556:2556): Se envio script al Kernel.
+[TRACE] 02:17:39:638 Programa/(2556:2556): Kernel recibio envio de SCRIPT.
+[TRACE] 02:17:39:638 Programa/(2556:2556): El script fue recibido por el Kernel con exito.
+[ERROR] 02:17:46:618 Programa/(2556:2556): Kernel se cerro inesperadamente. Abortando ejecucion de script
+[INFO] 02:30:23:165 Programa/(2889:2889): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 02:30:23:167 Programa/(2889:2889): Nuevo Proceso con PID = [2889]
+[INFO] 02:30:23:167 Programa/(2889:2889): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 02:30:23:168 Programa/(2889:2889): IP_KERNEL = [10.0.2.15]
+[DEBUG] 02:30:23:168 Programa/(2889:2889): PUERTO_KERNEL = [5000]
+[DEBUG] 02:30:23:168 Programa/(2889:2889): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 02:30:23:178 Programa/(2889:2889): Respuesta Handshake, recibida.
+[INFO] 02:30:23:181 Programa/(2889:2889): Conexion a Kernel establecida.
+[TRACE] 02:30:23:182 Programa/(2889:2889): Enviando PID al Kernel.
+[TRACE] 02:30:23:227 Programa/(2889:2889): Kernel recibio envio de PID.
+[TRACE] 02:30:23:227 Programa/(2889:2889): Abriendo script para enviarlo al Kernel.
+[TRACE] 02:30:23:229 Programa/(2889:2889): Se envio script al Kernel.
+[TRACE] 02:30:23:310 Programa/(2889:2889): Kernel recibio envio de SCRIPT.
+[TRACE] 02:30:23:310 Programa/(2889:2889): El script fue recibido por el Kernel con exito.
+[ERROR] 02:30:30:711 Programa/(2889:2889): Kernel se cerro inesperadamente. Abortando ejecucion de script
+[INFO] 02:44:15:391 Programa/(3224:3224): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 02:44:15:391 Programa/(3224:3224): Nuevo Proceso con PID = [3224]
+[INFO] 02:44:15:391 Programa/(3224:3224): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 02:44:15:391 Programa/(3224:3224): IP_KERNEL = [10.0.2.15]
+[DEBUG] 02:44:15:391 Programa/(3224:3224): PUERTO_KERNEL = [5000]
+[DEBUG] 02:44:15:392 Programa/(3224:3224): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 02:44:15:395 Programa/(3224:3224): Respuesta Handshake, recibida.
+[INFO] 02:44:15:397 Programa/(3224:3224): Conexion a Kernel establecida.
+[TRACE] 02:44:15:397 Programa/(3224:3224): Enviando PID al Kernel.
+[TRACE] 02:44:15:451 Programa/(3224:3224): Kernel recibio envio de PID.
+[TRACE] 02:44:15:452 Programa/(3224:3224): Abriendo script para enviarlo al Kernel.
+[TRACE] 02:44:15:459 Programa/(3224:3224): Se envio script al Kernel.
+[TRACE] 02:44:15:534 Programa/(3224:3224): Kernel recibio envio de SCRIPT.
+[TRACE] 02:44:15:534 Programa/(3224:3224): El script fue recibido por el Kernel con exito.
+[ERROR] 02:44:23:963 Programa/(3224:3224): Kernel se cerro inesperadamente. Abortando ejecucion de script
+[INFO] 03:12:02:171 Programa/(3497:3497): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 03:12:02:171 Programa/(3497:3497): Nuevo Proceso con PID = [3497]
+[INFO] 03:12:02:171 Programa/(3497:3497): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 03:12:02:171 Programa/(3497:3497): IP_KERNEL = [10.0.2.15]
+[DEBUG] 03:12:02:171 Programa/(3497:3497): PUERTO_KERNEL = [5000]
+[DEBUG] 03:12:02:172 Programa/(3497:3497): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 03:12:02:176 Programa/(3497:3497): Respuesta Handshake, recibida.
+[INFO] 03:12:02:185 Programa/(3497:3497): Conexion a Kernel establecida.
+[TRACE] 03:12:02:186 Programa/(3497:3497): Enviando PID al Kernel.
+[TRACE] 03:12:02:227 Programa/(3497:3497): Kernel recibio envio de PID.
+[TRACE] 03:12:02:228 Programa/(3497:3497): Abriendo script para enviarlo al Kernel.
+[TRACE] 03:12:02:230 Programa/(3497:3497): Se envio script al Kernel.
+[TRACE] 03:12:02:310 Programa/(3497:3497): Kernel recibio envio de SCRIPT.
+[TRACE] 03:12:02:310 Programa/(3497:3497): El script fue recibido por el Kernel con exito.
+[ERROR] 03:12:11:199 Programa/(3497:3497): Kernel se cerro inesperadamente. Abortando ejecucion de script
+[INFO] 16:44:31:756 Programa/(1970:1970): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 16:44:31:757 Programa/(1970:1970): Nuevo Proceso con PID = [1970]
+[INFO] 16:44:31:757 Programa/(1970:1970): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 16:44:31:757 Programa/(1970:1970): IP_KERNEL = [10.0.2.15]
+[DEBUG] 16:44:31:757 Programa/(1970:1970): PUERTO_KERNEL = [5000]
+[DEBUG] 16:44:31:758 Programa/(1970:1970): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 16:44:31:761 Programa/(1970:1970): Respuesta Handshake, recibida.
+[INFO] 16:44:31:762 Programa/(1970:1970): Conexion a Kernel establecida.
+[TRACE] 16:44:31:763 Programa/(1970:1970): Enviando PID al Kernel.
+[TRACE] 16:44:31:812 Programa/(1970:1970): Kernel recibio envio de PID.
+[TRACE] 16:44:31:813 Programa/(1970:1970): Abriendo script para enviarlo al Kernel.
+[TRACE] 16:44:31:816 Programa/(1970:1970): Se envio script al Kernel.
+[TRACE] 16:44:31:896 Programa/(1970:1970): Kernel recibio envio de SCRIPT.
+[TRACE] 16:44:31:896 Programa/(1970:1970): El script fue recibido por el Kernel con exito.
+[ERROR] 16:47:24:611 Programa/(1970:1970): Kernel se cerro inesperadamente. Abortando ejecucion de script
+[INFO] 16:52:08:583 Programa/(2066:2066): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 16:52:08:583 Programa/(2066:2066): Nuevo Proceso con PID = [2066]
+[INFO] 16:52:08:584 Programa/(2066:2066): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 16:52:08:584 Programa/(2066:2066): IP_KERNEL = [10.0.2.15]
+[DEBUG] 16:52:08:584 Programa/(2066:2066): PUERTO_KERNEL = [5000]
+[DEBUG] 16:52:08:587 Programa/(2066:2066): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 16:52:08:590 Programa/(2066:2066): Respuesta Handshake, recibida.
+[INFO] 16:52:08:592 Programa/(2066:2066): Conexion a Kernel establecida.
+[TRACE] 16:52:08:592 Programa/(2066:2066): Enviando PID al Kernel.
+[TRACE] 16:52:08:632 Programa/(2066:2066): Kernel recibio envio de PID.
+[TRACE] 16:52:08:632 Programa/(2066:2066): Abriendo script para enviarlo al Kernel.
+[TRACE] 16:52:08:632 Programa/(2066:2066): Se envio script al Kernel.
+[TRACE] 16:52:08:716 Programa/(2066:2066): Kernel recibio envio de SCRIPT.
+[TRACE] 16:52:08:720 Programa/(2066:2066): El script fue recibido por el Kernel con exito.
+[INFO] 16:55:54:862 Programa/(2124:2124): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 16:55:54:863 Programa/(2124:2124): Nuevo Proceso con PID = [2124]
+[INFO] 16:55:54:863 Programa/(2124:2124): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 16:55:54:863 Programa/(2124:2124): IP_KERNEL = [10.0.2.15]
+[DEBUG] 16:55:54:864 Programa/(2124:2124): PUERTO_KERNEL = [5000]
+[DEBUG] 16:55:54:864 Programa/(2124:2124): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 16:55:54:867 Programa/(2124:2124): Respuesta Handshake, recibida.
+[INFO] 16:55:54:869 Programa/(2124:2124): Conexion a Kernel establecida.
+[TRACE] 16:55:54:869 Programa/(2124:2124): Enviando PID al Kernel.
+[TRACE] 16:55:54:914 Programa/(2124:2124): Kernel recibio envio de PID.
+[TRACE] 16:55:54:914 Programa/(2124:2124): Abriendo script para enviarlo al Kernel.
+[TRACE] 16:55:54:924 Programa/(2124:2124): Se envio script al Kernel.
+[TRACE] 16:55:54:0 Programa/(2124:2124): Kernel recibio envio de SCRIPT.
+[TRACE] 16:55:54:0 Programa/(2124:2124): El script fue recibido por el Kernel con exito.
+[INFO] 16:57:06:888 Programa/(2166:2166): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 16:57:06:892 Programa/(2166:2166): Nuevo Proceso con PID = [2166]
+[INFO] 16:57:06:893 Programa/(2166:2166): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 16:57:06:893 Programa/(2166:2166): IP_KERNEL = [10.0.2.15]
+[DEBUG] 16:57:06:893 Programa/(2166:2166): PUERTO_KERNEL = [5000]
+[DEBUG] 16:57:06:894 Programa/(2166:2166): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 16:57:06:897 Programa/(2166:2166): Respuesta Handshake, recibida.
+[INFO] 16:57:06:898 Programa/(2166:2166): Conexion a Kernel establecida.
+[TRACE] 16:57:06:899 Programa/(2166:2166): Enviando PID al Kernel.
+[TRACE] 16:57:06:940 Programa/(2166:2166): Kernel recibio envio de PID.
+[TRACE] 16:57:06:940 Programa/(2166:2166): Abriendo script para enviarlo al Kernel.
+[TRACE] 16:57:06:941 Programa/(2166:2166): Se envio script al Kernel.
+[TRACE] 16:57:07:20 Programa/(2166:2166): Kernel recibio envio de SCRIPT.
+[TRACE] 16:57:07:20 Programa/(2166:2166): El script fue recibido por el Kernel con exito.
+[INFO] 16:58:50:191 Programa/(2221:2221): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 16:58:50:192 Programa/(2221:2221): Nuevo Proceso con PID = [2221]
+[INFO] 16:58:50:192 Programa/(2221:2221): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 16:58:50:192 Programa/(2221:2221): IP_KERNEL = [10.0.2.15]
+[DEBUG] 16:58:50:192 Programa/(2221:2221): PUERTO_KERNEL = [5000]
+[DEBUG] 16:58:50:193 Programa/(2221:2221): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 16:58:50:196 Programa/(2221:2221): Respuesta Handshake, recibida.
+[INFO] 16:58:50:197 Programa/(2221:2221): Conexion a Kernel establecida.
+[TRACE] 16:58:50:198 Programa/(2221:2221): Enviando PID al Kernel.
+[TRACE] 16:58:50:242 Programa/(2221:2221): Kernel recibio envio de PID.
+[TRACE] 16:58:50:246 Programa/(2221:2221): Abriendo script para enviarlo al Kernel.
+[TRACE] 16:58:50:256 Programa/(2221:2221): Se envio script al Kernel.
+[TRACE] 16:58:50:336 Programa/(2221:2221): Kernel recibio envio de SCRIPT.
+[TRACE] 16:58:50:340 Programa/(2221:2221): El script fue recibido por el Kernel con exito.
+[INFO] 17:07:34:674 Programa/(2306:2306): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 17:07:34:677 Programa/(2306:2306): Nuevo Proceso con PID = [2306]
+[INFO] 17:07:34:677 Programa/(2306:2306): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:07:34:677 Programa/(2306:2306): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:07:34:678 Programa/(2306:2306): PUERTO_KERNEL = [5000]
+[DEBUG] 17:07:34:678 Programa/(2306:2306): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 17:07:34:681 Programa/(2306:2306): Respuesta Handshake, recibida.
+[INFO] 17:07:34:683 Programa/(2306:2306): Conexion a Kernel establecida.
+[TRACE] 17:07:34:683 Programa/(2306:2306): Enviando PID al Kernel.
+[TRACE] 17:07:34:726 Programa/(2306:2306): Kernel recibio envio de PID.
+[TRACE] 17:07:34:732 Programa/(2306:2306): Abriendo script para enviarlo al Kernel.
+[TRACE] 17:07:34:738 Programa/(2306:2306): Se envio script al Kernel.
+[TRACE] 17:07:34:812 Programa/(2306:2306): Kernel recibio envio de SCRIPT.
+[TRACE] 17:07:34:812 Programa/(2306:2306): El script fue recibido por el Kernel con exito.
+[TRACE] 17:07:35:25 Programa/(2306:2306): Kernel recibio envio de PID.
+[INFO] 17:08:25:172 Programa/(2339:2339): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 17:08:25:172 Programa/(2339:2339): Nuevo Proceso con PID = [2339]
+[INFO] 17:08:25:172 Programa/(2339:2339): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:08:25:172 Programa/(2339:2339): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:08:25:172 Programa/(2339:2339): PUERTO_KERNEL = [5000]
+[DEBUG] 17:08:25:176 Programa/(2339:2339): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 17:08:25:179 Programa/(2339:2339): Respuesta Handshake, recibida.
+[INFO] 17:08:25:180 Programa/(2339:2339): Conexion a Kernel establecida.
+[TRACE] 17:08:25:181 Programa/(2339:2339): Enviando PID al Kernel.
+[TRACE] 17:08:25:226 Programa/(2339:2339): Kernel recibio envio de PID.
+[TRACE] 17:08:25:232 Programa/(2339:2339): Abriendo script para enviarlo al Kernel.
+[TRACE] 17:08:25:238 Programa/(2339:2339): Se envio script al Kernel.
+[TRACE] 17:08:25:316 Programa/(2339:2339): Kernel recibio envio de SCRIPT.
+[TRACE] 17:08:25:316 Programa/(2339:2339): El script fue recibido por el Kernel con exito.
+[TRACE] 17:08:25:530 Programa/(2339:2339): Kernel recibio envio de PID.
+[INFO] 17:11:09:699 Programa/(2424:2424): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 17:11:09:700 Programa/(2424:2424): Nuevo Proceso con PID = [2424]
+[INFO] 17:11:09:700 Programa/(2424:2424): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:11:09:700 Programa/(2424:2424): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:11:09:700 Programa/(2424:2424): PUERTO_KERNEL = [5000]
+[DEBUG] 17:11:09:704 Programa/(2424:2424): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 17:11:09:707 Programa/(2424:2424): Respuesta Handshake, recibida.
+[INFO] 17:11:09:708 Programa/(2424:2424): Conexion a Kernel establecida.
+[TRACE] 17:11:09:709 Programa/(2424:2424): Enviando PID al Kernel.
+[TRACE] 17:11:09:754 Programa/(2424:2424): Kernel recibio envio de PID.
+[TRACE] 17:11:09:759 Programa/(2424:2424): Abriendo script para enviarlo al Kernel.
+[TRACE] 17:11:09:775 Programa/(2424:2424): Se envio script al Kernel.
+[TRACE] 17:11:09:855 Programa/(2424:2424): Kernel recibio envio de SCRIPT.
+[TRACE] 17:11:09:855 Programa/(2424:2424): El script fue recibido por el Kernel con exito.
+[ERROR] 17:11:14:589 Programa/(2424:2424): Kernel se cerro inesperadamente. Abortando ejecucion de script
+[INFO] 17:15:50:241 Programa/(2466:2466): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 17:15:50:242 Programa/(2466:2466): Nuevo Proceso con PID = [2466]
+[INFO] 17:15:50:242 Programa/(2466:2466): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:15:50:242 Programa/(2466:2466): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:15:50:242 Programa/(2466:2466): PUERTO_KERNEL = [5000]
+[DEBUG] 17:15:50:243 Programa/(2466:2466): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 17:15:50:246 Programa/(2466:2466): Respuesta Handshake, recibida.
+[INFO] 17:15:50:247 Programa/(2466:2466): Conexion a Kernel establecida.
+[TRACE] 17:15:50:248 Programa/(2466:2466): Enviando PID al Kernel.
+[TRACE] 17:15:50:293 Programa/(2466:2466): Kernel recibio envio de PID.
+[TRACE] 17:15:50:294 Programa/(2466:2466): Abriendo script para enviarlo al Kernel.
+[TRACE] 17:15:50:359 Programa/(2466:2466): Se envio script al Kernel.
+[TRACE] 17:15:50:406 Programa/(2466:2466): Kernel recibio envio de SCRIPT.
+[TRACE] 17:15:50:409 Programa/(2466:2466): El script fue recibido por el Kernel con exito.
+[INFO] 17:16:53:749 Programa/(2512:2512): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 17:16:53:749 Programa/(2512:2512): Nuevo Proceso con PID = [2512]
+[INFO] 17:16:53:752 Programa/(2512:2512): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:16:53:752 Programa/(2512:2512): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:16:53:752 Programa/(2512:2512): PUERTO_KERNEL = [5000]
+[DEBUG] 17:16:53:753 Programa/(2512:2512): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 17:16:53:756 Programa/(2512:2512): Respuesta Handshake, recibida.
+[INFO] 17:16:53:757 Programa/(2512:2512): Conexion a Kernel establecida.
+[TRACE] 17:16:53:758 Programa/(2512:2512): Enviando PID al Kernel.
+[TRACE] 17:16:53:800 Programa/(2512:2512): Kernel recibio envio de PID.
+[TRACE] 17:16:53:800 Programa/(2512:2512): Abriendo script para enviarlo al Kernel.
+[TRACE] 17:16:53:802 Programa/(2512:2512): Se envio script al Kernel.
+[TRACE] 17:16:53:884 Programa/(2512:2512): Kernel recibio envio de SCRIPT.
+[TRACE] 17:16:53:884 Programa/(2512:2512): El script fue recibido por el Kernel con exito.
+[INFO] 17:20:03:516 Programa/(2578:2578): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 17:20:03:517 Programa/(2578:2578): Nuevo Proceso con PID = [2578]
+[INFO] 17:20:03:517 Programa/(2578:2578): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:20:03:517 Programa/(2578:2578): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:20:03:517 Programa/(2578:2578): PUERTO_KERNEL = [5000]
+[DEBUG] 17:20:03:518 Programa/(2578:2578): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 17:20:03:522 Programa/(2578:2578): Respuesta Handshake, recibida.
+[INFO] 17:20:03:524 Programa/(2578:2578): Conexion a Kernel establecida.
+[TRACE] 17:20:03:524 Programa/(2578:2578): Enviando PID al Kernel.
+[TRACE] 17:20:03:573 Programa/(2578:2578): Kernel recibio envio de PID.
+[TRACE] 17:20:03:576 Programa/(2578:2578): Abriendo script para enviarlo al Kernel.
+[TRACE] 17:20:03:641 Programa/(2578:2578): Se envio script al Kernel.
+[TRACE] 17:20:03:686 Programa/(2578:2578): Kernel recibio envio de SCRIPT.
+[TRACE] 17:20:03:687 Programa/(2578:2578): El script fue recibido por el Kernel con exito.
+[INFO] 17:21:25:75 Programa/(2644:2644): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 17:21:25:78 Programa/(2644:2644): Nuevo Proceso con PID = [2644]
+[INFO] 17:21:25:79 Programa/(2644:2644): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:21:25:79 Programa/(2644:2644): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:21:25:79 Programa/(2644:2644): PUERTO_KERNEL = [5000]
+[DEBUG] 17:21:25:80 Programa/(2644:2644): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 17:21:25:83 Programa/(2644:2644): Respuesta Handshake, recibida.
+[INFO] 17:21:25:84 Programa/(2644:2644): Conexion a Kernel establecida.
+[TRACE] 17:21:25:85 Programa/(2644:2644): Enviando PID al Kernel.
+[TRACE] 17:21:25:128 Programa/(2644:2644): Kernel recibio envio de PID.
+[TRACE] 17:21:25:128 Programa/(2644:2644): Abriendo script para enviarlo al Kernel.
+[TRACE] 17:21:25:130 Programa/(2644:2644): Se envio script al Kernel.
+[TRACE] 17:21:25:213 Programa/(2644:2644): Kernel recibio envio de SCRIPT.
+[TRACE] 17:21:25:213 Programa/(2644:2644): El script fue recibido por el Kernel con exito.
+[INFO] 17:25:23:905 Programa/(2772:2772): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 17:25:23:905 Programa/(2772:2772): Nuevo Proceso con PID = [2772]
+[INFO] 17:25:23:906 Programa/(2772:2772): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:25:23:906 Programa/(2772:2772): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:25:23:906 Programa/(2772:2772): PUERTO_KERNEL = [5000]
+[DEBUG] 17:25:23:906 Programa/(2772:2772): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 17:25:23:910 Programa/(2772:2772): Respuesta Handshake, recibida.
+[INFO] 17:25:23:911 Programa/(2772:2772): Conexion a Kernel establecida.
+[TRACE] 17:25:23:920 Programa/(2772:2772): Enviando PID al Kernel.
+[TRACE] 17:25:23:961 Programa/(2772:2772): Kernel recibio envio de PID.
+[TRACE] 17:25:23:961 Programa/(2772:2772): Abriendo script para enviarlo al Kernel.
+[TRACE] 17:25:23:962 Programa/(2772:2772): Se envio script al Kernel.
+[TRACE] 17:25:24:43 Programa/(2772:2772): Kernel recibio envio de SCRIPT.
+[TRACE] 17:25:24:47 Programa/(2772:2772): El script fue recibido por el Kernel con exito.
+[INFO] 17:26:07:696 Programa/(2783:2783): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 17:26:07:696 Programa/(2783:2783): Nuevo Proceso con PID = [2783]
+[INFO] 17:26:07:696 Programa/(2783:2783): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:26:07:696 Programa/(2783:2783): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:26:07:696 Programa/(2783:2783): PUERTO_KERNEL = [5000]
+[DEBUG] 17:26:07:697 Programa/(2783:2783): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 17:26:07:700 Programa/(2783:2783): Respuesta Handshake, recibida.
+[INFO] 17:26:07:708 Programa/(2783:2783): Conexion a Kernel establecida.
+[TRACE] 17:26:07:708 Programa/(2783:2783): Enviando PID al Kernel.
+[TRACE] 17:26:07:758 Programa/(2783:2783): Kernel recibio envio de PID.
+[TRACE] 17:26:07:758 Programa/(2783:2783): Abriendo script para enviarlo al Kernel.
+[TRACE] 17:26:07:759 Programa/(2783:2783): Se envio script al Kernel.
+[TRACE] 17:26:07:844 Programa/(2783:2783): Kernel recibio envio de SCRIPT.
+[TRACE] 17:26:07:846 Programa/(2783:2783): El script fue recibido por el Kernel con exito.
+[INFO] 17:50:53:488 Programa/(3289:3289): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 17:50:53:489 Programa/(3289:3289): Nuevo Proceso con PID = [3289]
+[INFO] 17:50:53:489 Programa/(3289:3289): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:50:53:489 Programa/(3289:3289): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:50:53:489 Programa/(3289:3289): PUERTO_KERNEL = [5000]
+[DEBUG] 17:50:53:492 Programa/(3289:3289): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 17:50:53:495 Programa/(3289:3289): Respuesta Handshake, recibida.
+[INFO] 17:50:53:496 Programa/(3289:3289): Conexion a Kernel establecida.
+[TRACE] 17:50:53:497 Programa/(3289:3289): Enviando PID al Kernel.
+[TRACE] 17:50:53:540 Programa/(3289:3289): Kernel recibio envio de PID.
+[TRACE] 17:50:53:540 Programa/(3289:3289): Abriendo script para enviarlo al Kernel.
+[TRACE] 17:50:53:541 Programa/(3289:3289): Se envio script al Kernel.
+[TRACE] 17:50:53:632 Programa/(3289:3289): Kernel recibio envio de SCRIPT.
+[TRACE] 17:50:53:632 Programa/(3289:3289): El script fue recibido por el Kernel con exito.
+[INFO] 18:33:14:404 Programa/(3808:3808): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 18:33:14:405 Programa/(3808:3808): Nuevo Proceso con PID = [3808]
+[INFO] 18:33:14:407 Programa/(3808:3808): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 18:33:14:407 Programa/(3808:3808): IP_KERNEL = [10.0.2.15]
+[DEBUG] 18:33:14:407 Programa/(3808:3808): PUERTO_KERNEL = [5000]
+[DEBUG] 18:33:14:408 Programa/(3808:3808): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 18:33:14:411 Programa/(3808:3808): Respuesta Handshake, recibida.
+[INFO] 18:33:14:413 Programa/(3808:3808): Conexion a Kernel establecida.
+[TRACE] 18:33:14:413 Programa/(3808:3808): Enviando PID al Kernel.
+[TRACE] 18:33:14:461 Programa/(3808:3808): Kernel recibio envio de PID.
+[TRACE] 18:33:14:467 Programa/(3808:3808): Abriendo script para enviarlo al Kernel.
+[TRACE] 18:33:14:468 Programa/(3808:3808): Se envio script al Kernel.
+[TRACE] 18:33:14:551 Programa/(3808:3808): Kernel recibio envio de SCRIPT.
+[TRACE] 18:33:14:554 Programa/(3808:3808): El script fue recibido por el Kernel con exito.
+[ERROR] 18:35:44:656 Programa/(3808:3808): Kernel se cerro inesperadamente. Abortando ejecucion de script
+[INFO] 18:39:41:925 Programa/(3943:3943): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 18:39:41:925 Programa/(3943:3943): Nuevo Proceso con PID = [3943]
+[INFO] 18:39:41:925 Programa/(3943:3943): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 18:39:41:925 Programa/(3943:3943): IP_KERNEL = [10.0.2.15]
+[DEBUG] 18:39:41:925 Programa/(3943:3943): PUERTO_KERNEL = [5000]
+[DEBUG] 18:39:41:928 Programa/(3943:3943): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 18:39:41:930 Programa/(3943:3943): Respuesta Handshake, recibida.
+[INFO] 18:39:41:931 Programa/(3943:3943): Conexion a Kernel establecida.
+[TRACE] 18:39:41:932 Programa/(3943:3943): Enviando PID al Kernel.
+[TRACE] 18:39:41:975 Programa/(3943:3943): Kernel recibio envio de PID.
+[TRACE] 18:39:41:977 Programa/(3943:3943): Abriendo script para enviarlo al Kernel.
+[TRACE] 18:39:41:988 Programa/(3943:3943): Se envio script al Kernel.
+[TRACE] 18:39:42:73 Programa/(3943:3943): Kernel recibio envio de SCRIPT.
+[TRACE] 18:39:42:74 Programa/(3943:3943): El script fue recibido por el Kernel con exito.
+[INFO] 18:45:57:320 Programa/(4120:4120): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 18:45:57:320 Programa/(4120:4120): Nuevo Proceso con PID = [4120]
+[INFO] 18:45:57:321 Programa/(4120:4120): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 18:45:57:321 Programa/(4120:4120): IP_KERNEL = [10.0.2.15]
+[DEBUG] 18:45:57:321 Programa/(4120:4120): PUERTO_KERNEL = [5000]
+[DEBUG] 18:45:57:322 Programa/(4120:4120): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 18:45:57:327 Programa/(4120:4120): Respuesta Handshake, recibida.
+[INFO] 18:45:57:328 Programa/(4120:4120): Conexion a Kernel establecida.
+[TRACE] 18:45:57:328 Programa/(4120:4120): Enviando PID al Kernel.
+[TRACE] 18:45:57:368 Programa/(4120:4120): Kernel recibio envio de PID.
+[TRACE] 18:45:57:368 Programa/(4120:4120): Abriendo script para enviarlo al Kernel.
+[TRACE] 18:45:57:368 Programa/(4120:4120): Se envio script al Kernel.
+[TRACE] 18:45:57:454 Programa/(4120:4120): Kernel recibio envio de SCRIPT.
+[TRACE] 18:45:57:454 Programa/(4120:4120): El script fue recibido por el Kernel con exito.
+[INFO] 18:47:43:627 Programa/(4183:4183): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 18:47:43:629 Programa/(4183:4183): Nuevo Proceso con PID = [4183]
+[INFO] 18:47:43:630 Programa/(4183:4183): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 18:47:43:630 Programa/(4183:4183): IP_KERNEL = [10.0.2.15]
+[DEBUG] 18:47:43:630 Programa/(4183:4183): PUERTO_KERNEL = [5000]
+[DEBUG] 18:47:43:631 Programa/(4183:4183): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 18:47:43:633 Programa/(4183:4183): Respuesta Handshake, recibida.
+[INFO] 18:47:43:634 Programa/(4183:4183): Conexion a Kernel establecida.
+[TRACE] 18:47:43:634 Programa/(4183:4183): Enviando PID al Kernel.
+[TRACE] 18:47:43:679 Programa/(4183:4183): Kernel recibio envio de PID.
+[TRACE] 18:47:43:682 Programa/(4183:4183): Abriendo script para enviarlo al Kernel.
+[TRACE] 18:47:43:686 Programa/(4183:4183): Se envio script al Kernel.
+[TRACE] 18:47:43:764 Programa/(4183:4183): Kernel recibio envio de SCRIPT.
+[TRACE] 18:47:43:764 Programa/(4183:4183): El script fue recibido por el Kernel con exito.
+[INFO] 19:59:19:258 Programa/(4527:4527): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 19:59:19:258 Programa/(4527:4527): Nuevo Proceso con PID = [4527]
+[INFO] 19:59:19:258 Programa/(4527:4527): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 19:59:19:258 Programa/(4527:4527): IP_KERNEL = [10.0.2.15]
+[DEBUG] 19:59:19:259 Programa/(4527:4527): PUERTO_KERNEL = [5000]
+[DEBUG] 19:59:19:260 Programa/(4527:4527): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 19:59:19:263 Programa/(4527:4527): Respuesta Handshake, recibida.
+[INFO] 19:59:19:264 Programa/(4527:4527): Conexion a Kernel establecida.
+[TRACE] 19:59:19:264 Programa/(4527:4527): Enviando PID al Kernel.
+[TRACE] 19:59:19:305 Programa/(4527:4527): Kernel recibio envio de PID.
+[TRACE] 19:59:19:305 Programa/(4527:4527): Abriendo script para enviarlo al Kernel.
+[TRACE] 19:59:19:305 Programa/(4527:4527): Se envio script al Kernel.
+[TRACE] 19:59:19:388 Programa/(4527:4527): Kernel recibio envio de SCRIPT.
+[TRACE] 19:59:19:388 Programa/(4527:4527): El script fue recibido por el Kernel con exito.
+[TRACE] 20:01:45:542 Programa/(4527:4527): Kernel recibio envio de SCRIPT.
+[INFO] 20:01:49:82 Programa/(4545:4545): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 20:01:49:82 Programa/(4545:4545): Nuevo Proceso con PID = [4545]
+[INFO] 20:01:49:82 Programa/(4545:4545): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:01:49:83 Programa/(4545:4545): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:01:49:83 Programa/(4545:4545): PUERTO_KERNEL = [5000]
+[DEBUG] 20:01:49:84 Programa/(4545:4545): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 20:01:49:89 Programa/(4545:4545): Respuesta Handshake, recibida.
+[INFO] 20:01:49:90 Programa/(4545:4545): Conexion a Kernel establecida.
+[TRACE] 20:01:49:90 Programa/(4545:4545): Enviando PID al Kernel.
+[TRACE] 20:01:49:132 Programa/(4545:4545): Kernel recibio envio de PID.
+[TRACE] 20:01:49:132 Programa/(4545:4545): Abriendo script para enviarlo al Kernel.
+[TRACE] 20:01:49:133 Programa/(4545:4545): Se envio script al Kernel.
+[TRACE] 20:01:49:212 Programa/(4545:4545): Kernel recibio envio de SCRIPT.
+[TRACE] 20:01:49:213 Programa/(4545:4545): El script fue recibido por el Kernel con exito.
+[TRACE] 20:05:46:585 Programa/(4545:4545): Kernel recibio envio de SCRIPT.
+[INFO] 20:05:54:87 Programa/(4631:4631): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 20:05:54:88 Programa/(4631:4631): Nuevo Proceso con PID = [4631]
+[INFO] 20:05:54:88 Programa/(4631:4631): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:05:54:88 Programa/(4631:4631): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:05:54:88 Programa/(4631:4631): PUERTO_KERNEL = [5000]
+[DEBUG] 20:05:54:89 Programa/(4631:4631): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 20:05:54:92 Programa/(4631:4631): Respuesta Handshake, recibida.
+[INFO] 20:05:54:94 Programa/(4631:4631): Conexion a Kernel establecida.
+[TRACE] 20:05:54:94 Programa/(4631:4631): Enviando PID al Kernel.
+[TRACE] 20:05:54:136 Programa/(4631:4631): Kernel recibio envio de PID.
+[TRACE] 20:05:54:136 Programa/(4631:4631): Abriendo script para enviarlo al Kernel.
+[TRACE] 20:05:54:137 Programa/(4631:4631): Se envio script al Kernel.
+[TRACE] 20:05:54:225 Programa/(4631:4631): Kernel recibio envio de SCRIPT.
+[TRACE] 20:05:54:226 Programa/(4631:4631): El script fue recibido por el Kernel con exito.
+[TRACE] 20:10:22:790 Programa/(4631:4631): Kernel recibio envio de SCRIPT.
+[INFO] 20:10:27:949 Programa/(4715:4715): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 20:10:27:949 Programa/(4715:4715): Nuevo Proceso con PID = [4715]
+[INFO] 20:10:27:949 Programa/(4715:4715): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:10:27:949 Programa/(4715:4715): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:10:27:949 Programa/(4715:4715): PUERTO_KERNEL = [5000]
+[DEBUG] 20:10:27:950 Programa/(4715:4715): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 20:10:27:955 Programa/(4715:4715): Respuesta Handshake, recibida.
+[INFO] 20:10:27:957 Programa/(4715:4715): Conexion a Kernel establecida.
+[TRACE] 20:10:27:957 Programa/(4715:4715): Enviando PID al Kernel.
+[TRACE] 20:10:27:997 Programa/(4715:4715): Kernel recibio envio de PID.
+[TRACE] 20:10:27:997 Programa/(4715:4715): Abriendo script para enviarlo al Kernel.
+[TRACE] 20:10:27:997 Programa/(4715:4715): Se envio script al Kernel.
+[TRACE] 20:10:28:76 Programa/(4715:4715): Kernel recibio envio de SCRIPT.
+[TRACE] 20:10:28:76 Programa/(4715:4715): El script fue recibido por el Kernel con exito.
+[TRACE] 20:10:55:956 Programa/(4715:4715): Kernel recibio envio de SCRIPT.
+[INFO] 20:11:51:213 Programa/(4739:4739): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 20:11:51:213 Programa/(4739:4739): Nuevo Proceso con PID = [4739]
+[INFO] 20:11:51:213 Programa/(4739:4739): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:11:51:213 Programa/(4739:4739): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:11:51:213 Programa/(4739:4739): PUERTO_KERNEL = [5000]
+[DEBUG] 20:11:51:214 Programa/(4739:4739): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 20:11:51:216 Programa/(4739:4739): Respuesta Handshake, recibida.
+[INFO] 20:11:51:228 Programa/(4739:4739): Conexion a Kernel establecida.
+[TRACE] 20:11:51:228 Programa/(4739:4739): Enviando PID al Kernel.
+[TRACE] 20:11:51:268 Programa/(4739:4739): Kernel recibio envio de PID.
+[TRACE] 20:11:51:268 Programa/(4739:4739): Abriendo script para enviarlo al Kernel.
+[TRACE] 20:11:51:268 Programa/(4739:4739): Se envio script al Kernel.
+[TRACE] 20:11:51:352 Programa/(4739:4739): Kernel recibio envio de SCRIPT.
+[TRACE] 20:11:51:352 Programa/(4739:4739): El script fue recibido por el Kernel con exito.
+[INFO] 20:13:08:936 Programa/(4815:4815): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 20:13:08:937 Programa/(4815:4815): Nuevo Proceso con PID = [4815]
+[INFO] 20:13:08:937 Programa/(4815:4815): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:13:08:937 Programa/(4815:4815): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:13:08:937 Programa/(4815:4815): PUERTO_KERNEL = [5000]
+[DEBUG] 20:13:08:938 Programa/(4815:4815): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 20:13:08:941 Programa/(4815:4815): Respuesta Handshake, recibida.
+[INFO] 20:13:08:943 Programa/(4815:4815): Conexion a Kernel establecida.
+[TRACE] 20:13:08:943 Programa/(4815:4815): Enviando PID al Kernel.
+[TRACE] 20:13:08:989 Programa/(4815:4815): Kernel recibio envio de PID.
+[TRACE] 20:13:08:989 Programa/(4815:4815): Abriendo script para enviarlo al Kernel.
+[TRACE] 20:13:08:989 Programa/(4815:4815): Se envio script al Kernel.
+[TRACE] 20:13:09:72 Programa/(4815:4815): Kernel recibio envio de SCRIPT.
+[TRACE] 20:13:09:72 Programa/(4815:4815): El script fue recibido por el Kernel con exito.
+[TRACE] 20:13:33:966 Programa/(4815:4815): Kernel recibio envio de SCRIPT.
+[INFO] 20:13:41:46 Programa/(4827:4827): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 20:13:41:48 Programa/(4827:4827): Nuevo Proceso con PID = [4827]
+[INFO] 20:13:41:49 Programa/(4827:4827): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:13:41:49 Programa/(4827:4827): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:13:41:49 Programa/(4827:4827): PUERTO_KERNEL = [5000]
+[DEBUG] 20:13:41:50 Programa/(4827:4827): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 20:13:41:52 Programa/(4827:4827): Respuesta Handshake, recibida.
+[INFO] 20:13:41:54 Programa/(4827:4827): Conexion a Kernel establecida.
+[TRACE] 20:13:41:54 Programa/(4827:4827): Enviando PID al Kernel.
+[TRACE] 20:13:41:97 Programa/(4827:4827): Kernel recibio envio de PID.
+[TRACE] 20:13:41:97 Programa/(4827:4827): Abriendo script para enviarlo al Kernel.
+[TRACE] 20:13:41:98 Programa/(4827:4827): Se envio script al Kernel.
+[TRACE] 20:13:41:182 Programa/(4827:4827): Kernel recibio envio de SCRIPT.
+[TRACE] 20:13:41:184 Programa/(4827:4827): El script fue recibido por el Kernel con exito.
+[TRACE] 20:14:22:157 Programa/(4827:4827): Kernel recibio envio de SCRIPT.
+[INFO] 20:19:08:278 Programa/(4911:4911): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 20:19:08:278 Programa/(4911:4911): Nuevo Proceso con PID = [4911]
+[INFO] 20:19:08:278 Programa/(4911:4911): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:19:08:278 Programa/(4911:4911): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:19:08:278 Programa/(4911:4911): PUERTO_KERNEL = [5000]
+[DEBUG] 20:19:08:280 Programa/(4911:4911): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 20:19:08:282 Programa/(4911:4911): Respuesta Handshake, recibida.
+[INFO] 20:19:08:283 Programa/(4911:4911): Conexion a Kernel establecida.
+[TRACE] 20:19:08:283 Programa/(4911:4911): Enviando PID al Kernel.
+[TRACE] 20:19:08:324 Programa/(4911:4911): Kernel recibio envio de PID.
+[TRACE] 20:19:08:324 Programa/(4911:4911): Abriendo script para enviarlo al Kernel.
+[TRACE] 20:19:08:325 Programa/(4911:4911): Se envio script al Kernel.
+[TRACE] 20:19:08:404 Programa/(4911:4911): Kernel recibio envio de SCRIPT.
+[TRACE] 20:19:08:404 Programa/(4911:4911): El script fue recibido por el Kernel con exito.
+[INFO] 20:29:03:866 Programa/(5233:5233): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 20:29:03:866 Programa/(5233:5233): Nuevo Proceso con PID = [5233]
+[INFO] 20:29:03:866 Programa/(5233:5233): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:29:03:866 Programa/(5233:5233): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:29:03:866 Programa/(5233:5233): PUERTO_KERNEL = [5000]
+[DEBUG] 20:29:03:870 Programa/(5233:5233): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 20:29:03:872 Programa/(5233:5233): Respuesta Handshake, recibida.
+[INFO] 20:29:03:873 Programa/(5233:5233): Conexion a Kernel establecida.
+[TRACE] 20:29:03:873 Programa/(5233:5233): Enviando PID al Kernel.
+[TRACE] 20:29:03:917 Programa/(5233:5233): Kernel recibio envio de PID.
+[TRACE] 20:29:03:918 Programa/(5233:5233): Abriendo script para enviarlo al Kernel.
+[TRACE] 20:29:03:918 Programa/(5233:5233): Se envio script al Kernel.
+[TRACE] 20:29:03:0 Programa/(5233:5233): Kernel recibio envio de SCRIPT.
+[TRACE] 20:29:03:0 Programa/(5233:5233): El script fue recibido por el Kernel con exito.
+[TRACE] 20:42:48:345 Programa/(5233:5233): Kernel recibio envio de SCRIPT.
+[INFO] 20:42:51:513 Programa/(5599:5599): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 20:42:51:513 Programa/(5599:5599): Nuevo Proceso con PID = [5599]
+[INFO] 20:42:51:514 Programa/(5599:5599): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:42:51:514 Programa/(5599:5599): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:42:51:514 Programa/(5599:5599): PUERTO_KERNEL = [5000]
+[DEBUG] 20:42:51:514 Programa/(5599:5599): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 20:42:51:518 Programa/(5599:5599): Respuesta Handshake, recibida.
+[INFO] 20:42:51:519 Programa/(5599:5599): Conexion a Kernel establecida.
+[TRACE] 20:42:51:519 Programa/(5599:5599): Enviando PID al Kernel.
+[TRACE] 20:42:51:560 Programa/(5599:5599): Kernel recibio envio de PID.
+[TRACE] 20:42:51:560 Programa/(5599:5599): Abriendo script para enviarlo al Kernel.
+[TRACE] 20:42:51:561 Programa/(5599:5599): Se envio script al Kernel.
+[TRACE] 20:42:51:641 Programa/(5599:5599): Kernel recibio envio de SCRIPT.
+[TRACE] 20:42:51:641 Programa/(5599:5599): El script fue recibido por el Kernel con exito.
+[TRACE] 20:44:17:264 Programa/(5599:5599): Kernel recibio envio de SCRIPT.
+[INFO] 20:44:21:480 Programa/(5668:5668): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 20:44:21:481 Programa/(5668:5668): Nuevo Proceso con PID = [5668]
+[INFO] 20:44:21:481 Programa/(5668:5668): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:44:21:481 Programa/(5668:5668): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:44:21:481 Programa/(5668:5668): PUERTO_KERNEL = [5000]
+[DEBUG] 20:44:21:482 Programa/(5668:5668): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 20:44:21:484 Programa/(5668:5668): Respuesta Handshake, recibida.
+[INFO] 20:44:21:485 Programa/(5668:5668): Conexion a Kernel establecida.
+[TRACE] 20:44:21:485 Programa/(5668:5668): Enviando PID al Kernel.
+[TRACE] 20:44:21:524 Programa/(5668:5668): Kernel recibio envio de PID.
+[TRACE] 20:44:21:524 Programa/(5668:5668): Abriendo script para enviarlo al Kernel.
+[TRACE] 20:44:21:524 Programa/(5668:5668): Se envio script al Kernel.
+[TRACE] 20:44:21:604 Programa/(5668:5668): Kernel recibio envio de SCRIPT.
+[TRACE] 20:44:21:604 Programa/(5668:5668): El script fue recibido por el Kernel con exito.
+[TRACE] 20:44:46:751 Programa/(5668:5668): Kernel recibio envio de SCRIPT.
+[INFO] 20:46:10:818 Programa/(5723:5723): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 20:46:10:819 Programa/(5723:5723): Nuevo Proceso con PID = [5723]
+[INFO] 20:46:10:819 Programa/(5723:5723): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:46:10:819 Programa/(5723:5723): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:46:10:819 Programa/(5723:5723): PUERTO_KERNEL = [5000]
+[DEBUG] 20:46:10:820 Programa/(5723:5723): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 20:46:10:822 Programa/(5723:5723): Respuesta Handshake, recibida.
+[INFO] 20:46:10:836 Programa/(5723:5723): Conexion a Kernel establecida.
+[TRACE] 20:46:10:836 Programa/(5723:5723): Enviando PID al Kernel.
+[TRACE] 20:46:10:876 Programa/(5723:5723): Kernel recibio envio de PID.
+[TRACE] 20:46:10:876 Programa/(5723:5723): Abriendo script para enviarlo al Kernel.
+[TRACE] 20:46:10:876 Programa/(5723:5723): Se envio script al Kernel.
+[TRACE] 20:46:10:956 Programa/(5723:5723): Kernel recibio envio de SCRIPT.
+[TRACE] 20:46:10:956 Programa/(5723:5723): El script fue recibido por el Kernel con exito.
+[TRACE] 20:46:24:769 Programa/(5723:5723): Kernel recibio envio de SCRIPT.
+[INFO] 21:16:23:635 Programa/(5917:5917): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 21:16:23:636 Programa/(5917:5917): Nuevo Proceso con PID = [5917]
+[INFO] 21:16:23:637 Programa/(5917:5917): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:16:23:637 Programa/(5917:5917): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:16:23:637 Programa/(5917:5917): PUERTO_KERNEL = [5000]
+[DEBUG] 21:16:23:638 Programa/(5917:5917): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 21:16:23:641 Programa/(5917:5917): Respuesta Handshake, recibida.
+[INFO] 21:16:23:642 Programa/(5917:5917): Conexion a Kernel establecida.
+[TRACE] 21:16:23:642 Programa/(5917:5917): Enviando PID al Kernel.
+[TRACE] 21:16:23:684 Programa/(5917:5917): Kernel recibio envio de PID.
+[TRACE] 21:16:23:684 Programa/(5917:5917): Abriendo script para enviarlo al Kernel.
+[TRACE] 21:16:23:685 Programa/(5917:5917): Se envio script al Kernel.
+[TRACE] 21:16:23:768 Programa/(5917:5917): Kernel recibio envio de SCRIPT.
+[TRACE] 21:16:23:768 Programa/(5917:5917): El script fue recibido por el Kernel con exito.
+[TRACE] 21:16:34:164 Programa/(5917:5917): Kernel recibio envio de SCRIPT.
+[INFO] 21:18:16:41 Programa/(6016:6016): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 21:18:16:41 Programa/(6016:6016): Nuevo Proceso con PID = [6016]
+[INFO] 21:18:16:42 Programa/(6016:6016): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:18:16:42 Programa/(6016:6016): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:18:16:42 Programa/(6016:6016): PUERTO_KERNEL = [5000]
+[DEBUG] 21:18:16:43 Programa/(6016:6016): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 21:18:16:45 Programa/(6016:6016): Respuesta Handshake, recibida.
+[INFO] 21:18:16:47 Programa/(6016:6016): Conexion a Kernel establecida.
+[TRACE] 21:18:16:47 Programa/(6016:6016): Enviando PID al Kernel.
+[TRACE] 21:18:16:88 Programa/(6016:6016): Kernel recibio envio de PID.
+[TRACE] 21:18:16:88 Programa/(6016:6016): Abriendo script para enviarlo al Kernel.
+[TRACE] 21:18:16:89 Programa/(6016:6016): Se envio script al Kernel.
+[TRACE] 21:18:16:168 Programa/(6016:6016): Kernel recibio envio de SCRIPT.
+[TRACE] 21:18:16:168 Programa/(6016:6016): El script fue recibido por el Kernel con exito.
+[TRACE] 21:18:31:566 Programa/(6016:6016): Kernel recibio envio de SCRIPT.
+[INFO] 21:18:36:582 Programa/(6028:6028): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 21:18:36:582 Programa/(6028:6028): Nuevo Proceso con PID = [6028]
+[INFO] 21:18:36:583 Programa/(6028:6028): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:18:36:583 Programa/(6028:6028): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:18:36:591 Programa/(6028:6028): PUERTO_KERNEL = [5000]
+[DEBUG] 21:18:36:591 Programa/(6028:6028): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 21:18:36:593 Programa/(6028:6028): Respuesta Handshake, recibida.
+[INFO] 21:18:36:594 Programa/(6028:6028): Conexion a Kernel establecida.
+[TRACE] 21:18:36:594 Programa/(6028:6028): Enviando PID al Kernel.
+[TRACE] 21:18:36:636 Programa/(6028:6028): Kernel recibio envio de PID.
+[TRACE] 21:18:36:636 Programa/(6028:6028): Abriendo script para enviarlo al Kernel.
+[TRACE] 21:18:36:636 Programa/(6028:6028): Se envio script al Kernel.
+[TRACE] 21:18:36:716 Programa/(6028:6028): Kernel recibio envio de SCRIPT.
+[TRACE] 21:18:36:716 Programa/(6028:6028): El script fue recibido por el Kernel con exito.
+[TRACE] 21:22:47:481 Programa/(6028:6028): Kernel recibio envio de SCRIPT.
+[INFO] 21:23:26:105 Programa/(6078:6078): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 21:23:26:105 Programa/(6078:6078): Nuevo Proceso con PID = [6078]
+[INFO] 21:23:26:106 Programa/(6078:6078): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:23:26:106 Programa/(6078:6078): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:23:26:106 Programa/(6078:6078): PUERTO_KERNEL = [5000]
+[DEBUG] 21:23:26:107 Programa/(6078:6078): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 21:23:26:115 Programa/(6078:6078): Respuesta Handshake, recibida.
+[INFO] 21:23:26:118 Programa/(6078:6078): Conexion a Kernel establecida.
+[TRACE] 21:23:26:118 Programa/(6078:6078): Enviando PID al Kernel.
+[TRACE] 21:23:26:160 Programa/(6078:6078): Kernel recibio envio de PID.
+[TRACE] 21:23:26:160 Programa/(6078:6078): Abriendo script para enviarlo al Kernel.
+[TRACE] 21:23:26:160 Programa/(6078:6078): Se envio script al Kernel.
+[TRACE] 21:23:26:240 Programa/(6078:6078): Kernel recibio envio de SCRIPT.
+[TRACE] 21:23:26:240 Programa/(6078:6078): El script fue recibido por el Kernel con exito.
+[INFO] 21:23:48:435 Programa/(6116:6116): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 21:23:48:436 Programa/(6116:6116): Nuevo Proceso con PID = [6116]
+[INFO] 21:23:48:436 Programa/(6116:6116): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:23:48:436 Programa/(6116:6116): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:23:48:436 Programa/(6116:6116): PUERTO_KERNEL = [5000]
+[DEBUG] 21:23:48:437 Programa/(6116:6116): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 21:23:48:439 Programa/(6116:6116): Respuesta Handshake, recibida.
+[INFO] 21:23:48:441 Programa/(6116:6116): Conexion a Kernel establecida.
+[TRACE] 21:23:48:441 Programa/(6116:6116): Enviando PID al Kernel.
+[TRACE] 21:23:48:480 Programa/(6116:6116): Kernel recibio envio de PID.
+[TRACE] 21:23:48:480 Programa/(6116:6116): Abriendo script para enviarlo al Kernel.
+[TRACE] 21:23:48:480 Programa/(6116:6116): Se envio script al Kernel.
+[TRACE] 21:23:48:560 Programa/(6116:6116): Kernel recibio envio de SCRIPT.
+[TRACE] 21:23:48:560 Programa/(6116:6116): El script fue recibido por el Kernel con exito.
+[INFO] 21:34:57:458 Programa/(6246:6246): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 21:34:57:459 Programa/(6246:6246): Nuevo Proceso con PID = [6246]
+[INFO] 21:34:57:459 Programa/(6246:6246): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:34:57:459 Programa/(6246:6246): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:34:57:459 Programa/(6246:6246): PUERTO_KERNEL = [5000]
+[DEBUG] 21:34:57:460 Programa/(6246:6246): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 21:34:57:463 Programa/(6246:6246): Respuesta Handshake, recibida.
+[INFO] 21:34:57:464 Programa/(6246:6246): Conexion a Kernel establecida.
+[TRACE] 21:34:57:464 Programa/(6246:6246): Enviando PID al Kernel.
+[TRACE] 21:34:57:512 Programa/(6246:6246): Kernel recibio envio de PID.
+[TRACE] 21:34:57:512 Programa/(6246:6246): Abriendo script para enviarlo al Kernel.
+[TRACE] 21:34:57:513 Programa/(6246:6246): Se envio script al Kernel.
+[TRACE] 21:34:57:601 Programa/(6246:6246): Kernel recibio envio de SCRIPT.
+[TRACE] 21:34:57:602 Programa/(6246:6246): El script fue recibido por el Kernel con exito.
+[INFO] 21:37:27:724 Programa/(6330:6330): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 21:37:27:725 Programa/(6330:6330): Nuevo Proceso con PID = [6330]
+[INFO] 21:37:27:725 Programa/(6330:6330): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:37:27:728 Programa/(6330:6330): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:37:27:728 Programa/(6330:6330): PUERTO_KERNEL = [5000]
+[DEBUG] 21:37:27:728 Programa/(6330:6330): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 21:37:27:731 Programa/(6330:6330): Respuesta Handshake, recibida.
+[INFO] 21:37:27:732 Programa/(6330:6330): Conexion a Kernel establecida.
+[TRACE] 21:37:27:732 Programa/(6330:6330): Enviando PID al Kernel.
+[TRACE] 21:37:27:772 Programa/(6330:6330): Kernel recibio envio de PID.
+[TRACE] 21:37:27:772 Programa/(6330:6330): Abriendo script para enviarlo al Kernel.
+[TRACE] 21:37:27:772 Programa/(6330:6330): Se envio script al Kernel.
+[TRACE] 21:37:27:853 Programa/(6330:6330): Kernel recibio envio de SCRIPT.
+[TRACE] 21:37:27:854 Programa/(6330:6330): El script fue recibido por el Kernel con exito.
+[INFO] 21:46:15:135 Programa/(6528:6528): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 21:46:15:135 Programa/(6528:6528): Nuevo Proceso con PID = [6528]
+[INFO] 21:46:15:136 Programa/(6528:6528): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:46:15:136 Programa/(6528:6528): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:46:15:136 Programa/(6528:6528): PUERTO_KERNEL = [5000]
+[DEBUG] 21:46:15:137 Programa/(6528:6528): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 21:46:15:144 Programa/(6528:6528): Respuesta Handshake, recibida.
+[INFO] 21:46:15:145 Programa/(6528:6528): Conexion a Kernel establecida.
+[TRACE] 21:46:15:145 Programa/(6528:6528): Enviando PID al Kernel.
+[TRACE] 21:46:15:189 Programa/(6528:6528): Kernel recibio envio de PID.
+[TRACE] 21:46:15:189 Programa/(6528:6528): Abriendo script para enviarlo al Kernel.
+[TRACE] 21:46:15:189 Programa/(6528:6528): Se envio script al Kernel.
+[TRACE] 21:46:15:272 Programa/(6528:6528): Kernel recibio envio de SCRIPT.
+[TRACE] 21:46:15:272 Programa/(6528:6528): El script fue recibido por el Kernel con exito.
+[TRACE] 21:46:23:620 Programa/(6528:6528): Kernel recibio envio de SCRIPT.
+[INFO] 21:47:22:76 Programa/(6544:6544): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 21:47:22:76 Programa/(6544:6544): Nuevo Proceso con PID = [6544]
+[INFO] 21:47:22:77 Programa/(6544:6544): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:47:22:77 Programa/(6544:6544): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:47:22:77 Programa/(6544:6544): PUERTO_KERNEL = [5000]
+[DEBUG] 21:47:22:78 Programa/(6544:6544): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 21:47:22:80 Programa/(6544:6544): Respuesta Handshake, recibida.
+[INFO] 21:47:22:82 Programa/(6544:6544): Conexion a Kernel establecida.
+[TRACE] 21:47:22:82 Programa/(6544:6544): Enviando PID al Kernel.
+[TRACE] 21:47:22:124 Programa/(6544:6544): Kernel recibio envio de PID.
+[TRACE] 21:47:22:125 Programa/(6544:6544): Abriendo script para enviarlo al Kernel.
+[TRACE] 21:47:22:125 Programa/(6544:6544): Se envio script al Kernel.
+[TRACE] 21:47:22:204 Programa/(6544:6544): Kernel recibio envio de SCRIPT.
+[TRACE] 21:47:22:204 Programa/(6544:6544): El script fue recibido por el Kernel con exito.
+[TRACE] 21:48:08:646 Programa/(6544:6544): Kernel recibio envio de SCRIPT.
+[INFO] 21:50:40:396 Programa/(6669:6669): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 21:50:40:397 Programa/(6669:6669): Nuevo Proceso con PID = [6669]
+[INFO] 21:50:40:397 Programa/(6669:6669): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:50:40:397 Programa/(6669:6669): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:50:40:397 Programa/(6669:6669): PUERTO_KERNEL = [5000]
+[DEBUG] 21:50:40:398 Programa/(6669:6669): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 21:50:40:404 Programa/(6669:6669): Respuesta Handshake, recibida.
+[INFO] 21:50:40:405 Programa/(6669:6669): Conexion a Kernel establecida.
+[TRACE] 21:50:40:405 Programa/(6669:6669): Enviando PID al Kernel.
+[TRACE] 21:50:40:448 Programa/(6669:6669): Kernel recibio envio de PID.
+[TRACE] 21:50:40:448 Programa/(6669:6669): Abriendo script para enviarlo al Kernel.
+[TRACE] 21:50:40:449 Programa/(6669:6669): Se envio script al Kernel.
+[TRACE] 21:50:40:532 Programa/(6669:6669): Kernel recibio envio de SCRIPT.
+[TRACE] 21:50:40:532 Programa/(6669:6669): El script fue recibido por el Kernel con exito.
+[TRACE] 21:50:51:132 Programa/(6669:6669): Kernel recibio envio de SCRIPT.
+[INFO] 21:52:15:542 Programa/(6749:6749): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 21:52:15:543 Programa/(6749:6749): Nuevo Proceso con PID = [6749]
+[INFO] 21:52:15:543 Programa/(6749:6749): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:52:15:543 Programa/(6749:6749): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:52:15:543 Programa/(6749:6749): PUERTO_KERNEL = [5000]
+[DEBUG] 21:52:15:545 Programa/(6749:6749): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 21:52:15:551 Programa/(6749:6749): Respuesta Handshake, recibida.
+[INFO] 21:52:15:553 Programa/(6749:6749): Conexion a Kernel establecida.
+[TRACE] 21:52:15:553 Programa/(6749:6749): Enviando PID al Kernel.
+[TRACE] 21:52:15:592 Programa/(6749:6749): Kernel recibio envio de PID.
+[TRACE] 21:52:15:592 Programa/(6749:6749): Abriendo script para enviarlo al Kernel.
+[TRACE] 21:52:15:593 Programa/(6749:6749): Se envio script al Kernel.
+[TRACE] 21:52:15:672 Programa/(6749:6749): Kernel recibio envio de SCRIPT.
+[TRACE] 21:52:15:673 Programa/(6749:6749): El script fue recibido por el Kernel con exito.
+[INFO] 21:53:11:768 Programa/(6803:6803): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 21:53:11:769 Programa/(6803:6803): Nuevo Proceso con PID = [6803]
+[INFO] 21:53:11:769 Programa/(6803:6803): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:53:11:769 Programa/(6803:6803): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:53:11:769 Programa/(6803:6803): PUERTO_KERNEL = [5000]
+[DEBUG] 21:53:11:770 Programa/(6803:6803): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 21:53:11:773 Programa/(6803:6803): Respuesta Handshake, recibida.
+[INFO] 21:53:11:774 Programa/(6803:6803): Conexion a Kernel establecida.
+[TRACE] 21:53:11:774 Programa/(6803:6803): Enviando PID al Kernel.
+[TRACE] 21:53:11:817 Programa/(6803:6803): Kernel recibio envio de PID.
+[TRACE] 21:53:11:817 Programa/(6803:6803): Abriendo script para enviarlo al Kernel.
+[TRACE] 21:53:11:818 Programa/(6803:6803): Se envio script al Kernel.
+[TRACE] 21:53:11:896 Programa/(6803:6803): Kernel recibio envio de SCRIPT.
+[TRACE] 21:53:11:896 Programa/(6803:6803): El script fue recibido por el Kernel con exito.
+[INFO] 21:53:54:660 Programa/(6851:6851): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 21:53:54:661 Programa/(6851:6851): Nuevo Proceso con PID = [6851]
+[INFO] 21:53:54:661 Programa/(6851:6851): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:53:54:661 Programa/(6851:6851): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:53:54:661 Programa/(6851:6851): PUERTO_KERNEL = [5000]
+[DEBUG] 21:53:54:662 Programa/(6851:6851): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 21:53:54:665 Programa/(6851:6851): Respuesta Handshake, recibida.
+[INFO] 21:53:54:674 Programa/(6851:6851): Conexion a Kernel establecida.
+[TRACE] 21:53:54:674 Programa/(6851:6851): Enviando PID al Kernel.
+[TRACE] 21:53:54:716 Programa/(6851:6851): Kernel recibio envio de PID.
+[TRACE] 21:53:54:716 Programa/(6851:6851): Abriendo script para enviarlo al Kernel.
+[TRACE] 21:53:54:716 Programa/(6851:6851): Se envio script al Kernel.
+[TRACE] 21:53:54:796 Programa/(6851:6851): Kernel recibio envio de SCRIPT.
+[TRACE] 21:53:54:796 Programa/(6851:6851): El script fue recibido por el Kernel con exito.
+[INFO] 22:00:57:325 Programa/(7116:7116): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 22:00:57:325 Programa/(7116:7116): Nuevo Proceso con PID = [7116]
+[INFO] 22:00:57:326 Programa/(7116:7116): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:00:57:326 Programa/(7116:7116): IP_KERNEL = [10.0.2.15]
+[DEBUG] 22:00:57:326 Programa/(7116:7116): PUERTO_KERNEL = [5000]
+[DEBUG] 22:00:57:335 Programa/(7116:7116): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 22:00:57:338 Programa/(7116:7116): Respuesta Handshake, recibida.
+[INFO] 22:00:57:338 Programa/(7116:7116): Conexion a Kernel establecida.
+[TRACE] 22:00:57:338 Programa/(7116:7116): Enviando PID al Kernel.
+[TRACE] 22:00:57:380 Programa/(7116:7116): Kernel recibio envio de PID.
+[TRACE] 22:00:57:380 Programa/(7116:7116): Abriendo script para enviarlo al Kernel.
+[TRACE] 22:00:57:381 Programa/(7116:7116): Se envio script al Kernel.
+[TRACE] 22:00:57:460 Programa/(7116:7116): Kernel recibio envio de SCRIPT.
+[TRACE] 22:00:57:460 Programa/(7116:7116): El script fue recibido por el Kernel con exito.
+[INFO] 00:16:48:348 Programa/(7864:7864): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 00:16:48:348 Programa/(7864:7864): Nuevo Proceso con PID = [7864]
+[INFO] 00:16:48:348 Programa/(7864:7864): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 00:16:48:348 Programa/(7864:7864): IP_KERNEL = [10.0.2.15]
+[DEBUG] 00:16:48:348 Programa/(7864:7864): PUERTO_KERNEL = [5000]
+[DEBUG] 00:16:48:349 Programa/(7864:7864): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 00:16:48:353 Programa/(7864:7864): Respuesta Handshake, recibida.
+[INFO] 00:16:48:354 Programa/(7864:7864): Conexion a Kernel establecida.
+[TRACE] 00:16:48:354 Programa/(7864:7864): Enviando PID al Kernel.
+[TRACE] 00:16:48:397 Programa/(7864:7864): Kernel recibio envio de PID.
+[TRACE] 00:16:48:397 Programa/(7864:7864): Abriendo script para enviarlo al Kernel.
+[TRACE] 00:16:48:398 Programa/(7864:7864): Se envio script al Kernel.
+[TRACE] 00:16:48:476 Programa/(7864:7864): Kernel recibio envio de SCRIPT.
+[TRACE] 00:16:48:476 Programa/(7864:7864): El script fue recibido por el Kernel con exito.
+[TRACE] 00:16:55:10 Programa/(7864:7864): Kernel recibio envio de SCRIPT.
+[INFO] 01:16:23:831 Programa/(9052:9052): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 01:16:23:832 Programa/(9052:9052): Nuevo Proceso con PID = [9052]
+[INFO] 01:16:23:834 Programa/(9052:9052): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:16:23:834 Programa/(9052:9052): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:16:23:834 Programa/(9052:9052): PUERTO_KERNEL = [5000]
+[DEBUG] 01:16:23:835 Programa/(9052:9052): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 01:16:23:838 Programa/(9052:9052): Respuesta Handshake, recibida.
+[INFO] 01:16:23:840 Programa/(9052:9052): Conexion a Kernel establecida.
+[TRACE] 01:16:23:840 Programa/(9052:9052): Enviando PID al Kernel.
+[TRACE] 01:16:23:880 Programa/(9052:9052): Kernel recibio envio de PID.
+[TRACE] 01:16:23:880 Programa/(9052:9052): Abriendo script para enviarlo al Kernel.
+[TRACE] 01:16:23:881 Programa/(9052:9052): Se envio script al Kernel.
+[TRACE] 01:16:23:960 Programa/(9052:9052): Kernel recibio envio de SCRIPT.
+[TRACE] 01:16:23:960 Programa/(9052:9052): El script fue recibido por el Kernel con exito.
+[TRACE] 01:16:31:726 Programa/(9052:9052): Kernel recibio envio de SCRIPT.
+[INFO] 01:22:28:800 Programa/(9303:9303): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 01:22:28:801 Programa/(9303:9303): Nuevo Proceso con PID = [9303]
+[INFO] 01:22:28:802 Programa/(9303:9303): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:22:28:802 Programa/(9303:9303): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:22:28:802 Programa/(9303:9303): PUERTO_KERNEL = [5000]
+[DEBUG] 01:22:28:803 Programa/(9303:9303): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 01:22:28:806 Programa/(9303:9303): Respuesta Handshake, recibida.
+[INFO] 01:22:28:808 Programa/(9303:9303): Conexion a Kernel establecida.
+[TRACE] 01:22:28:808 Programa/(9303:9303): Enviando PID al Kernel.
+[TRACE] 01:22:28:853 Programa/(9303:9303): Kernel recibio envio de PID.
+[TRACE] 01:22:28:854 Programa/(9303:9303): Abriendo script para enviarlo al Kernel.
+[TRACE] 01:22:28:854 Programa/(9303:9303): Se envio script al Kernel.
+[TRACE] 01:22:28:937 Programa/(9303:9303): Kernel recibio envio de SCRIPT.
+[TRACE] 01:22:28:938 Programa/(9303:9303): El script fue recibido por el Kernel con exito.
+[TRACE] 01:22:35:830 Programa/(9303:9303): Kernel recibio envio de SCRIPT.
+[INFO] 01:25:14:18 Programa/(9357:9357): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 01:25:14:18 Programa/(9357:9357): Nuevo Proceso con PID = [9357]
+[INFO] 01:25:14:18 Programa/(9357:9357): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:25:14:18 Programa/(9357:9357): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:25:14:18 Programa/(9357:9357): PUERTO_KERNEL = [5000]
+[DEBUG] 01:25:14:19 Programa/(9357:9357): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[ERROR] 01:25:14:21 Programa/(9357:9357): Error on 'connect()' function.
+[ERROR] 01:25:14:22 Programa/(9357:9357): No se pudo conectar al Kernel. Programa abortado.
+[INFO] 01:26:10:898 Programa/(9402:9402): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 01:26:10:899 Programa/(9402:9402): Nuevo Proceso con PID = [9402]
+[INFO] 01:26:10:899 Programa/(9402:9402): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:26:10:899 Programa/(9402:9402): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:26:10:899 Programa/(9402:9402): PUERTO_KERNEL = [5000]
+[DEBUG] 01:26:10:900 Programa/(9402:9402): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 01:26:10:903 Programa/(9402:9402): Respuesta Handshake, recibida.
+[INFO] 01:26:10:905 Programa/(9402:9402): Conexion a Kernel establecida.
+[TRACE] 01:26:10:905 Programa/(9402:9402): Enviando PID al Kernel.
+[TRACE] 01:26:10:945 Programa/(9402:9402): Kernel recibio envio de PID.
+[TRACE] 01:26:10:945 Programa/(9402:9402): Abriendo script para enviarlo al Kernel.
+[TRACE] 01:26:10:946 Programa/(9402:9402): Se envio script al Kernel.
+[TRACE] 01:26:11:24 Programa/(9402:9402): Kernel recibio envio de SCRIPT.
+[TRACE] 01:26:11:24 Programa/(9402:9402): El script fue recibido por el Kernel con exito.
+[TRACE] 01:26:15:606 Programa/(9402:9402): Kernel recibio envio de SCRIPT.
+[INFO] 13:54:55:607 Programa/(2545:2545): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 13:54:55:636 Programa/(2545:2545): Nuevo Proceso con PID = [2545]
+[INFO] 13:54:55:638 Programa/(2545:2545): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 13:54:55:638 Programa/(2545:2545): IP_KERNEL = [10.0.2.15]
+[DEBUG] 13:54:55:639 Programa/(2545:2545): PUERTO_KERNEL = [5000]
+[DEBUG] 13:54:55:640 Programa/(2545:2545): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[ERROR] 13:54:55:649 Programa/(2545:2545): Error on 'connect()' function.
+[ERROR] 13:54:55:650 Programa/(2545:2545): No se pudo conectar al Kernel. Programa abortado.
+[INFO] 13:55:30:666 Programa/(2568:2568): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 13:55:30:667 Programa/(2568:2568): Nuevo Proceso con PID = [2568]
+[INFO] 13:55:30:668 Programa/(2568:2568): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 13:55:30:668 Programa/(2568:2568): IP_KERNEL = [10.0.2.15]
+[DEBUG] 13:55:30:668 Programa/(2568:2568): PUERTO_KERNEL = [5000]
+[DEBUG] 13:55:30:670 Programa/(2568:2568): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 13:55:30:673 Programa/(2568:2568): Respuesta Handshake, recibida.
+[INFO] 13:55:30:674 Programa/(2568:2568): Conexion a Kernel establecida.
+[TRACE] 13:55:30:674 Programa/(2568:2568): Enviando PID al Kernel.
+[TRACE] 13:55:30:716 Programa/(2568:2568): Kernel recibio envio de PID.
+[TRACE] 13:55:30:716 Programa/(2568:2568): Abriendo script para enviarlo al Kernel.
+[TRACE] 13:55:30:716 Programa/(2568:2568): Se envio script al Kernel.
+[TRACE] 13:55:30:794 Programa/(2568:2568): Kernel recibio envio de SCRIPT.
+[TRACE] 13:55:30:795 Programa/(2568:2568): El script fue recibido por el Kernel con exito.
+[TRACE] 13:55:40:279 Programa/(2568:2568): Kernel recibio envio de SCRIPT.
+[INFO] 14:01:41:601 Programa/(2679:2679): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 14:01:41:601 Programa/(2679:2679): Nuevo Proceso con PID = [2679]
+[INFO] 14:01:41:601 Programa/(2679:2679): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:01:41:601 Programa/(2679:2679): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:01:41:601 Programa/(2679:2679): PUERTO_KERNEL = [5000]
+[DEBUG] 14:01:41:602 Programa/(2679:2679): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 14:01:41:604 Programa/(2679:2679): Respuesta Handshake, recibida.
+[INFO] 14:01:41:609 Programa/(2679:2679): Conexion a Kernel establecida.
+[TRACE] 14:01:41:609 Programa/(2679:2679): Enviando PID al Kernel.
+[TRACE] 14:01:41:651 Programa/(2679:2679): Kernel recibio envio de PID.
+[TRACE] 14:01:41:654 Programa/(2679:2679): Abriendo script para enviarlo al Kernel.
+[TRACE] 14:01:41:657 Programa/(2679:2679): Se envio script al Kernel.
+[TRACE] 14:01:41:738 Programa/(2679:2679): Kernel recibio envio de SCRIPT.
+[TRACE] 14:01:41:739 Programa/(2679:2679): El script fue recibido por el Kernel con exito.
+[TRACE] 14:01:46:889 Programa/(2679:2679): Kernel recibio envio de SCRIPT.
+[INFO] 14:07:54:394 Programa/(2821:2821): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 14:07:54:395 Programa/(2821:2821): Nuevo Proceso con PID = [2821]
+[INFO] 14:07:54:395 Programa/(2821:2821): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:07:54:395 Programa/(2821:2821): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:07:54:395 Programa/(2821:2821): PUERTO_KERNEL = [5000]
+[DEBUG] 14:07:54:396 Programa/(2821:2821): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 14:07:54:399 Programa/(2821:2821): Respuesta Handshake, recibida.
+[INFO] 14:07:54:410 Programa/(2821:2821): Conexion a Kernel establecida.
+[TRACE] 14:07:54:410 Programa/(2821:2821): Enviando PID al Kernel.
+[TRACE] 14:07:54:451 Programa/(2821:2821): Kernel recibio envio de PID.
+[TRACE] 14:07:54:451 Programa/(2821:2821): Abriendo script para enviarlo al Kernel.
+[TRACE] 14:07:54:452 Programa/(2821:2821): Se envio script al Kernel.
+[TRACE] 14:07:54:532 Programa/(2821:2821): Kernel recibio envio de SCRIPT.
+[TRACE] 14:07:54:533 Programa/(2821:2821): El script fue recibido por el Kernel con exito.
+[TRACE] 14:08:02:156 Programa/(2821:2821): Kernel recibio envio de SCRIPT.
+[INFO] 14:13:09:618 Programa/(2951:2951): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 14:13:09:625 Programa/(2951:2951): Nuevo Proceso con PID = [2951]
+[INFO] 14:13:09:626 Programa/(2951:2951): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:13:09:626 Programa/(2951:2951): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:13:09:626 Programa/(2951:2951): PUERTO_KERNEL = [5000]
+[DEBUG] 14:13:09:626 Programa/(2951:2951): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 14:13:09:630 Programa/(2951:2951): Respuesta Handshake, recibida.
+[INFO] 14:13:09:630 Programa/(2951:2951): Conexion a Kernel establecida.
+[TRACE] 14:13:09:630 Programa/(2951:2951): Enviando PID al Kernel.
+[TRACE] 14:13:09:670 Programa/(2951:2951): Kernel recibio envio de PID.
+[TRACE] 14:13:09:670 Programa/(2951:2951): Abriendo script para enviarlo al Kernel.
+[TRACE] 14:13:09:671 Programa/(2951:2951): Se envio script al Kernel.
+[TRACE] 14:13:09:750 Programa/(2951:2951): Kernel recibio envio de SCRIPT.
+[TRACE] 14:13:09:750 Programa/(2951:2951): El script fue recibido por el Kernel con exito.
+[TRACE] 14:13:15:556 Programa/(2951:2951): Kernel recibio envio de SCRIPT.
+[INFO] 14:16:49:754 Programa/(3083:3083): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 14:16:49:754 Programa/(3083:3083): Nuevo Proceso con PID = [3083]
+[INFO] 14:16:49:755 Programa/(3083:3083): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:16:49:755 Programa/(3083:3083): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:16:49:755 Programa/(3083:3083): PUERTO_KERNEL = [5000]
+[DEBUG] 14:16:49:755 Programa/(3083:3083): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 14:16:49:758 Programa/(3083:3083): Respuesta Handshake, recibida.
+[INFO] 14:16:49:759 Programa/(3083:3083): Conexion a Kernel establecida.
+[TRACE] 14:16:49:759 Programa/(3083:3083): Enviando PID al Kernel.
+[TRACE] 14:16:49:801 Programa/(3083:3083): Kernel recibio envio de PID.
+[TRACE] 14:16:49:805 Programa/(3083:3083): Abriendo script para enviarlo al Kernel.
+[TRACE] 14:16:49:812 Programa/(3083:3083): Se envio script al Kernel.
+[TRACE] 14:16:49:886 Programa/(3083:3083): Kernel recibio envio de SCRIPT.
+[TRACE] 14:16:49:886 Programa/(3083:3083): El script fue recibido por el Kernel con exito.
+[TRACE] 14:16:54:489 Programa/(3083:3083): Kernel recibio envio de SCRIPT.
+[INFO] 14:25:12:944 Programa/(3151:3151): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 14:25:12:944 Programa/(3151:3151): Nuevo Proceso con PID = [3151]
+[INFO] 14:25:12:945 Programa/(3151:3151): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:25:12:945 Programa/(3151:3151): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:25:12:945 Programa/(3151:3151): PUERTO_KERNEL = [5000]
+[DEBUG] 14:25:12:946 Programa/(3151:3151): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 14:25:12:949 Programa/(3151:3151): Respuesta Handshake, recibida.
+[INFO] 14:25:12:950 Programa/(3151:3151): Conexion a Kernel establecida.
+[TRACE] 14:25:12:950 Programa/(3151:3151): Enviando PID al Kernel.
+[TRACE] 14:25:12:992 Programa/(3151:3151): Kernel recibio envio de PID.
+[TRACE] 14:25:12:993 Programa/(3151:3151): Abriendo script para enviarlo al Kernel.
+[TRACE] 14:25:12:0 Programa/(3151:3151): Se envio script al Kernel.
+[TRACE] 14:25:13:82 Programa/(3151:3151): Kernel recibio envio de SCRIPT.
+[TRACE] 14:25:13:82 Programa/(3151:3151): El script fue recibido por el Kernel con exito.
+[INFO] 14:27:16:227 Programa/(3221:3221): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 14:27:16:228 Programa/(3221:3221): Nuevo Proceso con PID = [3221]
+[INFO] 14:27:16:228 Programa/(3221:3221): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:27:16:228 Programa/(3221:3221): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:27:16:228 Programa/(3221:3221): PUERTO_KERNEL = [5000]
+[DEBUG] 14:27:16:229 Programa/(3221:3221): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 14:27:16:232 Programa/(3221:3221): Respuesta Handshake, recibida.
+[INFO] 14:27:16:233 Programa/(3221:3221): Conexion a Kernel establecida.
+[TRACE] 14:27:16:233 Programa/(3221:3221): Enviando PID al Kernel.
+[TRACE] 14:27:16:276 Programa/(3221:3221): Kernel recibio envio de PID.
+[TRACE] 14:27:16:277 Programa/(3221:3221): Abriendo script para enviarlo al Kernel.
+[TRACE] 14:27:16:286 Programa/(3221:3221): Se envio script al Kernel.
+[TRACE] 14:27:16:362 Programa/(3221:3221): Kernel recibio envio de SCRIPT.
+[TRACE] 14:27:16:362 Programa/(3221:3221): El script fue recibido por el Kernel con exito.
+[TRACE] 14:27:22:764 Programa/(3221:3221): Kernel recibio envio de SCRIPT.
+[INFO] 14:38:54:853 Programa/(3437:3437): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 14:38:54:854 Programa/(3437:3437): Nuevo Proceso con PID = [3437]
+[INFO] 14:38:54:854 Programa/(3437:3437): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:38:54:854 Programa/(3437:3437): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:38:54:854 Programa/(3437:3437): PUERTO_KERNEL = [5000]
+[DEBUG] 14:38:54:855 Programa/(3437:3437): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 14:38:54:862 Programa/(3437:3437): Respuesta Handshake, recibida.
+[INFO] 14:38:54:863 Programa/(3437:3437): Conexion a Kernel establecida.
+[TRACE] 14:38:54:863 Programa/(3437:3437): Enviando PID al Kernel.
+[TRACE] 14:38:54:905 Programa/(3437:3437): Kernel recibio envio de PID.
+[TRACE] 14:38:54:906 Programa/(3437:3437): Abriendo script para enviarlo al Kernel.
+[TRACE] 14:38:54:907 Programa/(3437:3437): Se envio script al Kernel.
+[TRACE] 14:38:54:992 Programa/(3437:3437): Kernel recibio envio de SCRIPT.
+[TRACE] 14:38:54:992 Programa/(3437:3437): El script fue recibido por el Kernel con exito.
+[TRACE] 14:41:45:488 Programa/(3437:3437): Kernel recibio envio de SCRIPT.
+[INFO] 14:41:51:305 Programa/(3532:3532): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 14:41:51:306 Programa/(3532:3532): Nuevo Proceso con PID = [3532]
+[INFO] 14:41:51:306 Programa/(3532:3532): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:41:51:306 Programa/(3532:3532): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:41:51:306 Programa/(3532:3532): PUERTO_KERNEL = [5000]
+[DEBUG] 14:41:51:307 Programa/(3532:3532): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 14:41:51:309 Programa/(3532:3532): Respuesta Handshake, recibida.
+[INFO] 14:41:51:311 Programa/(3532:3532): Conexion a Kernel establecida.
+[TRACE] 14:41:51:311 Programa/(3532:3532): Enviando PID al Kernel.
+[TRACE] 14:41:51:352 Programa/(3532:3532): Kernel recibio envio de PID.
+[TRACE] 14:41:51:357 Programa/(3532:3532): Abriendo script para enviarlo al Kernel.
+[TRACE] 14:41:51:362 Programa/(3532:3532): Se envio script al Kernel.
+[TRACE] 14:41:51:444 Programa/(3532:3532): Kernel recibio envio de SCRIPT.
+[TRACE] 14:41:51:445 Programa/(3532:3532): El script fue recibido por el Kernel con exito.
+[INFO] 14:45:14:160 Programa/(3575:3575): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 14:45:14:165 Programa/(3575:3575): Nuevo Proceso con PID = [3575]
+[INFO] 14:45:14:166 Programa/(3575:3575): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:45:14:166 Programa/(3575:3575): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:45:14:166 Programa/(3575:3575): PUERTO_KERNEL = [5000]
+[DEBUG] 14:45:14:167 Programa/(3575:3575): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 14:45:14:169 Programa/(3575:3575): Respuesta Handshake, recibida.
+[INFO] 14:45:14:171 Programa/(3575:3575): Conexion a Kernel establecida.
+[TRACE] 14:45:14:171 Programa/(3575:3575): Enviando PID al Kernel.
+[TRACE] 14:45:14:212 Programa/(3575:3575): Kernel recibio envio de PID.
+[TRACE] 14:45:14:213 Programa/(3575:3575): Abriendo script para enviarlo al Kernel.
+[TRACE] 14:45:14:215 Programa/(3575:3575): Se envio script al Kernel.
+[TRACE] 14:45:14:299 Programa/(3575:3575): Kernel recibio envio de SCRIPT.
+[TRACE] 14:45:14:299 Programa/(3575:3575): El script fue recibido por el Kernel con exito.
+[TRACE] 14:45:45:992 Programa/(3575:3575): Kernel recibio envio de SCRIPT.
+[INFO] 14:46:08:231 Programa/(3588:3588): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 14:46:08:235 Programa/(3588:3588): Nuevo Proceso con PID = [3588]
+[INFO] 14:46:08:236 Programa/(3588:3588): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:46:08:236 Programa/(3588:3588): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:46:08:236 Programa/(3588:3588): PUERTO_KERNEL = [5000]
+[DEBUG] 14:46:08:237 Programa/(3588:3588): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 14:46:08:240 Programa/(3588:3588): Respuesta Handshake, recibida.
+[INFO] 14:46:08:241 Programa/(3588:3588): Conexion a Kernel establecida.
+[TRACE] 14:46:08:241 Programa/(3588:3588): Enviando PID al Kernel.
+[TRACE] 14:46:08:284 Programa/(3588:3588): Kernel recibio envio de PID.
+[TRACE] 14:46:08:285 Programa/(3588:3588): Abriendo script para enviarlo al Kernel.
+[TRACE] 14:46:08:287 Programa/(3588:3588): Se envio script al Kernel.
+[TRACE] 14:46:08:372 Programa/(3588:3588): Kernel recibio envio de SCRIPT.
+[TRACE] 14:46:08:372 Programa/(3588:3588): El script fue recibido por el Kernel con exito.
+[TRACE] 14:46:36:999 Programa/(3588:3588): Kernel recibio envio de SCRIPT.
+[INFO] 14:49:17:672 Programa/(3629:3629): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 14:49:17:679 Programa/(3629:3629): Nuevo Proceso con PID = [3629]
+[INFO] 14:49:17:679 Programa/(3629:3629): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:49:17:679 Programa/(3629:3629): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:49:17:679 Programa/(3629:3629): PUERTO_KERNEL = [5000]
+[DEBUG] 14:49:17:679 Programa/(3629:3629): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 14:49:17:686 Programa/(3629:3629): Respuesta Handshake, recibida.
+[INFO] 14:49:17:687 Programa/(3629:3629): Conexion a Kernel establecida.
+[TRACE] 14:49:17:687 Programa/(3629:3629): Enviando PID al Kernel.
+[TRACE] 14:49:17:730 Programa/(3629:3629): Kernel recibio envio de PID.
+[TRACE] 14:49:17:731 Programa/(3629:3629): Abriendo script para enviarlo al Kernel.
+[TRACE] 14:49:17:731 Programa/(3629:3629): Se envio script al Kernel.
+[TRACE] 14:49:17:821 Programa/(3629:3629): Kernel recibio envio de SCRIPT.
+[TRACE] 14:49:17:822 Programa/(3629:3629): El script fue recibido por el Kernel con exito.
+[TRACE] 14:49:42:656 Programa/(3629:3629): Kernel recibio envio de SCRIPT.
+[INFO] 14:49:49:900 Programa/(3641:3641): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 14:49:49:901 Programa/(3641:3641): Nuevo Proceso con PID = [3641]
+[INFO] 14:49:49:901 Programa/(3641:3641): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:49:49:901 Programa/(3641:3641): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:49:49:901 Programa/(3641:3641): PUERTO_KERNEL = [5000]
+[DEBUG] 14:49:49:902 Programa/(3641:3641): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 14:49:49:912 Programa/(3641:3641): Respuesta Handshake, recibida.
+[INFO] 14:49:49:917 Programa/(3641:3641): Conexion a Kernel establecida.
+[TRACE] 14:49:49:917 Programa/(3641:3641): Enviando PID al Kernel.
+[TRACE] 14:49:49:978 Programa/(3641:3641): Kernel recibio envio de PID.
+[TRACE] 14:49:49:979 Programa/(3641:3641): Abriendo script para enviarlo al Kernel.
+[TRACE] 14:49:49:979 Programa/(3641:3641): Se envio script al Kernel.
+[TRACE] 14:49:50:62 Programa/(3641:3641): Kernel recibio envio de SCRIPT.
+[TRACE] 14:49:50:63 Programa/(3641:3641): El script fue recibido por el Kernel con exito.
+[INFO] 14:51:20:456 Programa/(3682:3682): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 14:51:20:457 Programa/(3682:3682): Nuevo Proceso con PID = [3682]
+[INFO] 14:51:20:458 Programa/(3682:3682): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:51:20:458 Programa/(3682:3682): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:51:20:458 Programa/(3682:3682): PUERTO_KERNEL = [5000]
+[DEBUG] 14:51:20:459 Programa/(3682:3682): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 14:51:20:467 Programa/(3682:3682): Respuesta Handshake, recibida.
+[INFO] 14:51:20:470 Programa/(3682:3682): Conexion a Kernel establecida.
+[TRACE] 14:51:20:470 Programa/(3682:3682): Enviando PID al Kernel.
+[TRACE] 14:51:20:510 Programa/(3682:3682): Kernel recibio envio de PID.
+[TRACE] 14:51:20:510 Programa/(3682:3682): Abriendo script para enviarlo al Kernel.
+[TRACE] 14:51:20:511 Programa/(3682:3682): Se envio script al Kernel.
+[TRACE] 14:51:20:590 Programa/(3682:3682): Kernel recibio envio de SCRIPT.
+[TRACE] 14:51:20:590 Programa/(3682:3682): El script fue recibido por el Kernel con exito.
+[INFO] 14:51:32:641 Programa/(3691:3691): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 14:51:32:641 Programa/(3691:3691): Nuevo Proceso con PID = [3691]
+[INFO] 14:51:32:642 Programa/(3691:3691): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:51:32:642 Programa/(3691:3691): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:51:32:642 Programa/(3691:3691): PUERTO_KERNEL = [5000]
+[DEBUG] 14:51:32:642 Programa/(3691:3691): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 14:51:32:645 Programa/(3691:3691): Respuesta Handshake, recibida.
+[INFO] 14:51:32:652 Programa/(3691:3691): Conexion a Kernel establecida.
+[TRACE] 14:51:32:652 Programa/(3691:3691): Enviando PID al Kernel.
+[TRACE] 14:51:32:697 Programa/(3691:3691): Kernel recibio envio de PID.
+[TRACE] 14:51:32:698 Programa/(3691:3691): Abriendo script para enviarlo al Kernel.
+[TRACE] 14:51:32:699 Programa/(3691:3691): Se envio script al Kernel.
+[TRACE] 14:51:32:785 Programa/(3691:3691): Kernel recibio envio de SCRIPT.
+[TRACE] 14:51:32:785 Programa/(3691:3691): El script fue recibido por el Kernel con exito.
+[TRACE] 14:51:48:319 Programa/(3691:3691): Kernel recibio envio de SCRIPT.
+[INFO] 14:54:29:289 Programa/(3762:3762): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 14:54:29:546 Programa/(3762:3762): Nuevo Proceso con PID = [3762]
+[INFO] 14:54:29:547 Programa/(3762:3762): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:54:29:547 Programa/(3762:3762): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:54:29:547 Programa/(3762:3762): PUERTO_KERNEL = [5000]
+[DEBUG] 14:54:29:550 Programa/(3762:3762): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 14:54:29:553 Programa/(3762:3762): Respuesta Handshake, recibida.
+[INFO] 14:54:29:555 Programa/(3762:3762): Conexion a Kernel establecida.
+[TRACE] 14:54:29:555 Programa/(3762:3762): Enviando PID al Kernel.
+[TRACE] 14:54:29:595 Programa/(3762:3762): Kernel recibio envio de PID.
+[TRACE] 14:54:29:595 Programa/(3762:3762): Abriendo script para enviarlo al Kernel.
+[TRACE] 14:54:29:595 Programa/(3762:3762): Se envio script al Kernel.
+[TRACE] 14:54:29:677 Programa/(3762:3762): Kernel recibio envio de SCRIPT.
+[TRACE] 14:54:29:690 Programa/(3762:3762): El script fue recibido por el Kernel con exito.
+[TRACE] 14:54:36:492 Programa/(3762:3762): Kernel recibio envio de SCRIPT.
+[INFO] 14:55:27:19 Programa/(3792:3792): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 14:55:27:20 Programa/(3792:3792): Nuevo Proceso con PID = [3792]
+[INFO] 14:55:27:21 Programa/(3792:3792): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:55:27:22 Programa/(3792:3792): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:55:27:22 Programa/(3792:3792): PUERTO_KERNEL = [5000]
+[DEBUG] 14:55:27:23 Programa/(3792:3792): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 14:55:27:28 Programa/(3792:3792): Respuesta Handshake, recibida.
+[INFO] 14:55:27:29 Programa/(3792:3792): Conexion a Kernel establecida.
+[TRACE] 14:55:27:29 Programa/(3792:3792): Enviando PID al Kernel.
+[TRACE] 14:55:27:71 Programa/(3792:3792): Kernel recibio envio de PID.
+[TRACE] 14:55:27:71 Programa/(3792:3792): Abriendo script para enviarlo al Kernel.
+[TRACE] 14:55:27:73 Programa/(3792:3792): Se envio script al Kernel.
+[TRACE] 14:55:27:154 Programa/(3792:3792): Kernel recibio envio de SCRIPT.
+[TRACE] 14:55:27:154 Programa/(3792:3792): El script fue recibido por el Kernel con exito.
+[TRACE] 14:55:32:653 Programa/(3792:3792): Kernel recibio envio de SCRIPT.
+[INFO] 14:55:50:103 Programa/(3833:3833): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 14:55:50:110 Programa/(3833:3833): Nuevo Proceso con PID = [3833]
+[INFO] 14:55:50:110 Programa/(3833:3833): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:55:50:110 Programa/(3833:3833): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:55:50:110 Programa/(3833:3833): PUERTO_KERNEL = [5000]
+[DEBUG] 14:55:50:111 Programa/(3833:3833): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 14:55:50:121 Programa/(3833:3833): Respuesta Handshake, recibida.
+[INFO] 14:55:50:122 Programa/(3833:3833): Conexion a Kernel establecida.
+[TRACE] 14:55:50:122 Programa/(3833:3833): Enviando PID al Kernel.
+[TRACE] 14:55:50:163 Programa/(3833:3833): Kernel recibio envio de PID.
+[TRACE] 14:55:50:163 Programa/(3833:3833): Abriendo script para enviarlo al Kernel.
+[TRACE] 14:55:50:164 Programa/(3833:3833): Se envio script al Kernel.
+[TRACE] 14:55:50:242 Programa/(3833:3833): Kernel recibio envio de SCRIPT.
+[TRACE] 14:55:50:242 Programa/(3833:3833): El script fue recibido por el Kernel con exito.
+[TRACE] 14:55:58:756 Programa/(3833:3833): Kernel recibio envio de SCRIPT.
+[INFO] 14:57:07:585 Programa/(3881:3881): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 14:57:07:585 Programa/(3881:3881): Nuevo Proceso con PID = [3881]
+[INFO] 14:57:07:586 Programa/(3881:3881): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:57:07:586 Programa/(3881:3881): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:57:07:586 Programa/(3881:3881): PUERTO_KERNEL = [5000]
+[DEBUG] 14:57:07:587 Programa/(3881:3881): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 14:57:07:590 Programa/(3881:3881): Respuesta Handshake, recibida.
+[INFO] 14:57:07:591 Programa/(3881:3881): Conexion a Kernel establecida.
+[TRACE] 14:57:07:592 Programa/(3881:3881): Enviando PID al Kernel.
+[TRACE] 14:57:07:635 Programa/(3881:3881): Kernel recibio envio de PID.
+[TRACE] 14:57:07:636 Programa/(3881:3881): Abriendo script para enviarlo al Kernel.
+[TRACE] 14:57:07:636 Programa/(3881:3881): Se envio script al Kernel.
+[TRACE] 14:57:07:720 Programa/(3881:3881): Kernel recibio envio de SCRIPT.
+[TRACE] 14:57:07:720 Programa/(3881:3881): El script fue recibido por el Kernel con exito.
+[TRACE] 14:57:15:34 Programa/(3881:3881): Kernel recibio envio de SCRIPT.
+[INFO] 14:58:07:134 Programa/(3932:3932): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 14:58:07:134 Programa/(3932:3932): Nuevo Proceso con PID = [3932]
+[INFO] 14:58:07:135 Programa/(3932:3932): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:58:07:135 Programa/(3932:3932): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:58:07:135 Programa/(3932:3932): PUERTO_KERNEL = [5000]
+[DEBUG] 14:58:07:140 Programa/(3932:3932): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 14:58:07:143 Programa/(3932:3932): Respuesta Handshake, recibida.
+[INFO] 14:58:07:144 Programa/(3932:3932): Conexion a Kernel establecida.
+[TRACE] 14:58:07:144 Programa/(3932:3932): Enviando PID al Kernel.
+[TRACE] 14:58:07:189 Programa/(3932:3932): Kernel recibio envio de PID.
+[TRACE] 14:58:07:191 Programa/(3932:3932): Abriendo script para enviarlo al Kernel.
+[TRACE] 14:58:07:195 Programa/(3932:3932): Se envio script al Kernel.
+[TRACE] 14:58:07:277 Programa/(3932:3932): Kernel recibio envio de SCRIPT.
+[TRACE] 14:58:07:277 Programa/(3932:3932): El script fue recibido por el Kernel con exito.
+[TRACE] 14:58:33:753 Programa/(3932:3932): Kernel recibio envio de SCRIPT.
+[INFO] 16:45:10:429 Programa/(4146:4146): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 16:45:10:434 Programa/(4146:4146): Nuevo Proceso con PID = [4146]
+[INFO] 16:45:10:435 Programa/(4146:4146): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 16:45:10:435 Programa/(4146:4146): IP_KERNEL = [10.0.2.15]
+[DEBUG] 16:45:10:435 Programa/(4146:4146): PUERTO_KERNEL = [5000]
+[DEBUG] 16:45:10:436 Programa/(4146:4146): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 16:45:10:438 Programa/(4146:4146): Respuesta Handshake, recibida.
+[INFO] 16:45:10:439 Programa/(4146:4146): Conexion a Kernel establecida.
+[TRACE] 16:45:10:439 Programa/(4146:4146): Enviando PID al Kernel.
+[TRACE] 16:45:10:481 Programa/(4146:4146): Kernel recibio envio de PID.
+[TRACE] 16:45:10:487 Programa/(4146:4146): Abriendo script para enviarlo al Kernel.
+[TRACE] 16:45:10:490 Programa/(4146:4146): Se envio script al Kernel.
+[TRACE] 16:45:10:574 Programa/(4146:4146): Kernel recibio envio de SCRIPT.
+[TRACE] 16:45:10:574 Programa/(4146:4146): El script fue recibido por el Kernel con exito.
+[INFO] 16:45:52:363 Programa/(4181:4181): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 16:45:52:363 Programa/(4181:4181): Nuevo Proceso con PID = [4181]
+[INFO] 16:45:52:363 Programa/(4181:4181): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 16:45:52:364 Programa/(4181:4181): IP_KERNEL = [10.0.2.15]
+[DEBUG] 16:45:52:364 Programa/(4181:4181): PUERTO_KERNEL = [5000]
+[DEBUG] 16:45:52:364 Programa/(4181:4181): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 16:45:52:367 Programa/(4181:4181): Respuesta Handshake, recibida.
+[INFO] 16:45:52:369 Programa/(4181:4181): Conexion a Kernel establecida.
+[TRACE] 16:45:52:369 Programa/(4181:4181): Enviando PID al Kernel.
+[TRACE] 16:45:52:412 Programa/(4181:4181): Kernel recibio envio de PID.
+[TRACE] 16:45:52:415 Programa/(4181:4181): Abriendo script para enviarlo al Kernel.
+[TRACE] 16:45:52:416 Programa/(4181:4181): Se envio script al Kernel.
+[TRACE] 16:45:52:494 Programa/(4181:4181): Kernel recibio envio de SCRIPT.
+[TRACE] 16:45:52:494 Programa/(4181:4181): El script fue recibido por el Kernel con exito.
+[INFO] 16:46:54:917 Programa/(4196:4196): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 16:46:54:918 Programa/(4196:4196): Nuevo Proceso con PID = [4196]
+[INFO] 16:46:54:918 Programa/(4196:4196): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 16:46:54:918 Programa/(4196:4196): IP_KERNEL = [10.0.2.15]
+[DEBUG] 16:46:54:918 Programa/(4196:4196): PUERTO_KERNEL = [5000]
+[DEBUG] 16:46:54:924 Programa/(4196:4196): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 16:46:54:927 Programa/(4196:4196): Respuesta Handshake, recibida.
+[INFO] 16:46:54:930 Programa/(4196:4196): Conexion a Kernel establecida.
+[TRACE] 16:46:54:930 Programa/(4196:4196): Enviando PID al Kernel.
+[TRACE] 16:46:54:974 Programa/(4196:4196): Kernel recibio envio de PID.
+[TRACE] 16:46:54:974 Programa/(4196:4196): Abriendo script para enviarlo al Kernel.
+[TRACE] 16:46:54:975 Programa/(4196:4196): Se envio script al Kernel.
+[TRACE] 16:46:55:56 Programa/(4196:4196): Kernel recibio envio de SCRIPT.
+[TRACE] 16:46:55:57 Programa/(4196:4196): El script fue recibido por el Kernel con exito.
+[TRACE] 16:46:57:75 Programa/(4196:4196): Kernel recibio envio de SCRIPT.
+[INFO] 16:47:29:909 Programa/(4208:4208): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 16:47:29:910 Programa/(4208:4208): Nuevo Proceso con PID = [4208]
+[INFO] 16:47:29:910 Programa/(4208:4208): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 16:47:29:910 Programa/(4208:4208): IP_KERNEL = [10.0.2.15]
+[DEBUG] 16:47:29:910 Programa/(4208:4208): PUERTO_KERNEL = [5000]
+[DEBUG] 16:47:29:911 Programa/(4208:4208): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 16:47:29:913 Programa/(4208:4208): Respuesta Handshake, recibida.
+[INFO] 16:47:29:920 Programa/(4208:4208): Conexion a Kernel establecida.
+[TRACE] 16:47:29:920 Programa/(4208:4208): Enviando PID al Kernel.
+[TRACE] 16:47:29:969 Programa/(4208:4208): Kernel recibio envio de PID.
+[TRACE] 16:47:29:974 Programa/(4208:4208): Abriendo script para enviarlo al Kernel.
+[TRACE] 16:47:29:976 Programa/(4208:4208): Se envio script al Kernel.
+[TRACE] 16:47:30:54 Programa/(4208:4208): Kernel recibio envio de SCRIPT.
+[TRACE] 16:47:30:54 Programa/(4208:4208): El script fue recibido por el Kernel con exito.
+[TRACE] 16:47:40:333 Programa/(4208:4208): Kernel recibio envio de SCRIPT.
+[INFO] 16:53:07:43 Programa/(4338:4338): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 16:53:07:47 Programa/(4338:4338): Nuevo Proceso con PID = [4338]
+[INFO] 16:53:07:48 Programa/(4338:4338): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 16:53:07:48 Programa/(4338:4338): IP_KERNEL = [10.0.2.15]
+[DEBUG] 16:53:07:48 Programa/(4338:4338): PUERTO_KERNEL = [5000]
+[DEBUG] 16:53:07:48 Programa/(4338:4338): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 16:53:07:51 Programa/(4338:4338): Respuesta Handshake, recibida.
+[INFO] 16:53:07:52 Programa/(4338:4338): Conexion a Kernel establecida.
+[TRACE] 16:53:07:52 Programa/(4338:4338): Enviando PID al Kernel.
+[TRACE] 16:53:07:98 Programa/(4338:4338): Kernel recibio envio de PID.
+[TRACE] 16:53:07:102 Programa/(4338:4338): Abriendo script para enviarlo al Kernel.
+[TRACE] 16:53:07:107 Programa/(4338:4338): Se envio script al Kernel.
+[TRACE] 16:53:07:182 Programa/(4338:4338): Kernel recibio envio de SCRIPT.
+[TRACE] 16:53:07:182 Programa/(4338:4338): El script fue recibido por el Kernel con exito.
+[INFO] 16:53:34:775 Programa/(4352:4352): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 16:53:34:780 Programa/(4352:4352): Nuevo Proceso con PID = [4352]
+[INFO] 16:53:34:781 Programa/(4352:4352): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 16:53:34:781 Programa/(4352:4352): IP_KERNEL = [10.0.2.15]
+[DEBUG] 16:53:34:781 Programa/(4352:4352): PUERTO_KERNEL = [5000]
+[DEBUG] 16:53:34:782 Programa/(4352:4352): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 16:53:34:786 Programa/(4352:4352): Respuesta Handshake, recibida.
+[INFO] 16:53:34:788 Programa/(4352:4352): Conexion a Kernel establecida.
+[TRACE] 16:53:34:788 Programa/(4352:4352): Enviando PID al Kernel.
+[TRACE] 16:53:34:830 Programa/(4352:4352): Kernel recibio envio de PID.
+[TRACE] 16:53:34:830 Programa/(4352:4352): Abriendo script para enviarlo al Kernel.
+[TRACE] 16:53:34:831 Programa/(4352:4352): Se envio script al Kernel.
+[TRACE] 16:53:34:915 Programa/(4352:4352): Kernel recibio envio de SCRIPT.
+[TRACE] 16:53:34:915 Programa/(4352:4352): El script fue recibido por el Kernel con exito.
+[TRACE] 16:53:39:512 Programa/(4352:4352): Kernel recibio envio de SCRIPT.
+[INFO] 16:55:09:622 Programa/(4394:4394): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 16:55:09:623 Programa/(4394:4394): Nuevo Proceso con PID = [4394]
+[INFO] 16:55:09:623 Programa/(4394:4394): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 16:55:09:623 Programa/(4394:4394): IP_KERNEL = [10.0.2.15]
+[DEBUG] 16:55:09:623 Programa/(4394:4394): PUERTO_KERNEL = [5000]
+[DEBUG] 16:55:09:633 Programa/(4394:4394): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 16:55:09:636 Programa/(4394:4394): Respuesta Handshake, recibida.
+[INFO] 16:55:09:636 Programa/(4394:4394): Conexion a Kernel establecida.
+[TRACE] 16:55:09:636 Programa/(4394:4394): Enviando PID al Kernel.
+[TRACE] 16:55:09:680 Programa/(4394:4394): Kernel recibio envio de PID.
+[TRACE] 16:55:09:680 Programa/(4394:4394): Abriendo script para enviarlo al Kernel.
+[TRACE] 16:55:09:681 Programa/(4394:4394): Se envio script al Kernel.
+[TRACE] 16:55:09:759 Programa/(4394:4394): Kernel recibio envio de SCRIPT.
+[TRACE] 16:55:09:760 Programa/(4394:4394): El script fue recibido por el Kernel con exito.
+[INFO] 16:57:11:290 Programa/(4460:4460): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 16:57:11:291 Programa/(4460:4460): Nuevo Proceso con PID = [4460]
+[INFO] 16:57:11:291 Programa/(4460:4460): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 16:57:11:291 Programa/(4460:4460): IP_KERNEL = [10.0.2.15]
+[DEBUG] 16:57:11:291 Programa/(4460:4460): PUERTO_KERNEL = [5000]
+[DEBUG] 16:57:11:292 Programa/(4460:4460): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 16:57:11:295 Programa/(4460:4460): Respuesta Handshake, recibida.
+[INFO] 16:57:11:296 Programa/(4460:4460): Conexion a Kernel establecida.
+[TRACE] 16:57:11:296 Programa/(4460:4460): Enviando PID al Kernel.
+[TRACE] 16:57:11:338 Programa/(4460:4460): Kernel recibio envio de PID.
+[TRACE] 16:57:11:338 Programa/(4460:4460): Abriendo script para enviarlo al Kernel.
+[TRACE] 16:57:11:339 Programa/(4460:4460): Se envio script al Kernel.
+[TRACE] 16:57:11:423 Programa/(4460:4460): Kernel recibio envio de SCRIPT.
+[TRACE] 16:57:11:423 Programa/(4460:4460): El script fue recibido por el Kernel con exito.
+[INFO] 17:06:46:915 Programa/(4732:4732): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 17:06:46:916 Programa/(4732:4732): Nuevo Proceso con PID = [4732]
+[INFO] 17:06:46:917 Programa/(4732:4732): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:06:46:917 Programa/(4732:4732): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:06:46:917 Programa/(4732:4732): PUERTO_KERNEL = [5000]
+[DEBUG] 17:06:46:918 Programa/(4732:4732): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 17:06:46:922 Programa/(4732:4732): Respuesta Handshake, recibida.
+[INFO] 17:06:46:924 Programa/(4732:4732): Conexion a Kernel establecida.
+[TRACE] 17:06:46:924 Programa/(4732:4732): Enviando PID al Kernel.
+[TRACE] 17:06:46:966 Programa/(4732:4732): Kernel recibio envio de PID.
+[TRACE] 17:06:46:966 Programa/(4732:4732): Abriendo script para enviarlo al Kernel.
+[TRACE] 17:06:46:967 Programa/(4732:4732): Se envio script al Kernel.
+[TRACE] 17:06:47:51 Programa/(4732:4732): Kernel recibio envio de SCRIPT.
+[TRACE] 17:06:47:51 Programa/(4732:4732): El script fue recibido por el Kernel con exito.
+[INFO] 17:07:05:821 Programa/(4740:4740): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 17:07:05:821 Programa/(4740:4740): Nuevo Proceso con PID = [4740]
+[INFO] 17:07:05:825 Programa/(4740:4740): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:07:05:825 Programa/(4740:4740): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:07:05:825 Programa/(4740:4740): PUERTO_KERNEL = [5000]
+[DEBUG] 17:07:05:826 Programa/(4740:4740): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 17:07:05:828 Programa/(4740:4740): Respuesta Handshake, recibida.
+[INFO] 17:07:05:830 Programa/(4740:4740): Conexion a Kernel establecida.
+[TRACE] 17:07:05:830 Programa/(4740:4740): Enviando PID al Kernel.
+[TRACE] 17:07:05:871 Programa/(4740:4740): Kernel recibio envio de PID.
+[TRACE] 17:07:05:871 Programa/(4740:4740): Abriendo script para enviarlo al Kernel.
+[TRACE] 17:07:05:872 Programa/(4740:4740): Se envio script al Kernel.
+[TRACE] 17:07:05:958 Programa/(4740:4740): Kernel recibio envio de SCRIPT.
+[TRACE] 17:07:05:959 Programa/(4740:4740): El script fue recibido por el Kernel con exito.
+[INFO] 17:21:06:918 Programa/(5119:5119): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 17:21:06:919 Programa/(5119:5119): Nuevo Proceso con PID = [5119]
+[INFO] 17:21:06:919 Programa/(5119:5119): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:21:06:919 Programa/(5119:5119): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:21:06:919 Programa/(5119:5119): PUERTO_KERNEL = [5000]
+[DEBUG] 17:21:06:920 Programa/(5119:5119): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 17:21:06:922 Programa/(5119:5119): Respuesta Handshake, recibida.
+[INFO] 17:21:06:924 Programa/(5119:5119): Conexion a Kernel establecida.
+[TRACE] 17:21:06:924 Programa/(5119:5119): Enviando PID al Kernel.
+[TRACE] 17:21:06:968 Programa/(5119:5119): Kernel recibio envio de PID.
+[TRACE] 17:21:06:970 Programa/(5119:5119): Abriendo script para enviarlo al Kernel.
+[TRACE] 17:21:06:970 Programa/(5119:5119): Se envio script al Kernel.
+[TRACE] 17:21:07:55 Programa/(5119:5119): Kernel recibio envio de SCRIPT.
+[TRACE] 17:21:07:55 Programa/(5119:5119): El script fue recibido por el Kernel con exito.
+[TRACE] 17:21:16:373 Programa/(5119:5119): Kernel recibio envio de SCRIPT.
+[INFO] 17:22:53:338 Programa/(5154:5154): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 17:22:53:339 Programa/(5154:5154): Nuevo Proceso con PID = [5154]
+[INFO] 17:22:53:339 Programa/(5154:5154): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:22:53:339 Programa/(5154:5154): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:22:53:339 Programa/(5154:5154): PUERTO_KERNEL = [5000]
+[DEBUG] 17:22:53:340 Programa/(5154:5154): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 17:22:53:348 Programa/(5154:5154): Respuesta Handshake, recibida.
+[INFO] 17:22:53:350 Programa/(5154:5154): Conexion a Kernel establecida.
+[TRACE] 17:22:53:350 Programa/(5154:5154): Enviando PID al Kernel.
+[TRACE] 17:22:53:392 Programa/(5154:5154): Kernel recibio envio de PID.
+[TRACE] 17:22:53:395 Programa/(5154:5154): Abriendo script para enviarlo al Kernel.
+[TRACE] 17:22:53:399 Programa/(5154:5154): Se envio script al Kernel.
+[TRACE] 17:22:53:480 Programa/(5154:5154): Kernel recibio envio de SCRIPT.
+[TRACE] 17:22:53:481 Programa/(5154:5154): El script fue recibido por el Kernel con exito.
+[TRACE] 17:23:00:773 Programa/(5154:5154): Kernel recibio envio de SCRIPT.
+[INFO] 17:26:38:461 Programa/(5320:5320): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 17:26:38:462 Programa/(5320:5320): Nuevo Proceso con PID = [5320]
+[INFO] 17:26:38:462 Programa/(5320:5320): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:26:38:462 Programa/(5320:5320): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:26:38:462 Programa/(5320:5320): PUERTO_KERNEL = [5000]
+[DEBUG] 17:26:38:479 Programa/(5320:5320): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[ERROR] 17:26:38:501 Programa/(5320:5320): Error on 'connect()' function.
+[ERROR] 17:26:38:504 Programa/(5320:5320): No se pudo conectar al Kernel. Programa abortado.
+[INFO] 17:28:54:880 Programa/(5373:5373): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 17:28:54:881 Programa/(5373:5373): Nuevo Proceso con PID = [5373]
+[INFO] 17:28:54:881 Programa/(5373:5373): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:28:54:881 Programa/(5373:5373): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:28:54:881 Programa/(5373:5373): PUERTO_KERNEL = [5000]
+[DEBUG] 17:28:54:882 Programa/(5373:5373): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 17:28:54:884 Programa/(5373:5373): Respuesta Handshake, recibida.
+[INFO] 17:28:54:885 Programa/(5373:5373): Conexion a Kernel establecida.
+[TRACE] 17:28:54:885 Programa/(5373:5373): Enviando PID al Kernel.
+[TRACE] 17:28:54:926 Programa/(5373:5373): Kernel recibio envio de PID.
+[TRACE] 17:28:54:927 Programa/(5373:5373): Abriendo script para enviarlo al Kernel.
+[TRACE] 17:28:54:927 Programa/(5373:5373): Se envio script al Kernel.
+[TRACE] 17:28:55:10 Programa/(5373:5373): Kernel recibio envio de SCRIPT.
+[TRACE] 17:28:55:10 Programa/(5373:5373): El script fue recibido por el Kernel con exito.
+[INFO] 17:30:03:545 Programa/(5415:5415): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 17:30:03:550 Programa/(5415:5415): Nuevo Proceso con PID = [5415]
+[INFO] 17:30:03:551 Programa/(5415:5415): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:30:03:551 Programa/(5415:5415): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:30:03:551 Programa/(5415:5415): PUERTO_KERNEL = [5000]
+[DEBUG] 17:30:03:556 Programa/(5415:5415): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 17:30:03:560 Programa/(5415:5415): Respuesta Handshake, recibida.
+[INFO] 17:30:03:562 Programa/(5415:5415): Conexion a Kernel establecida.
+[TRACE] 17:30:03:562 Programa/(5415:5415): Enviando PID al Kernel.
+[TRACE] 17:30:03:602 Programa/(5415:5415): Kernel recibio envio de PID.
+[TRACE] 17:30:03:602 Programa/(5415:5415): Abriendo script para enviarlo al Kernel.
+[TRACE] 17:30:03:603 Programa/(5415:5415): Se envio script al Kernel.
+[TRACE] 17:30:03:682 Programa/(5415:5415): Kernel recibio envio de SCRIPT.
+[TRACE] 17:30:03:682 Programa/(5415:5415): El script fue recibido por el Kernel con exito.
+[TRACE] 17:30:13:938 Programa/(5415:5415): Kernel recibio envio de SCRIPT.
+[INFO] 17:31:33:723 Programa/(5490:5490): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 17:31:33:724 Programa/(5490:5490): Nuevo Proceso con PID = [5490]
+[INFO] 17:31:33:724 Programa/(5490:5490): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:31:33:724 Programa/(5490:5490): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:31:33:724 Programa/(5490:5490): PUERTO_KERNEL = [5000]
+[DEBUG] 17:31:33:729 Programa/(5490:5490): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 17:31:33:731 Programa/(5490:5490): Respuesta Handshake, recibida.
+[INFO] 17:31:33:732 Programa/(5490:5490): Conexion a Kernel establecida.
+[TRACE] 17:31:33:732 Programa/(5490:5490): Enviando PID al Kernel.
+[TRACE] 17:31:33:777 Programa/(5490:5490): Kernel recibio envio de PID.
+[TRACE] 17:31:33:780 Programa/(5490:5490): Abriendo script para enviarlo al Kernel.
+[TRACE] 17:31:33:782 Programa/(5490:5490): Se envio script al Kernel.
+[TRACE] 17:31:33:867 Programa/(5490:5490): Kernel recibio envio de SCRIPT.
+[TRACE] 17:31:33:867 Programa/(5490:5490): El script fue recibido por el Kernel con exito.
+[INFO] 17:31:56:671 Programa/(5501:5501): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 17:31:56:672 Programa/(5501:5501): Nuevo Proceso con PID = [5501]
+[INFO] 17:31:56:673 Programa/(5501:5501): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:31:56:673 Programa/(5501:5501): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:31:56:673 Programa/(5501:5501): PUERTO_KERNEL = [5000]
+[DEBUG] 17:31:56:674 Programa/(5501:5501): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 17:31:56:679 Programa/(5501:5501): Respuesta Handshake, recibida.
+[INFO] 17:31:56:681 Programa/(5501:5501): Conexion a Kernel establecida.
+[TRACE] 17:31:56:682 Programa/(5501:5501): Enviando PID al Kernel.
+[TRACE] 17:31:56:724 Programa/(5501:5501): Kernel recibio envio de PID.
+[TRACE] 17:31:56:726 Programa/(5501:5501): Abriendo script para enviarlo al Kernel.
+[TRACE] 17:31:56:727 Programa/(5501:5501): Se envio script al Kernel.
+[TRACE] 17:31:56:811 Programa/(5501:5501): Kernel recibio envio de SCRIPT.
+[TRACE] 17:31:56:811 Programa/(5501:5501): El script fue recibido por el Kernel con exito.
+[TRACE] 17:32:02:613 Programa/(5501:5501): Kernel recibio envio de SCRIPT.
+[INFO] 17:32:33:501 Programa/(5539:5539): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 17:32:33:502 Programa/(5539:5539): Nuevo Proceso con PID = [5539]
+[INFO] 17:32:33:505 Programa/(5539:5539): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:32:33:505 Programa/(5539:5539): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:32:33:505 Programa/(5539:5539): PUERTO_KERNEL = [5000]
+[DEBUG] 17:32:33:506 Programa/(5539:5539): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 17:32:33:509 Programa/(5539:5539): Respuesta Handshake, recibida.
+[INFO] 17:32:33:511 Programa/(5539:5539): Conexion a Kernel establecida.
+[TRACE] 17:32:33:511 Programa/(5539:5539): Enviando PID al Kernel.
+[TRACE] 17:32:33:558 Programa/(5539:5539): Kernel recibio envio de PID.
+[TRACE] 17:32:33:560 Programa/(5539:5539): Abriendo script para enviarlo al Kernel.
+[TRACE] 17:32:33:567 Programa/(5539:5539): Se envio script al Kernel.
+[TRACE] 17:32:33:646 Programa/(5539:5539): Kernel recibio envio de SCRIPT.
+[TRACE] 17:32:33:646 Programa/(5539:5539): El script fue recibido por el Kernel con exito.
+[TRACE] 17:32:36:990 Programa/(5539:5539): Kernel recibio envio de SCRIPT.
+[INFO] 17:37:53:475 Programa/(5570:5570): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 17:37:53:480 Programa/(5570:5570): Nuevo Proceso con PID = [5570]
+[INFO] 17:37:53:481 Programa/(5570:5570): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:37:53:481 Programa/(5570:5570): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:37:53:481 Programa/(5570:5570): PUERTO_KERNEL = [5000]
+[DEBUG] 17:37:53:482 Programa/(5570:5570): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 17:37:53:484 Programa/(5570:5570): Respuesta Handshake, recibida.
+[INFO] 17:37:53:486 Programa/(5570:5570): Conexion a Kernel establecida.
+[TRACE] 17:37:53:486 Programa/(5570:5570): Enviando PID al Kernel.
+[TRACE] 17:37:53:529 Programa/(5570:5570): Kernel recibio envio de PID.
+[TRACE] 17:37:53:529 Programa/(5570:5570): Abriendo script para enviarlo al Kernel.
+[TRACE] 17:37:53:530 Programa/(5570:5570): Se envio script al Kernel.
+[TRACE] 17:37:53:615 Programa/(5570:5570): Kernel recibio envio de SCRIPT.
+[TRACE] 17:37:53:621 Programa/(5570:5570): El script fue recibido por el Kernel con exito.
+[TRACE] 17:38:04:81 Programa/(5570:5570): Kernel recibio envio de SCRIPT.
+[INFO] 17:52:13:407 Programa/(5931:5931): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 17:52:13:407 Programa/(5931:5931): Nuevo Proceso con PID = [5931]
+[INFO] 17:52:13:408 Programa/(5931:5931): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:52:13:408 Programa/(5931:5931): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:52:13:408 Programa/(5931:5931): PUERTO_KERNEL = [5000]
+[DEBUG] 17:52:13:409 Programa/(5931:5931): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 17:52:13:411 Programa/(5931:5931): Respuesta Handshake, recibida.
+[INFO] 17:52:13:412 Programa/(5931:5931): Conexion a Kernel establecida.
+[TRACE] 17:52:13:412 Programa/(5931:5931): Enviando PID al Kernel.
+[TRACE] 17:52:13:455 Programa/(5931:5931): Kernel recibio envio de PID.
+[TRACE] 17:52:13:455 Programa/(5931:5931): Abriendo script para enviarlo al Kernel.
+[TRACE] 17:52:13:456 Programa/(5931:5931): Se envio script al Kernel.
+[TRACE] 17:52:13:534 Programa/(5931:5931): Kernel recibio envio de SCRIPT.
+[TRACE] 17:52:13:535 Programa/(5931:5931): El script fue recibido por el Kernel con exito.
+[INFO] 17:52:58:828 Programa/(5949:5949): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 17:52:58:829 Programa/(5949:5949): Nuevo Proceso con PID = [5949]
+[INFO] 17:52:58:829 Programa/(5949:5949): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:52:58:829 Programa/(5949:5949): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:52:58:829 Programa/(5949:5949): PUERTO_KERNEL = [5000]
+[DEBUG] 17:52:58:830 Programa/(5949:5949): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 17:52:58:832 Programa/(5949:5949): Respuesta Handshake, recibida.
+[INFO] 17:52:58:834 Programa/(5949:5949): Conexion a Kernel establecida.
+[TRACE] 17:52:58:834 Programa/(5949:5949): Enviando PID al Kernel.
+[TRACE] 17:52:58:875 Programa/(5949:5949): Kernel recibio envio de PID.
+[TRACE] 17:52:58:875 Programa/(5949:5949): Abriendo script para enviarlo al Kernel.
+[TRACE] 17:52:58:876 Programa/(5949:5949): Se envio script al Kernel.
+[TRACE] 17:52:58:958 Programa/(5949:5949): Kernel recibio envio de SCRIPT.
+[TRACE] 17:52:58:959 Programa/(5949:5949): El script fue recibido por el Kernel con exito.
+[TRACE] 17:53:12:826 Programa/(5949:5949): Kernel recibio envio de SCRIPT.
+[INFO] 17:53:36:817 Programa/(5964:5964): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 17:53:36:817 Programa/(5964:5964): Nuevo Proceso con PID = [5964]
+[INFO] 17:53:36:818 Programa/(5964:5964): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:53:36:818 Programa/(5964:5964): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:53:36:818 Programa/(5964:5964): PUERTO_KERNEL = [5000]
+[DEBUG] 17:53:36:820 Programa/(5964:5964): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 17:53:36:822 Programa/(5964:5964): Respuesta Handshake, recibida.
+[INFO] 17:53:36:823 Programa/(5964:5964): Conexion a Kernel establecida.
+[TRACE] 17:53:36:823 Programa/(5964:5964): Enviando PID al Kernel.
+[TRACE] 17:53:36:866 Programa/(5964:5964): Kernel recibio envio de PID.
+[TRACE] 17:53:36:866 Programa/(5964:5964): Abriendo script para enviarlo al Kernel.
+[TRACE] 17:53:36:867 Programa/(5964:5964): Se envio script al Kernel.
+[TRACE] 17:53:36:946 Programa/(5964:5964): Kernel recibio envio de SCRIPT.
+[TRACE] 17:53:36:946 Programa/(5964:5964): El script fue recibido por el Kernel con exito.
+[TRACE] 17:53:43:313 Programa/(5964:5964): Kernel recibio envio de SCRIPT.
+[INFO] 21:37:33:763 Programa/(1897:1897): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 21:37:33:768 Programa/(1897:1897): Nuevo Proceso con PID = [1897]
+[INFO] 21:37:33:768 Programa/(1897:1897): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:37:33:768 Programa/(1897:1897): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:37:33:768 Programa/(1897:1897): PUERTO_KERNEL = [5000]
+[DEBUG] 21:37:33:769 Programa/(1897:1897): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 21:37:33:771 Programa/(1897:1897): Respuesta Handshake, recibida.
+[INFO] 21:37:33:773 Programa/(1897:1897): Conexion a Kernel establecida.
+[TRACE] 21:37:33:773 Programa/(1897:1897): Enviando PID al Kernel.
+[TRACE] 21:37:33:820 Programa/(1897:1897): Kernel recibio envio de PID.
+[TRACE] 21:37:33:823 Programa/(1897:1897): Abriendo script para enviarlo al Kernel.
+[TRACE] 21:37:33:826 Programa/(1897:1897): Se envio script al Kernel.
+[TRACE] 21:37:33:912 Programa/(1897:1897): Kernel recibio envio de SCRIPT.
+[TRACE] 21:37:33:913 Programa/(1897:1897): El script fue recibido por el Kernel con exito.
+[TRACE] 21:37:42:21 Programa/(1897:1897): Kernel recibio envio de SCRIPT.
+[INFO] 21:42:27:950 Programa/(1983:1983): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 21:42:27:952 Programa/(1983:1983): Nuevo Proceso con PID = [1983]
+[INFO] 21:42:27:952 Programa/(1983:1983): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:42:27:952 Programa/(1983:1983): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:42:27:952 Programa/(1983:1983): PUERTO_KERNEL = [5000]
+[DEBUG] 21:42:27:953 Programa/(1983:1983): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 21:42:27:955 Programa/(1983:1983): Respuesta Handshake, recibida.
+[INFO] 21:42:27:957 Programa/(1983:1983): Conexion a Kernel establecida.
+[TRACE] 21:42:27:957 Programa/(1983:1983): Enviando PID al Kernel.
+[TRACE] 21:42:27:999 Programa/(1983:1983): Kernel recibio envio de PID.
+[TRACE] 21:42:27:0 Programa/(1983:1983): Abriendo script para enviarlo al Kernel.
+[TRACE] 21:42:27:0 Programa/(1983:1983): Se envio script al Kernel.
+[TRACE] 21:42:28:83 Programa/(1983:1983): Kernel recibio envio de SCRIPT.
+[TRACE] 21:42:28:83 Programa/(1983:1983): El script fue recibido por el Kernel con exito.
+[INFO] 21:42:36:329 Programa/(1992:1992): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 21:42:36:329 Programa/(1992:1992): Nuevo Proceso con PID = [1992]
+[INFO] 21:42:36:329 Programa/(1992:1992): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:42:36:329 Programa/(1992:1992): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:42:36:329 Programa/(1992:1992): PUERTO_KERNEL = [5000]
+[DEBUG] 21:42:36:330 Programa/(1992:1992): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 21:42:36:332 Programa/(1992:1992): Respuesta Handshake, recibida.
+[INFO] 21:42:36:336 Programa/(1992:1992): Conexion a Kernel establecida.
+[TRACE] 21:42:36:336 Programa/(1992:1992): Enviando PID al Kernel.
+[TRACE] 21:42:36:375 Programa/(1992:1992): Kernel recibio envio de PID.
+[TRACE] 21:42:36:375 Programa/(1992:1992): Abriendo script para enviarlo al Kernel.
+[TRACE] 21:42:36:375 Programa/(1992:1992): Se envio script al Kernel.
+[TRACE] 21:42:36:455 Programa/(1992:1992): Kernel recibio envio de SCRIPT.
+[TRACE] 21:42:36:459 Programa/(1992:1992): El script fue recibido por el Kernel con exito.
+[INFO] 21:45:12:351 Programa/(2103:2103): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 21:45:12:352 Programa/(2103:2103): Nuevo Proceso con PID = [2103]
+[INFO] 21:45:12:352 Programa/(2103:2103): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:45:12:352 Programa/(2103:2103): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:45:12:352 Programa/(2103:2103): PUERTO_KERNEL = [5000]
+[DEBUG] 21:45:12:353 Programa/(2103:2103): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 21:45:12:356 Programa/(2103:2103): Respuesta Handshake, recibida.
+[INFO] 21:45:12:357 Programa/(2103:2103): Conexion a Kernel establecida.
+[TRACE] 21:45:12:357 Programa/(2103:2103): Enviando PID al Kernel.
+[TRACE] 21:45:12:399 Programa/(2103:2103): Kernel recibio envio de PID.
+[TRACE] 21:45:12:399 Programa/(2103:2103): Abriendo script para enviarlo al Kernel.
+[TRACE] 21:45:12:400 Programa/(2103:2103): Se envio script al Kernel.
+[TRACE] 21:45:12:491 Programa/(2103:2103): Kernel recibio envio de SCRIPT.
+[TRACE] 21:45:12:493 Programa/(2103:2103): El script fue recibido por el Kernel con exito.
+[INFO] 21:45:22:847 Programa/(2112:2112): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 21:45:22:852 Programa/(2112:2112): Nuevo Proceso con PID = [2112]
+[INFO] 21:45:22:852 Programa/(2112:2112): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:45:22:852 Programa/(2112:2112): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:45:22:852 Programa/(2112:2112): PUERTO_KERNEL = [5000]
+[DEBUG] 21:45:22:853 Programa/(2112:2112): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 21:45:22:855 Programa/(2112:2112): Respuesta Handshake, recibida.
+[INFO] 21:45:22:856 Programa/(2112:2112): Conexion a Kernel establecida.
+[TRACE] 21:45:22:856 Programa/(2112:2112): Enviando PID al Kernel.
+[TRACE] 21:45:22:901 Programa/(2112:2112): Kernel recibio envio de PID.
+[TRACE] 21:45:22:901 Programa/(2112:2112): Abriendo script para enviarlo al Kernel.
+[TRACE] 21:45:22:902 Programa/(2112:2112): Se envio script al Kernel.
+[TRACE] 21:45:22:988 Programa/(2112:2112): Kernel recibio envio de SCRIPT.
+[TRACE] 21:45:22:990 Programa/(2112:2112): El script fue recibido por el Kernel con exito.
+[TRACE] 21:45:28:889 Programa/(2112:2112): Kernel recibio envio de SCRIPT.
+[INFO] 21:46:39:83 Programa/(2220:2220): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 21:46:39:83 Programa/(2220:2220): Nuevo Proceso con PID = [2220]
+[INFO] 21:46:39:83 Programa/(2220:2220): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:46:39:83 Programa/(2220:2220): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:46:39:83 Programa/(2220:2220): PUERTO_KERNEL = [5000]
+[DEBUG] 21:46:39:84 Programa/(2220:2220): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 21:46:39:87 Programa/(2220:2220): Respuesta Handshake, recibida.
+[INFO] 21:46:39:88 Programa/(2220:2220): Conexion a Kernel establecida.
+[TRACE] 21:46:39:88 Programa/(2220:2220): Enviando PID al Kernel.
+[TRACE] 21:46:39:132 Programa/(2220:2220): Kernel recibio envio de PID.
+[TRACE] 21:46:39:135 Programa/(2220:2220): Abriendo script para enviarlo al Kernel.
+[TRACE] 21:46:39:137 Programa/(2220:2220): Se envio script al Kernel.
+[TRACE] 21:46:39:220 Programa/(2220:2220): Kernel recibio envio de SCRIPT.
+[TRACE] 21:46:39:223 Programa/(2220:2220): El script fue recibido por el Kernel con exito.
+[INFO] 21:48:16:180 Programa/(2284:2284): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 21:48:16:181 Programa/(2284:2284): Nuevo Proceso con PID = [2284]
+[INFO] 21:48:16:181 Programa/(2284:2284): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:48:16:181 Programa/(2284:2284): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:48:16:181 Programa/(2284:2284): PUERTO_KERNEL = [5000]
+[DEBUG] 21:48:16:184 Programa/(2284:2284): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 21:48:16:186 Programa/(2284:2284): Respuesta Handshake, recibida.
+[INFO] 21:48:16:187 Programa/(2284:2284): Conexion a Kernel establecida.
+[TRACE] 21:48:16:187 Programa/(2284:2284): Enviando PID al Kernel.
+[TRACE] 21:48:16:229 Programa/(2284:2284): Kernel recibio envio de PID.
+[TRACE] 21:48:16:231 Programa/(2284:2284): Abriendo script para enviarlo al Kernel.
+[TRACE] 21:48:16:233 Programa/(2284:2284): Se envio script al Kernel.
+[TRACE] 21:48:16:312 Programa/(2284:2284): Kernel recibio envio de SCRIPT.
+[TRACE] 21:48:16:313 Programa/(2284:2284): El script fue recibido por el Kernel con exito.
+[INFO] 21:49:52:906 Programa/(2341:2341): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 21:49:52:906 Programa/(2341:2341): Nuevo Proceso con PID = [2341]
+[INFO] 21:49:52:910 Programa/(2341:2341): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:49:52:910 Programa/(2341:2341): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:49:52:910 Programa/(2341:2341): PUERTO_KERNEL = [5000]
+[DEBUG] 21:49:52:911 Programa/(2341:2341): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 21:49:52:913 Programa/(2341:2341): Respuesta Handshake, recibida.
+[INFO] 21:49:52:914 Programa/(2341:2341): Conexion a Kernel establecida.
+[TRACE] 21:49:52:914 Programa/(2341:2341): Enviando PID al Kernel.
+[TRACE] 21:49:52:955 Programa/(2341:2341): Kernel recibio envio de PID.
+[TRACE] 21:49:52:955 Programa/(2341:2341): Abriendo script para enviarlo al Kernel.
+[TRACE] 21:49:52:955 Programa/(2341:2341): Se envio script al Kernel.
+[TRACE] 21:49:53:39 Programa/(2341:2341): Kernel recibio envio de SCRIPT.
+[TRACE] 21:49:53:40 Programa/(2341:2341): El script fue recibido por el Kernel con exito.
+[INFO] 21:50:08:467 Programa/(2353:2353): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 21:50:08:467 Programa/(2353:2353): Nuevo Proceso con PID = [2353]
+[INFO] 21:50:08:467 Programa/(2353:2353): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:50:08:467 Programa/(2353:2353): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:50:08:467 Programa/(2353:2353): PUERTO_KERNEL = [5000]
+[DEBUG] 21:50:08:468 Programa/(2353:2353): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 21:50:08:472 Programa/(2353:2353): Respuesta Handshake, recibida.
+[INFO] 21:50:08:473 Programa/(2353:2353): Conexion a Kernel establecida.
+[TRACE] 21:50:08:474 Programa/(2353:2353): Enviando PID al Kernel.
+[TRACE] 21:50:08:514 Programa/(2353:2353): Kernel recibio envio de PID.
+[TRACE] 21:50:08:515 Programa/(2353:2353): Abriendo script para enviarlo al Kernel.
+[TRACE] 21:50:08:515 Programa/(2353:2353): Se envio script al Kernel.
+[TRACE] 21:50:08:596 Programa/(2353:2353): Kernel recibio envio de SCRIPT.
+[TRACE] 21:50:08:596 Programa/(2353:2353): El script fue recibido por el Kernel con exito.
+[INFO] 21:53:31:10 Programa/(2480:2480): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 21:53:31:10 Programa/(2480:2480): Nuevo Proceso con PID = [2480]
+[INFO] 21:53:31:11 Programa/(2480:2480): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:53:31:11 Programa/(2480:2480): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:53:31:11 Programa/(2480:2480): PUERTO_KERNEL = [5000]
+[DEBUG] 21:53:31:11 Programa/(2480:2480): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 21:53:31:13 Programa/(2480:2480): Respuesta Handshake, recibida.
+[INFO] 21:53:31:15 Programa/(2480:2480): Conexion a Kernel establecida.
+[TRACE] 21:53:31:15 Programa/(2480:2480): Enviando PID al Kernel.
+[TRACE] 21:53:31:58 Programa/(2480:2480): Kernel recibio envio de PID.
+[TRACE] 21:53:31:61 Programa/(2480:2480): Abriendo script para enviarlo al Kernel.
+[TRACE] 21:53:31:64 Programa/(2480:2480): Se envio script al Kernel.
+[TRACE] 21:53:31:148 Programa/(2480:2480): Kernel recibio envio de SCRIPT.
+[TRACE] 21:53:31:150 Programa/(2480:2480): El script fue recibido por el Kernel con exito.
+[TRACE] 21:53:31:700 Programa/(2480:2480): Kernel recibio envio de SCRIPT.
+[INFO] 21:54:35:370 Programa/(2558:2558): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 21:54:35:370 Programa/(2558:2558): Nuevo Proceso con PID = [2558]
+[INFO] 21:54:35:370 Programa/(2558:2558): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:54:35:370 Programa/(2558:2558): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:54:35:370 Programa/(2558:2558): PUERTO_KERNEL = [5000]
+[DEBUG] 21:54:35:371 Programa/(2558:2558): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 21:54:35:373 Programa/(2558:2558): Respuesta Handshake, recibida.
+[INFO] 21:54:35:374 Programa/(2558:2558): Conexion a Kernel establecida.
+[TRACE] 21:54:35:374 Programa/(2558:2558): Enviando PID al Kernel.
+[TRACE] 21:54:35:418 Programa/(2558:2558): Kernel recibio envio de PID.
+[TRACE] 21:54:35:418 Programa/(2558:2558): Abriendo script para enviarlo al Kernel.
+[TRACE] 21:54:35:419 Programa/(2558:2558): Se envio script al Kernel.
+[TRACE] 21:54:35:501 Programa/(2558:2558): Kernel recibio envio de SCRIPT.
+[TRACE] 21:54:35:502 Programa/(2558:2558): El script fue recibido por el Kernel con exito.
+[INFO] 21:57:24:870 Programa/(2623:2623): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 21:57:24:870 Programa/(2623:2623): Nuevo Proceso con PID = [2623]
+[INFO] 21:57:24:871 Programa/(2623:2623): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:57:24:871 Programa/(2623:2623): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:57:24:871 Programa/(2623:2623): PUERTO_KERNEL = [5000]
+[DEBUG] 21:57:24:871 Programa/(2623:2623): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 21:57:24:873 Programa/(2623:2623): Respuesta Handshake, recibida.
+[INFO] 21:57:24:878 Programa/(2623:2623): Conexion a Kernel establecida.
+[TRACE] 21:57:24:878 Programa/(2623:2623): Enviando PID al Kernel.
+[TRACE] 21:57:24:918 Programa/(2623:2623): Kernel recibio envio de PID.
+[TRACE] 21:57:24:919 Programa/(2623:2623): Abriendo script para enviarlo al Kernel.
+[TRACE] 21:57:24:919 Programa/(2623:2623): Se envio script al Kernel.
+[TRACE] 21:57:24:4 Programa/(2623:2623): Kernel recibio envio de SCRIPT.
+[TRACE] 21:57:24:4 Programa/(2623:2623): El script fue recibido por el Kernel con exito.
+[INFO] 22:06:21:914 Programa/(2836:2836): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 22:06:21:914 Programa/(2836:2836): Nuevo Proceso con PID = [2836]
+[INFO] 22:06:21:915 Programa/(2836:2836): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:06:21:915 Programa/(2836:2836): IP_KERNEL = [10.0.2.15]
+[DEBUG] 22:06:21:915 Programa/(2836:2836): PUERTO_KERNEL = [5000]
+[DEBUG] 22:06:21:916 Programa/(2836:2836): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 22:06:21:918 Programa/(2836:2836): Respuesta Handshake, recibida.
+[INFO] 22:06:21:919 Programa/(2836:2836): Conexion a Kernel establecida.
+[TRACE] 22:06:21:919 Programa/(2836:2836): Enviando PID al Kernel.
+[TRACE] 22:06:21:969 Programa/(2836:2836): Kernel recibio envio de PID.
+[TRACE] 22:06:21:972 Programa/(2836:2836): Abriendo script para enviarlo al Kernel.
+[TRACE] 22:06:21:975 Programa/(2836:2836): Se envio script al Kernel.
+[TRACE] 22:06:22:59 Programa/(2836:2836): Kernel recibio envio de SCRIPT.
+[TRACE] 22:06:22:62 Programa/(2836:2836): El script fue recibido por el Kernel con exito.
+[INFO] 22:08:45:212 Programa/(2857:2857): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 22:08:45:212 Programa/(2857:2857): Nuevo Proceso con PID = [2857]
+[INFO] 22:08:45:213 Programa/(2857:2857): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:08:45:213 Programa/(2857:2857): IP_KERNEL = [10.0.2.15]
+[DEBUG] 22:08:45:213 Programa/(2857:2857): PUERTO_KERNEL = [5000]
+[DEBUG] 22:08:45:214 Programa/(2857:2857): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 22:08:45:216 Programa/(2857:2857): Respuesta Handshake, recibida.
+[INFO] 22:08:45:221 Programa/(2857:2857): Conexion a Kernel establecida.
+[TRACE] 22:08:45:221 Programa/(2857:2857): Enviando PID al Kernel.
+[TRACE] 22:08:45:262 Programa/(2857:2857): Kernel recibio envio de PID.
+[TRACE] 22:08:45:262 Programa/(2857:2857): Abriendo script para enviarlo al Kernel.
+[TRACE] 22:08:45:263 Programa/(2857:2857): Se envio script al Kernel.
+[TRACE] 22:08:45:347 Programa/(2857:2857): Kernel recibio envio de SCRIPT.
+[TRACE] 22:08:45:348 Programa/(2857:2857): El script fue recibido por el Kernel con exito.
+[INFO] 22:09:38:472 Programa/(2905:2905): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 22:09:38:473 Programa/(2905:2905): Nuevo Proceso con PID = [2905]
+[INFO] 22:09:38:473 Programa/(2905:2905): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:09:38:473 Programa/(2905:2905): IP_KERNEL = [10.0.2.15]
+[DEBUG] 22:09:38:473 Programa/(2905:2905): PUERTO_KERNEL = [5000]
+[DEBUG] 22:09:38:478 Programa/(2905:2905): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 22:09:38:481 Programa/(2905:2905): Respuesta Handshake, recibida.
+[INFO] 22:09:38:482 Programa/(2905:2905): Conexion a Kernel establecida.
+[TRACE] 22:09:38:482 Programa/(2905:2905): Enviando PID al Kernel.
+[TRACE] 22:09:38:523 Programa/(2905:2905): Kernel recibio envio de PID.
+[TRACE] 22:09:38:523 Programa/(2905:2905): Abriendo script para enviarlo al Kernel.
+[TRACE] 22:09:38:524 Programa/(2905:2905): Se envio script al Kernel.
+[TRACE] 22:09:38:603 Programa/(2905:2905): Kernel recibio envio de SCRIPT.
+[TRACE] 22:09:38:603 Programa/(2905:2905): El script fue recibido por el Kernel con exito.
+[INFO] 22:11:35:918 Programa/(3026:3026): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 22:11:35:918 Programa/(3026:3026): Nuevo Proceso con PID = [3026]
+[INFO] 22:11:35:918 Programa/(3026:3026): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:11:35:918 Programa/(3026:3026): IP_KERNEL = [10.0.2.15]
+[DEBUG] 22:11:35:918 Programa/(3026:3026): PUERTO_KERNEL = [5000]
+[DEBUG] 22:11:35:919 Programa/(3026:3026): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 22:11:35:921 Programa/(3026:3026): Respuesta Handshake, recibida.
+[INFO] 22:11:35:923 Programa/(3026:3026): Conexion a Kernel establecida.
+[TRACE] 22:11:35:923 Programa/(3026:3026): Enviando PID al Kernel.
+[TRACE] 22:11:35:963 Programa/(3026:3026): Kernel recibio envio de PID.
+[TRACE] 22:11:35:963 Programa/(3026:3026): Abriendo script para enviarlo al Kernel.
+[TRACE] 22:11:35:964 Programa/(3026:3026): Se envio script al Kernel.
+[TRACE] 22:11:36:50 Programa/(3026:3026): Kernel recibio envio de SCRIPT.
+[TRACE] 22:11:36:50 Programa/(3026:3026): El script fue recibido por el Kernel con exito.
+[INFO] 22:12:35:181 Programa/(3042:3042): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 22:12:35:181 Programa/(3042:3042): Nuevo Proceso con PID = [3042]
+[INFO] 22:12:35:182 Programa/(3042:3042): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:12:35:182 Programa/(3042:3042): IP_KERNEL = [10.0.2.15]
+[DEBUG] 22:12:35:182 Programa/(3042:3042): PUERTO_KERNEL = [5000]
+[DEBUG] 22:12:35:183 Programa/(3042:3042): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 22:12:35:185 Programa/(3042:3042): Respuesta Handshake, recibida.
+[INFO] 22:12:35:186 Programa/(3042:3042): Conexion a Kernel establecida.
+[TRACE] 22:12:35:186 Programa/(3042:3042): Enviando PID al Kernel.
+[TRACE] 22:12:35:227 Programa/(3042:3042): Kernel recibio envio de PID.
+[TRACE] 22:12:35:227 Programa/(3042:3042): Abriendo script para enviarlo al Kernel.
+[TRACE] 22:12:35:227 Programa/(3042:3042): Se envio script al Kernel.
+[TRACE] 22:12:35:312 Programa/(3042:3042): Kernel recibio envio de SCRIPT.
+[TRACE] 22:12:35:313 Programa/(3042:3042): El script fue recibido por el Kernel con exito.
+[TRACE] 22:12:36:647 Programa/(3042:3042): Kernel recibio envio de SCRIPT.
+[INFO] 22:12:57:409 Programa/(3053:3053): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 22:12:57:412 Programa/(3053:3053): Nuevo Proceso con PID = [3053]
+[INFO] 22:12:57:412 Programa/(3053:3053): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:12:57:412 Programa/(3053:3053): IP_KERNEL = [10.0.2.15]
+[DEBUG] 22:12:57:412 Programa/(3053:3053): PUERTO_KERNEL = [5000]
+[DEBUG] 22:12:57:414 Programa/(3053:3053): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 22:12:57:417 Programa/(3053:3053): Respuesta Handshake, recibida.
+[INFO] 22:12:57:418 Programa/(3053:3053): Conexion a Kernel establecida.
+[TRACE] 22:12:57:418 Programa/(3053:3053): Enviando PID al Kernel.
+[TRACE] 22:12:57:460 Programa/(3053:3053): Kernel recibio envio de PID.
+[TRACE] 22:12:57:467 Programa/(3053:3053): Abriendo script para enviarlo al Kernel.
+[TRACE] 22:12:57:470 Programa/(3053:3053): Se envio script al Kernel.
+[TRACE] 22:12:57:550 Programa/(3053:3053): Kernel recibio envio de SCRIPT.
+[TRACE] 22:12:57:550 Programa/(3053:3053): El script fue recibido por el Kernel con exito.
+[TRACE] 22:12:59:141 Programa/(3053:3053): Kernel recibio envio de SCRIPT.
+[INFO] 22:13:27:786 Programa/(3096:3096): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 22:13:27:787 Programa/(3096:3096): Nuevo Proceso con PID = [3096]
+[INFO] 22:13:27:787 Programa/(3096:3096): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:13:27:787 Programa/(3096:3096): IP_KERNEL = [10.0.2.15]
+[DEBUG] 22:13:27:787 Programa/(3096:3096): PUERTO_KERNEL = [5000]
+[DEBUG] 22:13:27:788 Programa/(3096:3096): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 22:13:27:790 Programa/(3096:3096): Respuesta Handshake, recibida.
+[INFO] 22:13:27:791 Programa/(3096:3096): Conexion a Kernel establecida.
+[TRACE] 22:13:27:791 Programa/(3096:3096): Enviando PID al Kernel.
+[TRACE] 22:13:27:830 Programa/(3096:3096): Kernel recibio envio de PID.
+[TRACE] 22:13:27:831 Programa/(3096:3096): Abriendo script para enviarlo al Kernel.
+[TRACE] 22:13:27:832 Programa/(3096:3096): Se envio script al Kernel.
+[TRACE] 22:13:27:912 Programa/(3096:3096): Kernel recibio envio de SCRIPT.
+[TRACE] 22:13:27:914 Programa/(3096:3096): El script fue recibido por el Kernel con exito.
+[INFO] 22:13:55:794 Programa/(3141:3141): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 22:13:55:794 Programa/(3141:3141): Nuevo Proceso con PID = [3141]
+[INFO] 22:13:55:794 Programa/(3141:3141): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:13:55:794 Programa/(3141:3141): IP_KERNEL = [10.0.2.15]
+[DEBUG] 22:13:55:794 Programa/(3141:3141): PUERTO_KERNEL = [5000]
+[DEBUG] 22:13:55:795 Programa/(3141:3141): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 22:13:55:797 Programa/(3141:3141): Respuesta Handshake, recibida.
+[INFO] 22:13:55:798 Programa/(3141:3141): Conexion a Kernel establecida.
+[TRACE] 22:13:55:798 Programa/(3141:3141): Enviando PID al Kernel.
+[TRACE] 22:13:55:838 Programa/(3141:3141): Kernel recibio envio de PID.
+[TRACE] 22:13:55:838 Programa/(3141:3141): Abriendo script para enviarlo al Kernel.
+[TRACE] 22:13:55:839 Programa/(3141:3141): Se envio script al Kernel.
+[TRACE] 22:13:55:918 Programa/(3141:3141): Kernel recibio envio de SCRIPT.
+[TRACE] 22:13:55:918 Programa/(3141:3141): El script fue recibido por el Kernel con exito.
+[TRACE] 22:13:58:552 Programa/(3141:3141): Kernel recibio envio de SCRIPT.
+[INFO] 22:15:37:418 Programa/(3199:3199): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 22:15:37:418 Programa/(3199:3199): Nuevo Proceso con PID = [3199]
+[INFO] 22:15:37:419 Programa/(3199:3199): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:15:37:419 Programa/(3199:3199): IP_KERNEL = [10.0.2.15]
+[DEBUG] 22:15:37:419 Programa/(3199:3199): PUERTO_KERNEL = [5000]
+[DEBUG] 22:15:37:420 Programa/(3199:3199): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 22:15:37:422 Programa/(3199:3199): Respuesta Handshake, recibida.
+[INFO] 22:15:37:423 Programa/(3199:3199): Conexion a Kernel establecida.
+[TRACE] 22:15:37:423 Programa/(3199:3199): Enviando PID al Kernel.
+[TRACE] 22:15:37:462 Programa/(3199:3199): Kernel recibio envio de PID.
+[TRACE] 22:15:37:462 Programa/(3199:3199): Abriendo script para enviarlo al Kernel.
+[TRACE] 22:15:37:463 Programa/(3199:3199): Se envio script al Kernel.
+[TRACE] 22:15:37:544 Programa/(3199:3199): Kernel recibio envio de SCRIPT.
+[TRACE] 22:15:37:545 Programa/(3199:3199): El script fue recibido por el Kernel con exito.
+[INFO] 23:03:26:619 Programa/(3335:3335): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 23:03:26:619 Programa/(3335:3335): Nuevo Proceso con PID = [3335]
+[INFO] 23:03:26:619 Programa/(3335:3335): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 23:03:26:619 Programa/(3335:3335): IP_KERNEL = [10.0.2.15]
+[DEBUG] 23:03:26:619 Programa/(3335:3335): PUERTO_KERNEL = [5000]
+[DEBUG] 23:03:26:620 Programa/(3335:3335): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 23:03:26:622 Programa/(3335:3335): Respuesta Handshake, recibida.
+[INFO] 23:03:26:631 Programa/(3335:3335): Conexion a Kernel establecida.
+[TRACE] 23:03:26:631 Programa/(3335:3335): Enviando PID al Kernel.
+[TRACE] 23:03:26:672 Programa/(3335:3335): Kernel recibio envio de PID.
+[TRACE] 23:03:26:674 Programa/(3335:3335): Abriendo script para enviarlo al Kernel.
+[TRACE] 23:03:26:676 Programa/(3335:3335): Se envio script al Kernel.
+[TRACE] 23:03:26:754 Programa/(3335:3335): Kernel recibio envio de SCRIPT.
+[TRACE] 23:03:26:754 Programa/(3335:3335): El script fue recibido por el Kernel con exito.
+[INFO] 23:08:26:811 Programa/(3406:3406): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 23:08:26:812 Programa/(3406:3406): Nuevo Proceso con PID = [3406]
+[INFO] 23:08:26:812 Programa/(3406:3406): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 23:08:26:812 Programa/(3406:3406): IP_KERNEL = [10.0.2.15]
+[DEBUG] 23:08:26:812 Programa/(3406:3406): PUERTO_KERNEL = [5000]
+[DEBUG] 23:08:26:815 Programa/(3406:3406): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 23:08:26:817 Programa/(3406:3406): Respuesta Handshake, recibida.
+[INFO] 23:08:26:819 Programa/(3406:3406): Conexion a Kernel establecida.
+[TRACE] 23:08:26:819 Programa/(3406:3406): Enviando PID al Kernel.
+[TRACE] 23:08:26:859 Programa/(3406:3406): Kernel recibio envio de PID.
+[TRACE] 23:08:26:859 Programa/(3406:3406): Abriendo script para enviarlo al Kernel.
+[TRACE] 23:08:26:859 Programa/(3406:3406): Se envio script al Kernel.
+[TRACE] 23:08:26:940 Programa/(3406:3406): Kernel recibio envio de SCRIPT.
+[TRACE] 23:08:26:941 Programa/(3406:3406): El script fue recibido por el Kernel con exito.
+[INFO] 23:09:23:592 Programa/(3453:3453): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 23:09:23:592 Programa/(3453:3453): Nuevo Proceso con PID = [3453]
+[INFO] 23:09:23:592 Programa/(3453:3453): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 23:09:23:592 Programa/(3453:3453): IP_KERNEL = [10.0.2.15]
+[DEBUG] 23:09:23:592 Programa/(3453:3453): PUERTO_KERNEL = [5000]
+[DEBUG] 23:09:23:593 Programa/(3453:3453): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 23:09:23:595 Programa/(3453:3453): Respuesta Handshake, recibida.
+[INFO] 23:09:23:600 Programa/(3453:3453): Conexion a Kernel establecida.
+[TRACE] 23:09:23:600 Programa/(3453:3453): Enviando PID al Kernel.
+[TRACE] 23:09:23:643 Programa/(3453:3453): Kernel recibio envio de PID.
+[TRACE] 23:09:23:643 Programa/(3453:3453): Abriendo script para enviarlo al Kernel.
+[TRACE] 23:09:23:644 Programa/(3453:3453): Se envio script al Kernel.
+[TRACE] 23:09:23:727 Programa/(3453:3453): Kernel recibio envio de SCRIPT.
+[TRACE] 23:09:23:728 Programa/(3453:3453): El script fue recibido por el Kernel con exito.
+[INFO] 23:11:24:294 Programa/(3523:3523): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 23:11:24:294 Programa/(3523:3523): Nuevo Proceso con PID = [3523]
+[INFO] 23:11:24:294 Programa/(3523:3523): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 23:11:24:295 Programa/(3523:3523): IP_KERNEL = [10.0.2.15]
+[DEBUG] 23:11:24:295 Programa/(3523:3523): PUERTO_KERNEL = [5000]
+[DEBUG] 23:11:24:295 Programa/(3523:3523): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 23:11:24:302 Programa/(3523:3523): Respuesta Handshake, recibida.
+[INFO] 23:11:24:303 Programa/(3523:3523): Conexion a Kernel establecida.
+[TRACE] 23:11:24:303 Programa/(3523:3523): Enviando PID al Kernel.
+[TRACE] 23:11:24:343 Programa/(3523:3523): Kernel recibio envio de PID.
+[TRACE] 23:11:24:343 Programa/(3523:3523): Abriendo script para enviarlo al Kernel.
+[TRACE] 23:11:24:343 Programa/(3523:3523): Se envio script al Kernel.
+[TRACE] 23:11:24:428 Programa/(3523:3523): Kernel recibio envio de SCRIPT.
+[TRACE] 23:11:24:430 Programa/(3523:3523): El script fue recibido por el Kernel con exito.
+[TRACE] 23:11:34:43 Programa/(3523:3523): Kernel recibio envio de SCRIPT.
+[INFO] 23:11:43:991 Programa/(3536:3536): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 23:11:43:992 Programa/(3536:3536): Nuevo Proceso con PID = [3536]
+[INFO] 23:11:43:992 Programa/(3536:3536): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 23:11:43:992 Programa/(3536:3536): IP_KERNEL = [10.0.2.15]
+[DEBUG] 23:11:43:992 Programa/(3536:3536): PUERTO_KERNEL = [5000]
+[DEBUG] 23:11:43:993 Programa/(3536:3536): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 23:11:43:995 Programa/(3536:3536): Respuesta Handshake, recibida.
+[INFO] 23:11:43:996 Programa/(3536:3536): Conexion a Kernel establecida.
+[TRACE] 23:11:43:996 Programa/(3536:3536): Enviando PID al Kernel.
+[TRACE] 23:11:44:39 Programa/(3536:3536): Kernel recibio envio de PID.
+[TRACE] 23:11:44:39 Programa/(3536:3536): Abriendo script para enviarlo al Kernel.
+[TRACE] 23:11:44:39 Programa/(3536:3536): Se envio script al Kernel.
+[TRACE] 23:11:44:118 Programa/(3536:3536): Kernel recibio envio de SCRIPT.
+[TRACE] 23:11:44:118 Programa/(3536:3536): El script fue recibido por el Kernel con exito.
+[INFO] 23:13:16:373 Programa/(3581:3581): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 23:13:16:373 Programa/(3581:3581): Nuevo Proceso con PID = [3581]
+[INFO] 23:13:16:374 Programa/(3581:3581): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 23:13:16:374 Programa/(3581:3581): IP_KERNEL = [10.0.2.15]
+[DEBUG] 23:13:16:374 Programa/(3581:3581): PUERTO_KERNEL = [5000]
+[DEBUG] 23:13:16:375 Programa/(3581:3581): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 23:13:16:377 Programa/(3581:3581): Respuesta Handshake, recibida.
+[INFO] 23:13:16:385 Programa/(3581:3581): Conexion a Kernel establecida.
+[TRACE] 23:13:16:385 Programa/(3581:3581): Enviando PID al Kernel.
+[TRACE] 23:13:16:431 Programa/(3581:3581): Kernel recibio envio de PID.
+[TRACE] 23:13:16:431 Programa/(3581:3581): Abriendo script para enviarlo al Kernel.
+[TRACE] 23:13:16:432 Programa/(3581:3581): Se envio script al Kernel.
+[TRACE] 23:13:16:516 Programa/(3581:3581): Kernel recibio envio de SCRIPT.
+[TRACE] 23:13:16:517 Programa/(3581:3581): El script fue recibido por el Kernel con exito.
+[INFO] 23:13:44:700 Programa/(3626:3626): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 23:13:44:700 Programa/(3626:3626): Nuevo Proceso con PID = [3626]
+[INFO] 23:13:44:700 Programa/(3626:3626): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 23:13:44:700 Programa/(3626:3626): IP_KERNEL = [10.0.2.15]
+[DEBUG] 23:13:44:700 Programa/(3626:3626): PUERTO_KERNEL = [5000]
+[DEBUG] 23:13:44:701 Programa/(3626:3626): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 23:13:44:703 Programa/(3626:3626): Respuesta Handshake, recibida.
+[INFO] 23:13:44:704 Programa/(3626:3626): Conexion a Kernel establecida.
+[TRACE] 23:13:44:704 Programa/(3626:3626): Enviando PID al Kernel.
+[TRACE] 23:13:44:746 Programa/(3626:3626): Kernel recibio envio de PID.
+[TRACE] 23:13:44:746 Programa/(3626:3626): Abriendo script para enviarlo al Kernel.
+[TRACE] 23:13:44:747 Programa/(3626:3626): Se envio script al Kernel.
+[TRACE] 23:13:44:831 Programa/(3626:3626): Kernel recibio envio de SCRIPT.
+[TRACE] 23:13:44:832 Programa/(3626:3626): El script fue recibido por el Kernel con exito.
+[INFO] 23:15:24:157 Programa/(3740:3740): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 23:15:24:158 Programa/(3740:3740): Nuevo Proceso con PID = [3740]
+[INFO] 23:15:24:158 Programa/(3740:3740): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 23:15:24:158 Programa/(3740:3740): IP_KERNEL = [10.0.2.15]
+[DEBUG] 23:15:24:158 Programa/(3740:3740): PUERTO_KERNEL = [5000]
+[DEBUG] 23:15:24:161 Programa/(3740:3740): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 23:15:24:164 Programa/(3740:3740): Respuesta Handshake, recibida.
+[INFO] 23:15:24:165 Programa/(3740:3740): Conexion a Kernel establecida.
+[TRACE] 23:15:24:165 Programa/(3740:3740): Enviando PID al Kernel.
+[TRACE] 23:15:24:206 Programa/(3740:3740): Kernel recibio envio de PID.
+[TRACE] 23:15:24:206 Programa/(3740:3740): Abriendo script para enviarlo al Kernel.
+[TRACE] 23:15:24:207 Programa/(3740:3740): Se envio script al Kernel.
+[TRACE] 23:15:24:292 Programa/(3740:3740): Kernel recibio envio de SCRIPT.
+[TRACE] 23:15:24:292 Programa/(3740:3740): El script fue recibido por el Kernel con exito.
+[ERROR] 23:15:24:423 Programa/(3740:3740): Kernel se cerro inesperadamente. Abortando ejecucion de script
+[INFO] 23:16:18:62 Programa/(3800:3800): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 23:16:18:62 Programa/(3800:3800): Nuevo Proceso con PID = [3800]
+[INFO] 23:16:18:62 Programa/(3800:3800): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 23:16:18:62 Programa/(3800:3800): IP_KERNEL = [10.0.2.15]
+[DEBUG] 23:16:18:62 Programa/(3800:3800): PUERTO_KERNEL = [5000]
+[DEBUG] 23:16:18:70 Programa/(3800:3800): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 23:16:18:72 Programa/(3800:3800): Respuesta Handshake, recibida.
+[INFO] 23:16:18:72 Programa/(3800:3800): Conexion a Kernel establecida.
+[TRACE] 23:16:18:72 Programa/(3800:3800): Enviando PID al Kernel.
+[TRACE] 23:16:18:115 Programa/(3800:3800): Kernel recibio envio de PID.
+[TRACE] 23:16:18:115 Programa/(3800:3800): Abriendo script para enviarlo al Kernel.
+[TRACE] 23:16:18:116 Programa/(3800:3800): Se envio script al Kernel.
+[TRACE] 23:16:18:195 Programa/(3800:3800): Kernel recibio envio de SCRIPT.
+[TRACE] 23:16:18:196 Programa/(3800:3800): El script fue recibido por el Kernel con exito.
+[ERROR] 23:16:18:316 Programa/(3800:3800): Kernel se cerro inesperadamente. Abortando ejecucion de script
+[INFO] 23:19:31:513 Programa/(4004:4004): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 23:19:31:514 Programa/(4004:4004): Nuevo Proceso con PID = [4004]
+[INFO] 23:19:31:514 Programa/(4004:4004): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 23:19:31:514 Programa/(4004:4004): IP_KERNEL = [10.0.2.15]
+[DEBUG] 23:19:31:514 Programa/(4004:4004): PUERTO_KERNEL = [5000]
+[DEBUG] 23:19:31:515 Programa/(4004:4004): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 23:19:31:517 Programa/(4004:4004): Respuesta Handshake, recibida.
+[INFO] 23:19:31:519 Programa/(4004:4004): Conexion a Kernel establecida.
+[TRACE] 23:19:31:519 Programa/(4004:4004): Enviando PID al Kernel.
+[TRACE] 23:19:31:560 Programa/(4004:4004): Kernel recibio envio de PID.
+[TRACE] 23:19:31:565 Programa/(4004:4004): Abriendo script para enviarlo al Kernel.
+[TRACE] 23:19:31:574 Programa/(4004:4004): Se envio script al Kernel.
+[TRACE] 23:19:31:650 Programa/(4004:4004): Kernel recibio envio de SCRIPT.
+[TRACE] 23:19:31:650 Programa/(4004:4004): El script fue recibido por el Kernel con exito.
+[INFO] 23:20:30:196 Programa/(4054:4054): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 23:20:30:197 Programa/(4054:4054): Nuevo Proceso con PID = [4054]
+[INFO] 23:20:30:197 Programa/(4054:4054): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 23:20:30:197 Programa/(4054:4054): IP_KERNEL = [10.0.2.15]
+[DEBUG] 23:20:30:197 Programa/(4054:4054): PUERTO_KERNEL = [5000]
+[DEBUG] 23:20:30:198 Programa/(4054:4054): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 23:20:30:201 Programa/(4054:4054): Respuesta Handshake, recibida.
+[INFO] 23:20:30:202 Programa/(4054:4054): Conexion a Kernel establecida.
+[TRACE] 23:20:30:202 Programa/(4054:4054): Enviando PID al Kernel.
+[TRACE] 23:20:30:242 Programa/(4054:4054): Kernel recibio envio de PID.
+[TRACE] 23:20:30:243 Programa/(4054:4054): Abriendo script para enviarlo al Kernel.
+[TRACE] 23:20:30:243 Programa/(4054:4054): Se envio script al Kernel.
+[TRACE] 23:20:30:327 Programa/(4054:4054): Kernel recibio envio de SCRIPT.
+[TRACE] 23:20:30:327 Programa/(4054:4054): El script fue recibido por el Kernel con exito.
+[INFO] 23:30:18:415 Programa/(4264:4264): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 23:30:18:416 Programa/(4264:4264): Nuevo Proceso con PID = [4264]
+[INFO] 23:30:18:416 Programa/(4264:4264): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 23:30:18:416 Programa/(4264:4264): IP_KERNEL = [10.0.2.15]
+[DEBUG] 23:30:18:416 Programa/(4264:4264): PUERTO_KERNEL = [5000]
+[DEBUG] 23:30:18:417 Programa/(4264:4264): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 23:30:18:420 Programa/(4264:4264): Respuesta Handshake, recibida.
+[INFO] 23:30:18:421 Programa/(4264:4264): Conexion a Kernel establecida.
+[TRACE] 23:30:18:421 Programa/(4264:4264): Enviando PID al Kernel.
+[TRACE] 23:30:18:465 Programa/(4264:4264): Kernel recibio envio de PID.
+[TRACE] 23:30:18:469 Programa/(4264:4264): Abriendo script para enviarlo al Kernel.
+[TRACE] 23:30:18:471 Programa/(4264:4264): Se envio script al Kernel.
+[TRACE] 23:30:18:554 Programa/(4264:4264): Kernel recibio envio de SCRIPT.
+[TRACE] 23:30:18:554 Programa/(4264:4264): El script fue recibido por el Kernel con exito.
+[INFO] 01:29:40:267 Programa/(2115:2115): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 01:29:40:282 Programa/(2115:2115): Nuevo Proceso con PID = [2115]
+[INFO] 01:29:40:282 Programa/(2115:2115): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:29:40:283 Programa/(2115:2115): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:29:40:283 Programa/(2115:2115): PUERTO_KERNEL = [5000]
+[DEBUG] 01:29:40:285 Programa/(2115:2115): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 01:29:40:295 Programa/(2115:2115): Respuesta Handshake, recibida.
+[INFO] 01:29:40:299 Programa/(2115:2115): Conexion a Kernel establecida.
+[TRACE] 01:29:40:299 Programa/(2115:2115): Enviando PID al Kernel.
+[TRACE] 01:29:40:341 Programa/(2115:2115): Kernel recibio envio de PID.
+[TRACE] 01:29:40:341 Programa/(2115:2115): Abriendo script para enviarlo al Kernel.
+[TRACE] 01:29:40:341 Programa/(2115:2115): Se envio script al Kernel.
+[TRACE] 01:29:40:441 Programa/(2115:2115): Kernel recibio envio de SCRIPT.
+[TRACE] 01:29:40:441 Programa/(2115:2115): El script fue recibido por el Kernel con exito.
+[TRACE] 01:29:54:716 Programa/(2115:2115): Kernel recibio envio de SCRIPT.
+[INFO] 01:34:07:36 Programa/(2449:2449): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 01:34:07:36 Programa/(2449:2449): Nuevo Proceso con PID = [2449]
+[INFO] 01:34:07:37 Programa/(2449:2449): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:34:07:37 Programa/(2449:2449): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:34:07:37 Programa/(2449:2449): PUERTO_KERNEL = [5000]
+[DEBUG] 01:34:07:38 Programa/(2449:2449): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 01:34:07:40 Programa/(2449:2449): Respuesta Handshake, recibida.
+[INFO] 01:34:07:41 Programa/(2449:2449): Conexion a Kernel establecida.
+[TRACE] 01:34:07:41 Programa/(2449:2449): Enviando PID al Kernel.
+[TRACE] 01:34:07:83 Programa/(2449:2449): Kernel recibio envio de PID.
+[TRACE] 01:34:07:83 Programa/(2449:2449): Abriendo script para enviarlo al Kernel.
+[TRACE] 01:34:07:83 Programa/(2449:2449): Se envio script al Kernel.
+[TRACE] 01:34:07:162 Programa/(2449:2449): Kernel recibio envio de SCRIPT.
+[TRACE] 01:34:07:163 Programa/(2449:2449): El script fue recibido por el Kernel con exito.
+[INFO] 01:35:34:938 Programa/(2517:2517): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 01:35:34:939 Programa/(2517:2517): Nuevo Proceso con PID = [2517]
+[INFO] 01:35:34:940 Programa/(2517:2517): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:35:34:940 Programa/(2517:2517): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:35:34:940 Programa/(2517:2517): PUERTO_KERNEL = [5000]
+[DEBUG] 01:35:34:941 Programa/(2517:2517): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 01:35:34:955 Programa/(2517:2517): Respuesta Handshake, recibida.
+[INFO] 01:35:34:956 Programa/(2517:2517): Conexion a Kernel establecida.
+[TRACE] 01:35:34:956 Programa/(2517:2517): Enviando PID al Kernel.
+[TRACE] 01:35:34:997 Programa/(2517:2517): Kernel recibio envio de PID.
+[TRACE] 01:35:34:997 Programa/(2517:2517): Abriendo script para enviarlo al Kernel.
+[TRACE] 01:35:34:997 Programa/(2517:2517): Se envio script al Kernel.
+[TRACE] 01:35:35:83 Programa/(2517:2517): Kernel recibio envio de SCRIPT.
+[TRACE] 01:35:35:83 Programa/(2517:2517): El script fue recibido por el Kernel con exito.
+[INFO] 01:36:52:624 Programa/(2529:2529): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 01:36:52:624 Programa/(2529:2529): Nuevo Proceso con PID = [2529]
+[INFO] 01:36:52:624 Programa/(2529:2529): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:36:52:624 Programa/(2529:2529): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:36:52:624 Programa/(2529:2529): PUERTO_KERNEL = [5000]
+[DEBUG] 01:36:52:625 Programa/(2529:2529): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 01:36:52:631 Programa/(2529:2529): Respuesta Handshake, recibida.
+[INFO] 01:36:52:632 Programa/(2529:2529): Conexion a Kernel establecida.
+[TRACE] 01:36:52:632 Programa/(2529:2529): Enviando PID al Kernel.
+[TRACE] 01:36:52:671 Programa/(2529:2529): Kernel recibio envio de PID.
+[TRACE] 01:36:52:671 Programa/(2529:2529): Abriendo script para enviarlo al Kernel.
+[TRACE] 01:36:52:672 Programa/(2529:2529): Se envio script al Kernel.
+[TRACE] 01:36:52:751 Programa/(2529:2529): Kernel recibio envio de SCRIPT.
+[TRACE] 01:36:52:751 Programa/(2529:2529): El script fue recibido por el Kernel con exito.
+[INFO] 01:38:29:355 Programa/(2583:2583): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 01:38:29:355 Programa/(2583:2583): Nuevo Proceso con PID = [2583]
+[INFO] 01:38:29:358 Programa/(2583:2583): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:38:29:358 Programa/(2583:2583): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:38:29:358 Programa/(2583:2583): PUERTO_KERNEL = [5000]
+[DEBUG] 01:38:29:359 Programa/(2583:2583): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 01:38:29:361 Programa/(2583:2583): Respuesta Handshake, recibida.
+[INFO] 01:38:29:362 Programa/(2583:2583): Conexion a Kernel establecida.
+[TRACE] 01:38:29:363 Programa/(2583:2583): Enviando PID al Kernel.
+[TRACE] 01:38:29:403 Programa/(2583:2583): Kernel recibio envio de PID.
+[TRACE] 01:38:29:403 Programa/(2583:2583): Abriendo script para enviarlo al Kernel.
+[TRACE] 01:38:29:404 Programa/(2583:2583): Se envio script al Kernel.
+[TRACE] 01:38:29:488 Programa/(2583:2583): Kernel recibio envio de SCRIPT.
+[TRACE] 01:38:29:489 Programa/(2583:2583): El script fue recibido por el Kernel con exito.
+[INFO] 01:39:11:956 Programa/(2594:2594): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 01:39:11:956 Programa/(2594:2594): Nuevo Proceso con PID = [2594]
+[INFO] 01:39:11:956 Programa/(2594:2594): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:39:11:956 Programa/(2594:2594): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:39:11:956 Programa/(2594:2594): PUERTO_KERNEL = [5000]
+[DEBUG] 01:39:11:959 Programa/(2594:2594): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 01:39:11:961 Programa/(2594:2594): Respuesta Handshake, recibida.
+[INFO] 01:39:11:963 Programa/(2594:2594): Conexion a Kernel establecida.
+[TRACE] 01:39:11:963 Programa/(2594:2594): Enviando PID al Kernel.
+[TRACE] 01:39:12:3 Programa/(2594:2594): Kernel recibio envio de PID.
+[TRACE] 01:39:12:3 Programa/(2594:2594): Abriendo script para enviarlo al Kernel.
+[TRACE] 01:39:12:4 Programa/(2594:2594): Se envio script al Kernel.
+[TRACE] 01:39:12:88 Programa/(2594:2594): Kernel recibio envio de SCRIPT.
+[TRACE] 01:39:12:89 Programa/(2594:2594): El script fue recibido por el Kernel con exito.
+[INFO] 01:39:41:46 Programa/(2604:2604): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 01:39:41:46 Programa/(2604:2604): Nuevo Proceso con PID = [2604]
+[INFO] 01:39:41:47 Programa/(2604:2604): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:39:41:47 Programa/(2604:2604): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:39:41:47 Programa/(2604:2604): PUERTO_KERNEL = [5000]
+[DEBUG] 01:39:41:47 Programa/(2604:2604): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 01:39:41:50 Programa/(2604:2604): Respuesta Handshake, recibida.
+[INFO] 01:39:41:55 Programa/(2604:2604): Conexion a Kernel establecida.
+[TRACE] 01:39:41:55 Programa/(2604:2604): Enviando PID al Kernel.
+[TRACE] 01:39:41:95 Programa/(2604:2604): Kernel recibio envio de PID.
+[TRACE] 01:39:41:96 Programa/(2604:2604): Abriendo script para enviarlo al Kernel.
+[TRACE] 01:39:41:96 Programa/(2604:2604): Se envio script al Kernel.
+[TRACE] 01:39:41:176 Programa/(2604:2604): Kernel recibio envio de SCRIPT.
+[TRACE] 01:39:41:177 Programa/(2604:2604): El script fue recibido por el Kernel con exito.
+[TRACE] 01:39:48:379 Programa/(2604:2604): Kernel recibio envio de SCRIPT.
+[INFO] 01:42:03:54 Programa/(2659:2659): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 01:42:03:55 Programa/(2659:2659): Nuevo Proceso con PID = [2659]
+[INFO] 01:42:03:55 Programa/(2659:2659): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:42:03:55 Programa/(2659:2659): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:42:03:55 Programa/(2659:2659): PUERTO_KERNEL = [5000]
+[DEBUG] 01:42:03:56 Programa/(2659:2659): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 01:42:03:58 Programa/(2659:2659): Respuesta Handshake, recibida.
+[INFO] 01:42:03:60 Programa/(2659:2659): Conexion a Kernel establecida.
+[TRACE] 01:42:03:60 Programa/(2659:2659): Enviando PID al Kernel.
+[TRACE] 01:42:03:99 Programa/(2659:2659): Kernel recibio envio de PID.
+[TRACE] 01:42:03:99 Programa/(2659:2659): Abriendo script para enviarlo al Kernel.
+[TRACE] 01:42:03:99 Programa/(2659:2659): Se envio script al Kernel.
+[TRACE] 01:42:03:179 Programa/(2659:2659): Kernel recibio envio de SCRIPT.
+[TRACE] 01:42:03:179 Programa/(2659:2659): El script fue recibido por el Kernel con exito.
+[INFO] 01:45:13:689 Programa/(2742:2742): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 01:45:13:692 Programa/(2742:2742): Nuevo Proceso con PID = [2742]
+[INFO] 01:45:13:692 Programa/(2742:2742): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:45:13:692 Programa/(2742:2742): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:45:13:692 Programa/(2742:2742): PUERTO_KERNEL = [5000]
+[DEBUG] 01:45:13:693 Programa/(2742:2742): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 01:45:13:695 Programa/(2742:2742): Respuesta Handshake, recibida.
+[INFO] 01:45:13:696 Programa/(2742:2742): Conexion a Kernel establecida.
+[TRACE] 01:45:13:696 Programa/(2742:2742): Enviando PID al Kernel.
+[TRACE] 01:45:13:736 Programa/(2742:2742): Kernel recibio envio de PID.
+[TRACE] 01:45:13:736 Programa/(2742:2742): Abriendo script para enviarlo al Kernel.
+[TRACE] 01:45:13:737 Programa/(2742:2742): Se envio script al Kernel.
+[TRACE] 01:45:13:821 Programa/(2742:2742): Kernel recibio envio de SCRIPT.
+[TRACE] 01:45:13:821 Programa/(2742:2742): El script fue recibido por el Kernel con exito.
+[INFO] 03:16:36:515 Programa/(1944:1944): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 03:16:36:525 Programa/(1944:1944): Nuevo Proceso con PID = [1944]
+[INFO] 03:16:36:525 Programa/(1944:1944): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 03:16:36:525 Programa/(1944:1944): IP_KERNEL = [10.0.2.15]
+[DEBUG] 03:16:36:525 Programa/(1944:1944): PUERTO_KERNEL = [5000]
+[DEBUG] 03:16:36:526 Programa/(1944:1944): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[ERROR] 03:16:36:527 Programa/(1944:1944): Error on 'connect()' function.
+[ERROR] 03:16:36:528 Programa/(1944:1944): No se pudo conectar al Kernel. Programa abortado.
+[INFO] 03:16:45:601 Programa/(1953:1953): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 03:16:45:601 Programa/(1953:1953): Nuevo Proceso con PID = [1953]
+[INFO] 03:16:45:601 Programa/(1953:1953): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 03:16:45:602 Programa/(1953:1953): IP_KERNEL = [10.0.2.15]
+[DEBUG] 03:16:45:602 Programa/(1953:1953): PUERTO_KERNEL = [5000]
+[DEBUG] 03:16:45:602 Programa/(1953:1953): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 03:16:45:604 Programa/(1953:1953): Respuesta Handshake, recibida.
+[INFO] 03:16:45:606 Programa/(1953:1953): Conexion a Kernel establecida.
+[TRACE] 03:16:45:606 Programa/(1953:1953): Enviando PID al Kernel.
+[TRACE] 03:16:45:646 Programa/(1953:1953): Kernel recibio envio de PID.
+[TRACE] 03:16:45:646 Programa/(1953:1953): Abriendo script para enviarlo al Kernel.
+[TRACE] 03:16:45:647 Programa/(1953:1953): Se envio script al Kernel.
+[TRACE] 03:16:45:727 Programa/(1953:1953): Kernel recibio envio de SCRIPT.
+[TRACE] 03:16:45:728 Programa/(1953:1953): El script fue recibido por el Kernel con exito.
+[INFO] 03:17:56:162 Programa/(2006:2006): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 03:17:56:162 Programa/(2006:2006): Nuevo Proceso con PID = [2006]
+[INFO] 03:17:56:163 Programa/(2006:2006): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 03:17:56:163 Programa/(2006:2006): IP_KERNEL = [10.0.2.15]
+[DEBUG] 03:17:56:163 Programa/(2006:2006): PUERTO_KERNEL = [5000]
+[DEBUG] 03:17:56:164 Programa/(2006:2006): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 03:17:56:167 Programa/(2006:2006): Respuesta Handshake, recibida.
+[INFO] 03:17:56:168 Programa/(2006:2006): Conexion a Kernel establecida.
+[TRACE] 03:17:56:168 Programa/(2006:2006): Enviando PID al Kernel.
+[TRACE] 03:17:56:215 Programa/(2006:2006): Kernel recibio envio de PID.
+[TRACE] 03:17:56:217 Programa/(2006:2006): Abriendo script para enviarlo al Kernel.
+[TRACE] 03:17:56:218 Programa/(2006:2006): Se envio script al Kernel.
+[TRACE] 03:17:56:303 Programa/(2006:2006): Kernel recibio envio de SCRIPT.
+[TRACE] 03:17:56:303 Programa/(2006:2006): El script fue recibido por el Kernel con exito.
+[TRACE] 03:18:02:44 Programa/(2006:2006): Kernel recibio envio de SCRIPT.
+[INFO] 03:18:53:132 Programa/(2051:2051): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 03:18:53:133 Programa/(2051:2051): Nuevo Proceso con PID = [2051]
+[INFO] 03:18:53:133 Programa/(2051:2051): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 03:18:53:133 Programa/(2051:2051): IP_KERNEL = [10.0.2.15]
+[DEBUG] 03:18:53:133 Programa/(2051:2051): PUERTO_KERNEL = [5000]
+[DEBUG] 03:18:53:134 Programa/(2051:2051): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 03:18:53:136 Programa/(2051:2051): Respuesta Handshake, recibida.
+[INFO] 03:18:53:138 Programa/(2051:2051): Conexion a Kernel establecida.
+[TRACE] 03:18:53:138 Programa/(2051:2051): Enviando PID al Kernel.
+[TRACE] 03:18:53:178 Programa/(2051:2051): Kernel recibio envio de PID.
+[TRACE] 03:18:53:178 Programa/(2051:2051): Abriendo script para enviarlo al Kernel.
+[TRACE] 03:18:53:178 Programa/(2051:2051): Se envio script al Kernel.
+[TRACE] 03:18:53:262 Programa/(2051:2051): Kernel recibio envio de SCRIPT.
+[TRACE] 03:18:53:262 Programa/(2051:2051): El script fue recibido por el Kernel con exito.
+[TRACE] 03:18:58:555 Programa/(2051:2051): Kernel recibio envio de SCRIPT.
+[INFO] 03:22:29:568 Programa/(2156:2156): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 03:22:29:569 Programa/(2156:2156): Nuevo Proceso con PID = [2156]
+[INFO] 03:22:29:569 Programa/(2156:2156): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 03:22:29:569 Programa/(2156:2156): IP_KERNEL = [10.0.2.15]
+[DEBUG] 03:22:29:569 Programa/(2156:2156): PUERTO_KERNEL = [5000]
+[DEBUG] 03:22:29:570 Programa/(2156:2156): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 03:22:29:572 Programa/(2156:2156): Respuesta Handshake, recibida.
+[INFO] 03:22:29:574 Programa/(2156:2156): Conexion a Kernel establecida.
+[TRACE] 03:22:29:574 Programa/(2156:2156): Enviando PID al Kernel.
+[TRACE] 03:22:29:614 Programa/(2156:2156): Kernel recibio envio de PID.
+[TRACE] 03:22:29:614 Programa/(2156:2156): Abriendo script para enviarlo al Kernel.
+[TRACE] 03:22:29:615 Programa/(2156:2156): Se envio script al Kernel.
+[TRACE] 03:22:29:696 Programa/(2156:2156): Kernel recibio envio de SCRIPT.
+[TRACE] 03:22:29:700 Programa/(2156:2156): El script fue recibido por el Kernel con exito.
+[INFO] 03:26:31:851 Programa/(2329:2329): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 03:26:31:851 Programa/(2329:2329): Nuevo Proceso con PID = [2329]
+[INFO] 03:26:31:852 Programa/(2329:2329): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 03:26:31:852 Programa/(2329:2329): IP_KERNEL = [10.0.2.15]
+[DEBUG] 03:26:31:852 Programa/(2329:2329): PUERTO_KERNEL = [5000]
+[DEBUG] 03:26:31:852 Programa/(2329:2329): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 03:26:31:855 Programa/(2329:2329): Respuesta Handshake, recibida.
+[INFO] 03:26:31:856 Programa/(2329:2329): Conexion a Kernel establecida.
+[TRACE] 03:26:31:856 Programa/(2329:2329): Enviando PID al Kernel.
+[TRACE] 03:26:31:900 Programa/(2329:2329): Kernel recibio envio de PID.
+[TRACE] 03:26:31:903 Programa/(2329:2329): Abriendo script para enviarlo al Kernel.
+[TRACE] 03:26:31:908 Programa/(2329:2329): Se envio script al Kernel.
+[TRACE] 03:26:31:982 Programa/(2329:2329): Kernel recibio envio de SCRIPT.
+[TRACE] 03:26:31:983 Programa/(2329:2329): El script fue recibido por el Kernel con exito.
+[INFO] 03:27:55:335 Programa/(2425:2425): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 03:27:55:335 Programa/(2425:2425): Nuevo Proceso con PID = [2425]
+[INFO] 03:27:55:335 Programa/(2425:2425): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 03:27:55:335 Programa/(2425:2425): IP_KERNEL = [10.0.2.15]
+[DEBUG] 03:27:55:336 Programa/(2425:2425): PUERTO_KERNEL = [5000]
+[DEBUG] 03:27:55:339 Programa/(2425:2425): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 03:27:55:345 Programa/(2425:2425): Respuesta Handshake, recibida.
+[INFO] 03:27:55:346 Programa/(2425:2425): Conexion a Kernel establecida.
+[TRACE] 03:27:55:346 Programa/(2425:2425): Enviando PID al Kernel.
+[TRACE] 03:27:55:386 Programa/(2425:2425): Kernel recibio envio de PID.
+[TRACE] 03:27:55:386 Programa/(2425:2425): Abriendo script para enviarlo al Kernel.
+[TRACE] 03:27:55:386 Programa/(2425:2425): Se envio script al Kernel.
+[TRACE] 03:27:55:467 Programa/(2425:2425): Kernel recibio envio de SCRIPT.
+[TRACE] 03:27:55:467 Programa/(2425:2425): El script fue recibido por el Kernel con exito.
+[INFO] 03:31:03:267 Programa/(2507:2507): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 03:31:03:267 Programa/(2507:2507): Nuevo Proceso con PID = [2507]
+[INFO] 03:31:03:267 Programa/(2507:2507): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 03:31:03:267 Programa/(2507:2507): IP_KERNEL = [10.0.2.15]
+[DEBUG] 03:31:03:271 Programa/(2507:2507): PUERTO_KERNEL = [5000]
+[DEBUG] 03:31:03:272 Programa/(2507:2507): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 03:31:03:274 Programa/(2507:2507): Respuesta Handshake, recibida.
+[INFO] 03:31:03:275 Programa/(2507:2507): Conexion a Kernel establecida.
+[TRACE] 03:31:03:275 Programa/(2507:2507): Enviando PID al Kernel.
+[TRACE] 03:31:03:316 Programa/(2507:2507): Kernel recibio envio de PID.
+[TRACE] 03:31:03:319 Programa/(2507:2507): Abriendo script para enviarlo al Kernel.
+[TRACE] 03:31:03:321 Programa/(2507:2507): Se envio script al Kernel.
+[TRACE] 03:31:03:405 Programa/(2507:2507): Kernel recibio envio de SCRIPT.
+[TRACE] 03:31:03:406 Programa/(2507:2507): El script fue recibido por el Kernel con exito.
+[INFO] 03:39:19:530 Programa/(2999:2999): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 03:39:19:530 Programa/(2999:2999): Nuevo Proceso con PID = [2999]
+[INFO] 03:39:19:530 Programa/(2999:2999): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 03:39:19:531 Programa/(2999:2999): IP_KERNEL = [10.0.2.15]
+[DEBUG] 03:39:19:531 Programa/(2999:2999): PUERTO_KERNEL = [5000]
+[DEBUG] 03:39:19:531 Programa/(2999:2999): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 03:39:19:534 Programa/(2999:2999): Respuesta Handshake, recibida.
+[INFO] 03:39:19:535 Programa/(2999:2999): Conexion a Kernel establecida.
+[TRACE] 03:39:19:535 Programa/(2999:2999): Enviando PID al Kernel.
+[TRACE] 03:39:19:575 Programa/(2999:2999): Kernel recibio envio de PID.
+[TRACE] 03:39:19:576 Programa/(2999:2999): Abriendo script para enviarlo al Kernel.
+[TRACE] 03:39:19:576 Programa/(2999:2999): Se envio script al Kernel.
+[TRACE] 03:39:19:660 Programa/(2999:2999): Kernel recibio envio de SCRIPT.
+[TRACE] 03:39:19:660 Programa/(2999:2999): El script fue recibido por el Kernel con exito.
+[INFO] 03:39:55:202 Programa/(3088:3088): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 03:39:55:202 Programa/(3088:3088): Nuevo Proceso con PID = [3088]
+[INFO] 03:39:55:202 Programa/(3088:3088): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 03:39:55:202 Programa/(3088:3088): IP_KERNEL = [10.0.2.15]
+[DEBUG] 03:39:55:202 Programa/(3088:3088): PUERTO_KERNEL = [5000]
+[DEBUG] 03:39:55:203 Programa/(3088:3088): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 03:39:55:205 Programa/(3088:3088): Respuesta Handshake, recibida.
+[INFO] 03:39:55:207 Programa/(3088:3088): Conexion a Kernel establecida.
+[TRACE] 03:39:55:207 Programa/(3088:3088): Enviando PID al Kernel.
+[TRACE] 03:39:55:247 Programa/(3088:3088): Kernel recibio envio de PID.
+[TRACE] 03:39:55:248 Programa/(3088:3088): Abriendo script para enviarlo al Kernel.
+[TRACE] 03:39:55:248 Programa/(3088:3088): Se envio script al Kernel.
+[TRACE] 03:39:55:327 Programa/(3088:3088): Kernel recibio envio de SCRIPT.
+[TRACE] 03:39:55:327 Programa/(3088:3088): El script fue recibido por el Kernel con exito.
+[INFO] 03:41:15:265 Programa/(3186:3186): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 03:41:15:265 Programa/(3186:3186): Nuevo Proceso con PID = [3186]
+[INFO] 03:41:15:266 Programa/(3186:3186): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 03:41:15:266 Programa/(3186:3186): IP_KERNEL = [10.0.2.15]
+[DEBUG] 03:41:15:266 Programa/(3186:3186): PUERTO_KERNEL = [5000]
+[DEBUG] 03:41:15:270 Programa/(3186:3186): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 03:41:15:272 Programa/(3186:3186): Respuesta Handshake, recibida.
+[INFO] 03:41:15:273 Programa/(3186:3186): Conexion a Kernel establecida.
+[TRACE] 03:41:15:273 Programa/(3186:3186): Enviando PID al Kernel.
+[TRACE] 03:41:15:317 Programa/(3186:3186): Kernel recibio envio de PID.
+[TRACE] 03:41:15:320 Programa/(3186:3186): Abriendo script para enviarlo al Kernel.
+[TRACE] 03:41:15:322 Programa/(3186:3186): Se envio script al Kernel.
+[TRACE] 03:41:15:405 Programa/(3186:3186): Kernel recibio envio de SCRIPT.
+[TRACE] 03:41:15:407 Programa/(3186:3186): El script fue recibido por el Kernel con exito.
+[INFO] 03:41:55:414 Programa/(3274:3274): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 03:41:55:414 Programa/(3274:3274): Nuevo Proceso con PID = [3274]
+[INFO] 03:41:55:414 Programa/(3274:3274): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 03:41:55:415 Programa/(3274:3274): IP_KERNEL = [10.0.2.15]
+[DEBUG] 03:41:55:415 Programa/(3274:3274): PUERTO_KERNEL = [5000]
+[DEBUG] 03:41:55:415 Programa/(3274:3274): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 03:41:55:417 Programa/(3274:3274): Respuesta Handshake, recibida.
+[INFO] 03:41:55:419 Programa/(3274:3274): Conexion a Kernel establecida.
+[TRACE] 03:41:55:419 Programa/(3274:3274): Enviando PID al Kernel.
+[TRACE] 03:41:55:460 Programa/(3274:3274): Kernel recibio envio de PID.
+[TRACE] 03:41:55:460 Programa/(3274:3274): Abriendo script para enviarlo al Kernel.
+[TRACE] 03:41:55:461 Programa/(3274:3274): Se envio script al Kernel.
+[TRACE] 03:41:55:542 Programa/(3274:3274): Kernel recibio envio de SCRIPT.
+[TRACE] 03:41:55:543 Programa/(3274:3274): El script fue recibido por el Kernel con exito.
+[INFO] 03:49:58:340 Programa/(3403:3403): Inicio de registro de actividades del Proceso PROGRAMA.
+[DEBUG] 03:49:58:340 Programa/(3403:3403): Nuevo Proceso con PID = [3403]
+[INFO] 03:49:58:340 Programa/(3403:3403): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 03:49:58:340 Programa/(3403:3403): IP_KERNEL = [10.0.2.15]
+[DEBUG] 03:49:58:340 Programa/(3403:3403): PUERTO_KERNEL = [5000]
+[DEBUG] 03:49:58:341 Programa/(3403:3403): Probando de conectar a Kernel por host [10.0.2.15] y port [5000]
+[TRACE] 03:49:58:343 Programa/(3403:3403): Respuesta Handshake, recibida.
+[INFO] 03:49:58:345 Programa/(3403:3403): Conexion a Kernel establecida.
+[TRACE] 03:49:58:345 Programa/(3403:3403): Enviando PID al Kernel.
+[TRACE] 03:49:58:387 Programa/(3403:3403): Kernel recibio envio de PID.
+[TRACE] 03:49:58:388 Programa/(3403:3403): Abriendo script para enviarlo al Kernel.
+[TRACE] 03:49:58:388 Programa/(3403:3403): Se envio script al Kernel.
+[TRACE] 03:49:58:472 Programa/(3403:3403): Kernel recibio envio de SCRIPT.
+[TRACE] 03:49:58:472 Programa/(3403:3403): El script fue recibido por el Kernel con exito.

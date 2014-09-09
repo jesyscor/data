@@ -1,0 +1,37 @@
+Cantidad de procesos en el sistema: [1] 
+Proceso numero: [0] 
+  PID: [8605] 
+******SEGMENTOS******
+Segmento numero: [0] 
+ Base: [0] 
+ Tamaño: [128] 
+ PosicionMP: [158237713] 
+Segmento numero: [1] 
+ Base: [129] 
+ Tamaño: [40] 
+ PosicionMP: [158237842] 
+Segmento numero: [2] 
+ Base: [170] 
+ Tamaño: [13] 
+ PosicionMP: [158237883] 
+Segmento numero: [3] 
+ Base: [184] 
+ Tamaño: [300] 
+ PosicionMP: [158237897] 
+Cant de procesos en el sistema: [1] 
+->  PID: [3341] 
+	******TABLA DE SEGMENTOS******
+Segm nro | Base 	| Tamanio 	| PosicionMP    |
+---------------------------------------------------------
+[0]      | [0]  	| [80]    	| [146281505]   |
+[1]      | [81]  	| [40]    	| [146281586]   |
+[2]      | [122]  	| [300]    	| [146281627]   |
+Cant de procesos en el sistema: [1] 
+->  PID: [3383] 
+	******TABLA DE SEGMENTOS******
+Segm nro | Base 	| Tamanio 	| PosicionMP    |
+-------------------------------------------------
+[0]      | [0]  	| [80]    	| [161584161]   |
+[1]      | [81]  	| [40]    	| [161584242]   |
+[2]      | [122]  	| [300]    	| [161584283]   |
+Cant de procesos en el sistema: [0] 

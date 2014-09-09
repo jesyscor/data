@@ -1,0 +1,857 @@
+[INFO] 18:24:59:202 CPU/(6378:6378): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 18:24:59:202 CPU/(6378:6378): IP_KERNEL = [10.0.2.15]
+[DEBUG] 18:24:59:202 CPU/(6378:6378): IP_UMV = [10.0.2.15]
+[DEBUG] 18:24:59:202 CPU/(6378:6378): PUERTO_UMV = [5005]
+[DEBUG] 18:24:59:202 CPU/(6378:6378): PUERTO_KERNEL = [5001]
+[INFO] 18:26:22:353 CPU/(6394:6394): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 18:26:22:354 CPU/(6394:6394): IP_KERNEL = [10.0.2.15]
+[DEBUG] 18:26:22:354 CPU/(6394:6394): IP_UMV = [10.0.2.15]
+[DEBUG] 18:26:22:354 CPU/(6394:6394): PUERTO_UMV = [5005]
+[DEBUG] 18:26:22:354 CPU/(6394:6394): PUERTO_KERNEL = [5001]
+[INFO] 20:32:26:171 CPU/(7342:7342): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:32:26:177 CPU/(7342:7342): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:32:26:177 CPU/(7342:7342): IP_UMV = [10.0.2.15]
+[DEBUG] 20:32:26:177 CPU/(7342:7342): PUERTO_UMV = [5005]
+[DEBUG] 20:32:26:177 CPU/(7342:7342): PUERTO_KERNEL = [5001]
+[INFO] 20:32:33:658 CPU/(7344:7344): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:32:33:659 CPU/(7344:7344): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:32:33:659 CPU/(7344:7344): IP_UMV = [10.0.2.15]
+[DEBUG] 20:32:33:659 CPU/(7344:7344): PUERTO_UMV = [5005]
+[DEBUG] 20:32:33:659 CPU/(7344:7344): PUERTO_KERNEL = [5001]
+[INFO] 20:32:39:60 CPU/(7345:7345): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:32:39:61 CPU/(7345:7345): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:32:39:61 CPU/(7345:7345): IP_UMV = [10.0.2.15]
+[DEBUG] 20:32:39:61 CPU/(7345:7345): PUERTO_UMV = [5005]
+[DEBUG] 20:32:39:61 CPU/(7345:7345): PUERTO_KERNEL = [5001]
+[INFO] 20:32:49:226 CPU/(7349:7349): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:32:49:226 CPU/(7349:7349): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:32:49:227 CPU/(7349:7349): IP_UMV = [10.0.2.15]
+[DEBUG] 20:32:49:227 CPU/(7349:7349): PUERTO_UMV = [5005]
+[DEBUG] 20:32:49:227 CPU/(7349:7349): PUERTO_KERNEL = [5001]
+[INFO] 20:32:51:951 CPU/(7351:7351): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:32:51:952 CPU/(7351:7351): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:32:51:952 CPU/(7351:7351): IP_UMV = [10.0.2.15]
+[DEBUG] 20:32:51:952 CPU/(7351:7351): PUERTO_UMV = [5005]
+[DEBUG] 20:32:51:952 CPU/(7351:7351): PUERTO_KERNEL = [5001]
+[INFO] 20:33:58:407 CPU/(7535:7535): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:33:58:411 CPU/(7535:7535): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:33:58:411 CPU/(7535:7535): IP_UMV = [10.0.2.15]
+[DEBUG] 20:33:58:411 CPU/(7535:7535): PUERTO_UMV = [5005]
+[DEBUG] 20:33:58:411 CPU/(7535:7535): PUERTO_KERNEL = [5001]
+[INFO] 20:33:58:411 CPU/(7535:7535): Diccionario de vars, inicializado.
+[INFO] 20:34:02:219 CPU/(7538:7538): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:34:02:220 CPU/(7538:7538): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:34:02:220 CPU/(7538:7538): IP_UMV = [10.0.2.15]
+[DEBUG] 20:34:02:224 CPU/(7538:7538): PUERTO_UMV = [5005]
+[DEBUG] 20:34:02:224 CPU/(7538:7538): PUERTO_KERNEL = [5001]
+[INFO] 20:34:02:224 CPU/(7538:7538): Diccionario de vars, inicializado.
+[INFO] 20:34:07:545 CPU/(7540:7540): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:34:07:546 CPU/(7540:7540): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:34:07:546 CPU/(7540:7540): IP_UMV = [10.0.2.15]
+[DEBUG] 20:34:07:546 CPU/(7540:7540): PUERTO_UMV = [5005]
+[DEBUG] 20:34:07:546 CPU/(7540:7540): PUERTO_KERNEL = [5001]
+[INFO] 20:34:07:546 CPU/(7540:7540): Diccionario de vars, inicializado.
+[INFO] 20:34:13:43 CPU/(7542:7542): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:34:13:53 CPU/(7542:7542): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:34:13:53 CPU/(7542:7542): IP_UMV = [10.0.2.15]
+[DEBUG] 20:34:13:53 CPU/(7542:7542): PUERTO_UMV = [5005]
+[DEBUG] 20:34:13:53 CPU/(7542:7542): PUERTO_KERNEL = [5001]
+[INFO] 20:34:13:53 CPU/(7542:7542): Diccionario de vars, inicializado.
+[INFO] 20:34:15:774 CPU/(7544:7544): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:34:15:775 CPU/(7544:7544): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:34:15:775 CPU/(7544:7544): IP_UMV = [10.0.2.15]
+[DEBUG] 20:34:15:775 CPU/(7544:7544): PUERTO_UMV = [5005]
+[DEBUG] 20:34:15:776 CPU/(7544:7544): PUERTO_KERNEL = [5001]
+[INFO] 20:34:15:776 CPU/(7544:7544): Diccionario de vars, inicializado.
+[INFO] 20:34:21:654 CPU/(7546:7546): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:34:21:655 CPU/(7546:7546): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:34:21:655 CPU/(7546:7546): IP_UMV = [10.0.2.15]
+[DEBUG] 20:34:21:655 CPU/(7546:7546): PUERTO_UMV = [5005]
+[DEBUG] 20:34:21:655 CPU/(7546:7546): PUERTO_KERNEL = [5001]
+[INFO] 20:34:21:655 CPU/(7546:7546): Diccionario de vars, inicializado.
+[INFO] 20:34:52:335 CPU/(7551:7551): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:34:52:336 CPU/(7551:7551): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:34:52:336 CPU/(7551:7551): IP_UMV = [10.0.2.15]
+[DEBUG] 20:34:52:336 CPU/(7551:7551): PUERTO_UMV = [5005]
+[DEBUG] 20:34:52:336 CPU/(7551:7551): PUERTO_KERNEL = [5001]
+[INFO] 20:34:52:336 CPU/(7551:7551): Diccionario de vars, inicializado.
+[INFO] 20:34:56:974 CPU/(7553:7553): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:34:56:981 CPU/(7553:7553): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:34:56:981 CPU/(7553:7553): IP_UMV = [10.0.2.15]
+[DEBUG] 20:34:56:981 CPU/(7553:7553): PUERTO_UMV = [5005]
+[DEBUG] 20:34:56:981 CPU/(7553:7553): PUERTO_KERNEL = [5001]
+[INFO] 20:34:56:981 CPU/(7553:7553): Diccionario de vars, inicializado.
+[INFO] 20:35:00:212 CPU/(7555:7555): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:35:00:213 CPU/(7555:7555): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:35:00:213 CPU/(7555:7555): IP_UMV = [10.0.2.15]
+[DEBUG] 20:35:00:213 CPU/(7555:7555): PUERTO_UMV = [5005]
+[DEBUG] 20:35:00:213 CPU/(7555:7555): PUERTO_KERNEL = [5001]
+[INFO] 20:35:00:213 CPU/(7555:7555): Diccionario de vars, inicializado.
+[INFO] 20:35:03:52 CPU/(7557:7557): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:35:03:54 CPU/(7557:7557): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:35:03:54 CPU/(7557:7557): IP_UMV = [10.0.2.15]
+[DEBUG] 20:35:03:54 CPU/(7557:7557): PUERTO_UMV = [5005]
+[DEBUG] 20:35:03:54 CPU/(7557:7557): PUERTO_KERNEL = [5001]
+[INFO] 20:35:03:54 CPU/(7557:7557): Diccionario de vars, inicializado.
+[INFO] 20:35:08:529 CPU/(7559:7559): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:35:08:542 CPU/(7559:7559): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:35:08:542 CPU/(7559:7559): IP_UMV = [10.0.2.15]
+[DEBUG] 20:35:08:542 CPU/(7559:7559): PUERTO_UMV = [5005]
+[DEBUG] 20:35:08:542 CPU/(7559:7559): PUERTO_KERNEL = [5001]
+[INFO] 20:35:08:542 CPU/(7559:7559): Diccionario de vars, inicializado.
+[INFO] 20:35:13:983 CPU/(7561:7561): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:35:13:994 CPU/(7561:7561): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:35:13:994 CPU/(7561:7561): IP_UMV = [10.0.2.15]
+[DEBUG] 20:35:13:994 CPU/(7561:7561): PUERTO_UMV = [5005]
+[DEBUG] 20:35:13:994 CPU/(7561:7561): PUERTO_KERNEL = [5001]
+[INFO] 20:35:13:994 CPU/(7561:7561): Diccionario de vars, inicializado.
+[INFO] 20:35:38:123 CPU/(7567:7567): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:35:38:124 CPU/(7567:7567): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:35:38:124 CPU/(7567:7567): IP_UMV = [10.0.2.15]
+[DEBUG] 20:35:38:124 CPU/(7567:7567): PUERTO_UMV = [5005]
+[DEBUG] 20:35:38:124 CPU/(7567:7567): PUERTO_KERNEL = [5001]
+[INFO] 20:35:38:124 CPU/(7567:7567): Diccionario de vars, inicializado.
+[INFO] 20:35:45:418 CPU/(7572:7572): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:35:45:419 CPU/(7572:7572): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:35:45:419 CPU/(7572:7572): IP_UMV = [10.0.2.15]
+[DEBUG] 20:35:45:419 CPU/(7572:7572): PUERTO_UMV = [5005]
+[DEBUG] 20:35:45:419 CPU/(7572:7572): PUERTO_KERNEL = [5001]
+[INFO] 20:35:45:419 CPU/(7572:7572): Diccionario de vars, inicializado.
+[INFO] 20:36:44:486 CPU/(7581:7581): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:36:44:493 CPU/(7581:7581): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:36:44:493 CPU/(7581:7581): IP_UMV = [10.0.2.15]
+[DEBUG] 20:36:44:493 CPU/(7581:7581): PUERTO_UMV = [5005]
+[DEBUG] 20:36:44:494 CPU/(7581:7581): PUERTO_KERNEL = [5001]
+[INFO] 20:36:44:494 CPU/(7581:7581): Diccionario de vars, inicializado.
+[INFO] 20:36:57:352 CPU/(7589:7589): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:36:57:357 CPU/(7589:7589): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:36:57:357 CPU/(7589:7589): IP_UMV = [10.0.2.15]
+[DEBUG] 20:36:57:357 CPU/(7589:7589): PUERTO_UMV = [5005]
+[DEBUG] 20:36:57:357 CPU/(7589:7589): PUERTO_KERNEL = [5001]
+[INFO] 20:36:57:357 CPU/(7589:7589): Diccionario de vars, inicializado.
+[INFO] 12:53:52:725 CPU/(3338:3338): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 12:53:52:725 CPU/(3338:3338): IP_KERNEL = [10.0.2.15]
+[DEBUG] 12:53:52:725 CPU/(3338:3338): IP_UMV = [10.0.2.15]
+[DEBUG] 12:53:52:725 CPU/(3338:3338): PUERTO_UMV = [5005]
+[DEBUG] 12:53:52:725 CPU/(3338:3338): PUERTO_KERNEL = [5001]
+[INFO] 12:53:52:725 CPU/(3338:3338): Diccionario de vars, inicializado.
+[INFO] 13:00:30:770 CPU/(3493:3493): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 13:00:30:770 CPU/(3493:3493): IP_KERNEL = [10.0.2.15]
+[DEBUG] 13:00:30:770 CPU/(3493:3493): IP_UMV = [10.0.2.15]
+[DEBUG] 13:00:30:770 CPU/(3493:3493): PUERTO_UMV = [5005]
+[DEBUG] 13:00:30:770 CPU/(3493:3493): PUERTO_KERNEL = [5001]
+[INFO] 13:00:30:770 CPU/(3493:3493): Diccionario de vars, inicializado.
+[INFO] 13:08:45:443 CPU/(3667:3667): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 13:08:45:444 CPU/(3667:3667): IP_KERNEL = [10.0.2.15]
+[DEBUG] 13:08:45:444 CPU/(3667:3667): IP_UMV = [10.0.2.15]
+[DEBUG] 13:08:45:444 CPU/(3667:3667): PUERTO_UMV = [5005]
+[DEBUG] 13:08:45:444 CPU/(3667:3667): PUERTO_KERNEL = [5001]
+[INFO] 13:08:45:444 CPU/(3667:3667): Diccionario de vars, inicializado.
+[INFO] 13:12:47:724 CPU/(3795:3795): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 13:12:47:725 CPU/(3795:3795): IP_KERNEL = [10.0.2.15]
+[DEBUG] 13:12:47:725 CPU/(3795:3795): IP_UMV = [10.0.2.15]
+[DEBUG] 13:12:47:725 CPU/(3795:3795): PUERTO_UMV = [5005]
+[DEBUG] 13:12:47:725 CPU/(3795:3795): PUERTO_KERNEL = [5001]
+[INFO] 13:12:47:725 CPU/(3795:3795): Diccionario de vars, inicializado.
+[INFO] 13:20:43:561 CPU/(3948:3948): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 13:20:43:564 CPU/(3948:3948): IP_KERNEL = [10.0.2.16]
+[DEBUG] 13:20:43:564 CPU/(3948:3948): IP_UMV = [10.0.2.15]
+[DEBUG] 13:20:43:564 CPU/(3948:3948): PUERTO_UMV = [5005]
+[DEBUG] 13:20:43:564 CPU/(3948:3948): PUERTO_KERNEL = [5001]
+[INFO] 13:20:43:564 CPU/(3948:3948): Diccionario de vars, inicializado.
+[INFO] 13:20:52:251 CPU/(3952:3952): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 13:20:52:252 CPU/(3952:3952): IP_KERNEL = [10.0.2.16]
+[DEBUG] 13:20:52:252 CPU/(3952:3952): IP_UMV = [10.0.2.15]
+[DEBUG] 13:20:52:252 CPU/(3952:3952): PUERTO_UMV = [5005]
+[DEBUG] 13:20:52:252 CPU/(3952:3952): PUERTO_KERNEL = [5001]
+[INFO] 13:20:52:252 CPU/(3952:3952): Diccionario de vars, inicializado.
+[INFO] 14:06:41:842 CPU/(4218:4218): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:06:41:843 CPU/(4218:4218): IP_KERNEL = [127.0.0.1]
+[DEBUG] 14:06:41:843 CPU/(4218:4218): IP_UMV = [10.0.2.15]
+[DEBUG] 14:06:41:843 CPU/(4218:4218): PUERTO_UMV = [5005]
+[DEBUG] 14:06:41:843 CPU/(4218:4218): PUERTO_KERNEL = [5001]
+[INFO] 14:06:41:843 CPU/(4218:4218): Diccionario de vars, inicializado.
+[INFO] 14:07:52:144 CPU/(4224:4224): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:07:52:145 CPU/(4224:4224): IP_KERNEL = [127.0.0.1]
+[DEBUG] 14:07:52:145 CPU/(4224:4224): IP_UMV = [10.0.2.15]
+[DEBUG] 14:07:52:145 CPU/(4224:4224): PUERTO_UMV = [5005]
+[DEBUG] 14:07:52:146 CPU/(4224:4224): PUERTO_KERNEL = [5001]
+[INFO] 14:07:52:146 CPU/(4224:4224): Diccionario de vars, inicializado.
+[INFO] 14:09:47:208 CPU/(4232:4232): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:09:47:209 CPU/(4232:4232): IP_KERNEL = [127.0.0.1]
+[DEBUG] 14:09:47:209 CPU/(4232:4232): IP_UMV = [10.0.2.15]
+[DEBUG] 14:09:47:209 CPU/(4232:4232): PUERTO_UMV = [5005]
+[DEBUG] 14:09:47:209 CPU/(4232:4232): PUERTO_KERNEL = [5001]
+[INFO] 14:09:47:209 CPU/(4232:4232): Diccionario de vars, inicializado.
+[INFO] 14:10:03:170 CPU/(4242:4242): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:10:03:171 CPU/(4242:4242): IP_KERNEL = [127.0.0.1]
+[DEBUG] 14:10:03:171 CPU/(4242:4242): IP_UMV = [10.0.2.15]
+[DEBUG] 14:10:03:171 CPU/(4242:4242): PUERTO_UMV = [5005]
+[DEBUG] 14:10:03:171 CPU/(4242:4242): PUERTO_KERNEL = [5001]
+[INFO] 14:10:03:171 CPU/(4242:4242): Diccionario de vars, inicializado.
+[INFO] 14:17:58:163 CPU/(4374:4374): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:17:58:174 CPU/(4374:4374): IP_KERNEL = [127.0.0.1]
+[DEBUG] 14:17:58:174 CPU/(4374:4374): IP_UMV = [10.0.2.15]
+[DEBUG] 14:17:58:174 CPU/(4374:4374): PUERTO_UMV = [5005]
+[DEBUG] 14:17:58:174 CPU/(4374:4374): PUERTO_KERNEL = [5001]
+[INFO] 14:17:58:174 CPU/(4374:4374): Diccionario de vars, inicializado.
+[INFO] 14:31:38:637 CPU/(4765:4765): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:31:38:638 CPU/(4765:4765): IP_KERNEL = [127.0.0.1]
+[DEBUG] 14:31:38:638 CPU/(4765:4765): IP_UMV = [10.0.2.15]
+[DEBUG] 14:31:38:638 CPU/(4765:4765): PUERTO_UMV = [5005]
+[DEBUG] 14:31:38:639 CPU/(4765:4765): PUERTO_KERNEL = [5001]
+[INFO] 14:31:38:639 CPU/(4765:4765): Diccionario de vars, inicializado.
+[INFO] 14:32:42:251 CPU/(4776:4776): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:32:42:252 CPU/(4776:4776): IP_KERNEL = [127.0.0.1]
+[DEBUG] 14:32:42:252 CPU/(4776:4776): IP_UMV = [10.0.2.15]
+[DEBUG] 14:32:42:253 CPU/(4776:4776): PUERTO_UMV = [5005]
+[DEBUG] 14:32:42:253 CPU/(4776:4776): PUERTO_KERNEL = [5001]
+[INFO] 14:32:42:253 CPU/(4776:4776): Diccionario de vars, inicializado.
+[INFO] 14:33:17:518 CPU/(4792:4792): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:33:17:519 CPU/(4792:4792): IP_KERNEL = [127.0.0.1]
+[DEBUG] 14:33:17:519 CPU/(4792:4792): IP_UMV = [10.0.2.15]
+[DEBUG] 14:33:17:519 CPU/(4792:4792): PUERTO_UMV = [5005]
+[DEBUG] 14:33:17:519 CPU/(4792:4792): PUERTO_KERNEL = [5001]
+[INFO] 14:33:17:523 CPU/(4792:4792): Diccionario de vars, inicializado.
+[INFO] 14:33:57:822 CPU/(4812:4812): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:33:57:823 CPU/(4812:4812): IP_KERNEL = [127.0.0.1]
+[DEBUG] 14:33:57:823 CPU/(4812:4812): IP_UMV = [10.0.2.15]
+[DEBUG] 14:33:57:823 CPU/(4812:4812): PUERTO_UMV = [5005]
+[DEBUG] 14:33:57:823 CPU/(4812:4812): PUERTO_KERNEL = [5001]
+[INFO] 14:33:57:824 CPU/(4812:4812): Diccionario de vars, inicializado.
+[INFO] 14:38:19:618 CPU/(4958:4958): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:38:19:619 CPU/(4958:4958): IP_KERNEL = [127.0.0.1]
+[DEBUG] 14:38:19:619 CPU/(4958:4958): IP_UMV = [127.0.0.1]
+[DEBUG] 14:38:19:619 CPU/(4958:4958): PUERTO_UMV = [5005]
+[DEBUG] 14:38:19:619 CPU/(4958:4958): PUERTO_KERNEL = [5001]
+[INFO] 14:38:19:620 CPU/(4958:4958): Diccionario de vars, inicializado.
+[INFO] 14:39:50:514 CPU/(4977:4977): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:39:50:515 CPU/(4977:4977): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:39:50:515 CPU/(4977:4977): IP_UMV = [10.0.2.16]
+[DEBUG] 14:39:50:515 CPU/(4977:4977): PUERTO_UMV = [5005]
+[DEBUG] 14:39:50:515 CPU/(4977:4977): PUERTO_KERNEL = [5001]
+[INFO] 14:39:50:515 CPU/(4977:4977): Diccionario de vars, inicializado.
+[INFO] 14:42:02:287 CPU/(4994:4994): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:42:02:292 CPU/(4994:4994): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:42:02:292 CPU/(4994:4994): IP_UMV = [10.0.2.15]
+[DEBUG] 14:42:02:292 CPU/(4994:4994): PUERTO_UMV = [5005]
+[DEBUG] 14:42:02:292 CPU/(4994:4994): PUERTO_KERNEL = [5001]
+[INFO] 14:42:02:292 CPU/(4994:4994): Diccionario de vars, inicializado.
+[INFO] 19:06:40:84 CPU/(7230:7230): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 19:06:40:85 CPU/(7230:7230): IP_KERNEL = [10.0.2.15]
+[DEBUG] 19:06:40:85 CPU/(7230:7230): IP_UMV = [10.0.2.15]
+[DEBUG] 19:06:40:85 CPU/(7230:7230): PUERTO_UMV = [5005]
+[DEBUG] 19:06:40:85 CPU/(7230:7230): PUERTO_KERNEL = [5001]
+[INFO] 19:06:40:85 CPU/(7230:7230): Diccionario de vars, inicializado.
+[INFO] 03:55:44:404 CPU/(5011:5011): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 03:55:44:405 CPU/(5011:5011): IP_KERNEL = [10.0.2.15]
+[DEBUG] 03:55:44:405 CPU/(5011:5011): IP_UMV = [10.0.2.15]
+[DEBUG] 03:55:44:405 CPU/(5011:5011): PUERTO_UMV = [5005]
+[DEBUG] 03:55:44:405 CPU/(5011:5011): PUERTO_KERNEL = [5001]
+[INFO] 03:55:44:405 CPU/(5011:5011): Diccionario de vars, inicializado.
+[INFO] 03:59:21:594 CPU/(5057:5057): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 03:59:21:595 CPU/(5057:5057): IP_KERNEL = [10.0.2.15]
+[DEBUG] 03:59:21:595 CPU/(5057:5057): IP_UMV = [10.0.2.15]
+[DEBUG] 03:59:21:595 CPU/(5057:5057): PUERTO_UMV = [5005]
+[DEBUG] 03:59:21:595 CPU/(5057:5057): PUERTO_KERNEL = [5001]
+[INFO] 03:59:21:595 CPU/(5057:5057): Diccionario de vars, inicializado.
+[INFO] 04:01:25:839 CPU/(5075:5075): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 04:01:25:839 CPU/(5075:5075): IP_KERNEL = [10.0.2.15]
+[DEBUG] 04:01:25:839 CPU/(5075:5075): IP_UMV = [10.0.2.15]
+[DEBUG] 04:01:25:839 CPU/(5075:5075): PUERTO_UMV = [5005]
+[DEBUG] 04:01:25:839 CPU/(5075:5075): PUERTO_KERNEL = [5001]
+[INFO] 04:01:25:839 CPU/(5075:5075): Diccionario de vars, inicializado.
+[INFO] 22:18:53:491 CPU/(2580:2580): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:18:53:492 CPU/(2580:2580): IP_KERNEL = [10.0.2.15]
+[DEBUG] 22:18:53:492 CPU/(2580:2580): IP_UMV = [10.0.2.15]
+[DEBUG] 22:18:53:492 CPU/(2580:2580): PUERTO_UMV = [5005]
+[DEBUG] 22:18:53:492 CPU/(2580:2580): PUERTO_KERNEL = [5001]
+[INFO] 22:18:53:492 CPU/(2580:2580): Diccionario de vars, inicializado.
+[INFO] 22:22:55:633 CPU/(2670:2670): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:22:55:634 CPU/(2670:2670): IP_KERNEL = [10.0.2.15]
+[DEBUG] 22:22:55:634 CPU/(2670:2670): IP_UMV = [10.0.2.15]
+[DEBUG] 22:22:55:634 CPU/(2670:2670): PUERTO_UMV = [5005]
+[DEBUG] 22:22:55:634 CPU/(2670:2670): PUERTO_KERNEL = [5001]
+[INFO] 22:22:55:634 CPU/(2670:2670): Diccionario de vars, inicializado.
+[INFO] 22:23:15:65 CPU/(2705:2705): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:23:15:72 CPU/(2705:2705): IP_KERNEL = [10.0.2.15]
+[DEBUG] 22:23:15:72 CPU/(2705:2705): IP_UMV = [10.0.2.15]
+[DEBUG] 22:23:15:72 CPU/(2705:2705): PUERTO_UMV = [5005]
+[DEBUG] 22:23:15:72 CPU/(2705:2705): PUERTO_KERNEL = [5001]
+[INFO] 22:23:15:73 CPU/(2705:2705): Diccionario de vars, inicializado.
+[INFO] 22:24:20:365 CPU/(2784:2784): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:24:20:366 CPU/(2784:2784): IP_KERNEL = [10.0.2.15]
+[DEBUG] 22:24:20:366 CPU/(2784:2784): IP_UMV = [10.0.2.15]
+[DEBUG] 22:24:20:366 CPU/(2784:2784): PUERTO_UMV = [5005]
+[DEBUG] 22:24:20:366 CPU/(2784:2784): PUERTO_KERNEL = [5001]
+[INFO] 22:24:20:366 CPU/(2784:2784): Diccionario de vars, inicializado.
+[INFO] 22:28:51:957 CPU/(2894:2894): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:28:51:961 CPU/(2894:2894): IP_KERNEL = [10.0.2.15]
+[DEBUG] 22:28:51:961 CPU/(2894:2894): IP_UMV = [10.0.2.15]
+[DEBUG] 22:28:51:961 CPU/(2894:2894): PUERTO_UMV = [5005]
+[DEBUG] 22:28:51:961 CPU/(2894:2894): PUERTO_KERNEL = [5001]
+[INFO] 22:28:51:961 CPU/(2894:2894): Diccionario de vars, inicializado.
+[INFO] 22:32:25:683 CPU/(2927:2927): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:32:25:683 CPU/(2927:2927): IP_KERNEL = [10.0.2.15]
+[DEBUG] 22:32:25:683 CPU/(2927:2927): IP_UMV = [10.0.2.15]
+[DEBUG] 22:32:25:683 CPU/(2927:2927): PUERTO_UMV = [5005]
+[DEBUG] 22:32:25:683 CPU/(2927:2927): PUERTO_KERNEL = [5001]
+[INFO] 22:32:25:683 CPU/(2927:2927): Diccionario de vars, inicializado.
+[INFO] 22:35:54:242 CPU/(3013:3013): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:35:54:243 CPU/(3013:3013): IP_KERNEL = [10.0.2.15]
+[DEBUG] 22:35:54:243 CPU/(3013:3013): IP_UMV = [10.0.2.15]
+[DEBUG] 22:35:54:243 CPU/(3013:3013): PUERTO_UMV = [5005]
+[DEBUG] 22:35:54:243 CPU/(3013:3013): PUERTO_KERNEL = [5001]
+[INFO] 22:35:54:243 CPU/(3013:3013): Diccionario de vars, inicializado.
+[INFO] 22:36:53:604 CPU/(3061:3061): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:36:53:604 CPU/(3061:3061): IP_KERNEL = [10.0.2.15]
+[DEBUG] 22:36:53:604 CPU/(3061:3061): IP_UMV = [10.0.2.15]
+[DEBUG] 22:36:53:604 CPU/(3061:3061): PUERTO_UMV = [5005]
+[DEBUG] 22:36:53:604 CPU/(3061:3061): PUERTO_KERNEL = [5001]
+[INFO] 22:36:53:604 CPU/(3061:3061): Diccionario de vars, inicializado.
+[INFO] 22:38:42:974 CPU/(3135:3135): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:38:42:974 CPU/(3135:3135): IP_KERNEL = [10.0.2.15]
+[DEBUG] 22:38:42:974 CPU/(3135:3135): IP_UMV = [10.0.2.15]
+[DEBUG] 22:38:42:974 CPU/(3135:3135): PUERTO_UMV = [5005]
+[DEBUG] 22:38:42:974 CPU/(3135:3135): PUERTO_KERNEL = [5001]
+[INFO] 22:38:42:974 CPU/(3135:3135): Diccionario de vars, inicializado.
+[INFO] 22:40:02:262 CPU/(3219:3219): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:40:02:262 CPU/(3219:3219): IP_KERNEL = [10.0.2.15]
+[DEBUG] 22:40:02:262 CPU/(3219:3219): IP_UMV = [10.0.2.15]
+[DEBUG] 22:40:02:262 CPU/(3219:3219): PUERTO_UMV = [5005]
+[DEBUG] 22:40:02:262 CPU/(3219:3219): PUERTO_KERNEL = [5001]
+[INFO] 22:40:02:262 CPU/(3219:3219): Diccionario de vars, inicializado.
+[INFO] 22:42:55:553 CPU/(3307:3307): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:42:55:553 CPU/(3307:3307): IP_KERNEL = [10.0.2.15]
+[DEBUG] 22:42:55:553 CPU/(3307:3307): IP_UMV = [10.0.2.15]
+[DEBUG] 22:42:55:553 CPU/(3307:3307): PUERTO_UMV = [5005]
+[DEBUG] 22:42:55:553 CPU/(3307:3307): PUERTO_KERNEL = [5001]
+[INFO] 22:42:55:553 CPU/(3307:3307): Diccionario de vars, inicializado.
+[INFO] 23:13:19:893 CPU/(3807:3807): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 23:13:19:893 CPU/(3807:3807): IP_KERNEL = [10.0.2.15]
+[DEBUG] 23:13:19:893 CPU/(3807:3807): IP_UMV = [10.0.2.15]
+[DEBUG] 23:13:19:893 CPU/(3807:3807): PUERTO_UMV = [5005]
+[DEBUG] 23:13:19:893 CPU/(3807:3807): PUERTO_KERNEL = [5001]
+[INFO] 23:13:19:893 CPU/(3807:3807): Diccionario de vars, inicializado.
+[INFO] 23:13:58:81 CPU/(3818:3818): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 23:13:58:83 CPU/(3818:3818): IP_KERNEL = [10.0.2.15]
+[DEBUG] 23:13:58:83 CPU/(3818:3818): IP_UMV = [10.0.2.15]
+[DEBUG] 23:13:58:83 CPU/(3818:3818): PUERTO_UMV = [5005]
+[DEBUG] 23:13:58:83 CPU/(3818:3818): PUERTO_KERNEL = [5001]
+[INFO] 23:13:58:83 CPU/(3818:3818): Diccionario de vars, inicializado.
+[INFO] 23:32:30:311 CPU/(4170:4170): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 23:32:30:314 CPU/(4170:4170): IP_KERNEL = [10.0.2.15]
+[DEBUG] 23:32:30:314 CPU/(4170:4170): IP_UMV = [10.0.2.15]
+[DEBUG] 23:32:30:314 CPU/(4170:4170): PUERTO_UMV = [5005]
+[DEBUG] 23:32:30:314 CPU/(4170:4170): PUERTO_KERNEL = [5001]
+[INFO] 23:32:30:314 CPU/(4170:4170): Diccionario de vars, inicializado.
+[INFO] 23:35:22:140 CPU/(4333:4333): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 23:35:22:141 CPU/(4333:4333): IP_KERNEL = [10.0.2.15]
+[DEBUG] 23:35:22:141 CPU/(4333:4333): IP_UMV = [10.0.2.15]
+[DEBUG] 23:35:22:141 CPU/(4333:4333): PUERTO_UMV = [5005]
+[DEBUG] 23:35:22:141 CPU/(4333:4333): PUERTO_KERNEL = [5001]
+[INFO] 23:35:22:141 CPU/(4333:4333): Diccionario de vars, inicializado.
+[INFO] 23:35:47:221 CPU/(4374:4374): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 23:35:47:222 CPU/(4374:4374): IP_KERNEL = [10.0.2.15]
+[DEBUG] 23:35:47:222 CPU/(4374:4374): IP_UMV = [10.0.2.15]
+[DEBUG] 23:35:47:222 CPU/(4374:4374): PUERTO_UMV = [5005]
+[DEBUG] 23:35:47:222 CPU/(4374:4374): PUERTO_KERNEL = [5001]
+[INFO] 23:35:47:222 CPU/(4374:4374): Diccionario de vars, inicializado.
+[INFO] 13:57:05:29 CPU/(2304:2304): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 13:57:05:29 CPU/(2304:2304): IP_KERNEL = [10.0.2.15]
+[DEBUG] 13:57:05:29 CPU/(2304:2304): IP_UMV = [10.0.2.15]
+[DEBUG] 13:57:05:29 CPU/(2304:2304): PUERTO_UMV = [5005]
+[DEBUG] 13:57:05:29 CPU/(2304:2304): PUERTO_KERNEL = [5001]
+[INFO] 13:57:05:29 CPU/(2304:2304): Diccionario de vars, inicializado.
+[INFO] 18:47:05:689 CPU/(4160:4160): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 18:47:05:690 CPU/(4160:4160): IP_KERNEL = [10.0.2.15]
+[DEBUG] 18:47:05:690 CPU/(4160:4160): IP_UMV = [10.0.2.15]
+[DEBUG] 18:47:05:690 CPU/(4160:4160): PUERTO_UMV = [5005]
+[DEBUG] 18:47:05:690 CPU/(4160:4160): PUERTO_KERNEL = [5001]
+[INFO] 18:47:05:690 CPU/(4160:4160): Diccionario de vars, inicializado.
+[INFO] 18:47:12:171 CPU/(4171:4171): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 18:47:12:171 CPU/(4171:4171): IP_KERNEL = [10.0.2.15]
+[DEBUG] 18:47:12:171 CPU/(4171:4171): IP_UMV = [10.0.2.15]
+[DEBUG] 18:47:12:171 CPU/(4171:4171): PUERTO_UMV = [5005]
+[DEBUG] 18:47:12:171 CPU/(4171:4171): PUERTO_KERNEL = [5001]
+[INFO] 18:47:12:171 CPU/(4171:4171): Diccionario de vars, inicializado.
+[INFO] 20:19:09:1 CPU/(4912:4912): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 20:19:09:1 CPU/(4912:4912): IP_KERNEL = [10.0.2.15]
+[DEBUG] 20:19:09:1 CPU/(4912:4912): IP_UMV = [10.0.2.15]
+[DEBUG] 20:19:09:1 CPU/(4912:4912): PUERTO_UMV = [5005]
+[DEBUG] 20:19:09:1 CPU/(4912:4912): PUERTO_KERNEL = [5001]
+[INFO] 20:19:09:1 CPU/(4912:4912): Diccionario de vars, inicializado.
+[INFO] 21:24:04:237 CPU/(6117:6117): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:24:04:237 CPU/(6117:6117): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:24:04:237 CPU/(6117:6117): IP_UMV = [10.0.2.15]
+[DEBUG] 21:24:04:237 CPU/(6117:6117): PUERTO_UMV = [5005]
+[DEBUG] 21:24:04:237 CPU/(6117:6117): PUERTO_KERNEL = [5001]
+[INFO] 21:24:04:237 CPU/(6117:6117): Diccionario de vars, inicializado.
+[INFO] 21:34:59:314 CPU/(6247:6247): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:34:59:314 CPU/(6247:6247): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:34:59:314 CPU/(6247:6247): IP_UMV = [10.0.2.15]
+[DEBUG] 21:34:59:314 CPU/(6247:6247): PUERTO_UMV = [5005]
+[DEBUG] 21:34:59:314 CPU/(6247:6247): PUERTO_KERNEL = [5001]
+[INFO] 21:34:59:314 CPU/(6247:6247): Diccionario de vars, inicializado.
+[INFO] 21:37:30:441 CPU/(6331:6331): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:37:30:441 CPU/(6331:6331): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:37:30:441 CPU/(6331:6331): IP_UMV = [10.0.2.15]
+[DEBUG] 21:37:30:441 CPU/(6331:6331): PUERTO_UMV = [5005]
+[DEBUG] 21:37:30:441 CPU/(6331:6331): PUERTO_KERNEL = [5001]
+[INFO] 21:37:30:441 CPU/(6331:6331): Diccionario de vars, inicializado.
+[INFO] 21:46:18:401 CPU/(6529:6529): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:46:18:408 CPU/(6529:6529): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:46:18:408 CPU/(6529:6529): IP_UMV = [10.0.2.15]
+[DEBUG] 21:46:18:408 CPU/(6529:6529): PUERTO_UMV = [5005]
+[DEBUG] 21:46:18:408 CPU/(6529:6529): PUERTO_KERNEL = [5001]
+[INFO] 21:46:18:408 CPU/(6529:6529): Diccionario de vars, inicializado.
+[INFO] 22:09:41:252 CPU/(7295:7295): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:09:41:252 CPU/(7295:7295): IP_KERNEL = [10.0.2.15]
+[DEBUG] 22:09:41:252 CPU/(7295:7295): IP_UMV = [10.0.2.15]
+[DEBUG] 22:09:41:252 CPU/(7295:7295): PUERTO_UMV = [5005]
+[DEBUG] 22:09:41:252 CPU/(7295:7295): PUERTO_KERNEL = [5001]
+[INFO] 22:09:41:252 CPU/(7295:7295): Diccionario de vars, inicializado.
+[INFO] 22:09:50:702 CPU/(7299:7299): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:09:50:702 CPU/(7299:7299): IP_KERNEL = [10.0.2.15]
+[DEBUG] 22:09:50:702 CPU/(7299:7299): IP_UMV = [10.0.2.15]
+[DEBUG] 22:09:50:702 CPU/(7299:7299): PUERTO_UMV = [5005]
+[DEBUG] 22:09:50:702 CPU/(7299:7299): PUERTO_KERNEL = [5001]
+[INFO] 22:09:50:702 CPU/(7299:7299): Diccionario de vars, inicializado.
+[INFO] 22:10:44:751 CPU/(7315:7315): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:10:44:755 CPU/(7315:7315): IP_KERNEL = [10.0.2.15]
+[DEBUG] 22:10:44:755 CPU/(7315:7315): IP_UMV = [10.0.2.15]
+[DEBUG] 22:10:44:755 CPU/(7315:7315): PUERTO_UMV = [5005]
+[DEBUG] 22:10:44:755 CPU/(7315:7315): PUERTO_KERNEL = [5001]
+[INFO] 22:10:44:755 CPU/(7315:7315): Diccionario de vars, inicializado.
+[INFO] 22:10:56:834 CPU/(7317:7317): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:10:56:835 CPU/(7317:7317): IP_KERNEL = [10.0.2.16]
+[DEBUG] 22:10:56:835 CPU/(7317:7317): IP_UMV = [10.0.2.15]
+[DEBUG] 22:10:56:835 CPU/(7317:7317): PUERTO_UMV = [5005]
+[DEBUG] 22:10:56:835 CPU/(7317:7317): PUERTO_KERNEL = [5001]
+[INFO] 22:10:56:835 CPU/(7317:7317): Diccionario de vars, inicializado.
+[INFO] 00:01:15:169 CPU/(7610:7610): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 00:01:15:171 CPU/(7610:7610): IP_KERNEL = [10.0.2.15]
+[DEBUG] 00:01:15:171 CPU/(7610:7610): IP_UMV = [10.0.2.15]
+[DEBUG] 00:01:15:171 CPU/(7610:7610): PUERTO_UMV = [5005]
+[DEBUG] 00:01:15:171 CPU/(7610:7610): PUERTO_KERNEL = [5001]
+[INFO] 00:01:15:171 CPU/(7610:7610): Diccionario de vars, inicializado.
+[INFO] 00:11:57:32 CPU/(7747:7747): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 00:11:57:33 CPU/(7747:7747): IP_KERNEL = [10.0.2.15]
+[DEBUG] 00:11:57:33 CPU/(7747:7747): IP_UMV = [10.0.2.15]
+[DEBUG] 00:11:57:33 CPU/(7747:7747): PUERTO_UMV = [5005]
+[DEBUG] 00:11:57:33 CPU/(7747:7747): PUERTO_KERNEL = [5001]
+[INFO] 00:11:57:33 CPU/(7747:7747): Diccionario de vars, inicializado.
+[INFO] 00:14:11:563 CPU/(7772:7772): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 00:14:11:564 CPU/(7772:7772): IP_KERNEL = [10.0.2.15]
+[DEBUG] 00:14:11:564 CPU/(7772:7772): IP_UMV = [10.0.2.15]
+[DEBUG] 00:14:11:565 CPU/(7772:7772): PUERTO_UMV = [5005]
+[DEBUG] 00:14:11:565 CPU/(7772:7772): PUERTO_KERNEL = [5001]
+[INFO] 00:14:11:565 CPU/(7772:7772): Diccionario de vars, inicializado.
+[INFO] 00:16:17:47 CPU/(7794:7794): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 00:16:17:48 CPU/(7794:7794): IP_KERNEL = [10.0.2.15]
+[DEBUG] 00:16:17:48 CPU/(7794:7794): IP_UMV = [10.0.2.15]
+[DEBUG] 00:16:17:48 CPU/(7794:7794): PUERTO_UMV = [5005]
+[DEBUG] 00:16:17:48 CPU/(7794:7794): PUERTO_KERNEL = [5001]
+[INFO] 00:16:17:48 CPU/(7794:7794): Diccionario de vars, inicializado.
+[INFO] 00:18:05:193 CPU/(7881:7881): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 00:18:05:194 CPU/(7881:7881): IP_KERNEL = [10.0.2.15]
+[DEBUG] 00:18:05:194 CPU/(7881:7881): IP_UMV = [10.0.2.15]
+[DEBUG] 00:18:05:194 CPU/(7881:7881): PUERTO_UMV = [5005]
+[DEBUG] 00:18:05:194 CPU/(7881:7881): PUERTO_KERNEL = [5001]
+[INFO] 00:18:05:194 CPU/(7881:7881): Diccionario de vars, inicializado.
+[INFO] 00:18:06:789 CPU/(7883:7883): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 00:18:06:790 CPU/(7883:7883): IP_KERNEL = [10.0.2.15]
+[DEBUG] 00:18:06:790 CPU/(7883:7883): IP_UMV = [10.0.2.15]
+[DEBUG] 00:18:06:790 CPU/(7883:7883): PUERTO_UMV = [5005]
+[DEBUG] 00:18:06:790 CPU/(7883:7883): PUERTO_KERNEL = [5001]
+[INFO] 00:18:06:790 CPU/(7883:7883): Diccionario de vars, inicializado.
+[INFO] 00:31:25:346 CPU/(8193:8193): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 00:31:25:347 CPU/(8193:8193): IP_KERNEL = [10.0.2.15]
+[DEBUG] 00:31:25:347 CPU/(8193:8193): IP_UMV = [10.0.2.15]
+[DEBUG] 00:31:25:347 CPU/(8193:8193): PUERTO_UMV = [5005]
+[DEBUG] 00:31:25:347 CPU/(8193:8193): PUERTO_KERNEL = [5001]
+[INFO] 00:31:25:347 CPU/(8193:8193): Diccionario de vars, inicializado.
+[INFO] 00:31:27:645 CPU/(8195:8195): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 00:31:27:645 CPU/(8195:8195): IP_KERNEL = [10.0.2.15]
+[DEBUG] 00:31:27:645 CPU/(8195:8195): IP_UMV = [10.0.2.15]
+[DEBUG] 00:31:27:645 CPU/(8195:8195): PUERTO_UMV = [5005]
+[DEBUG] 00:31:27:645 CPU/(8195:8195): PUERTO_KERNEL = [5001]
+[INFO] 00:31:27:645 CPU/(8195:8195): Diccionario de vars, inicializado.
+[INFO] 00:32:20:480 CPU/(8238:8238): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 00:32:20:484 CPU/(8238:8238): IP_KERNEL = [10.0.2.15]
+[DEBUG] 00:32:20:484 CPU/(8238:8238): IP_UMV = [10.0.2.15]
+[DEBUG] 00:32:20:484 CPU/(8238:8238): PUERTO_UMV = [5005]
+[DEBUG] 00:32:20:484 CPU/(8238:8238): PUERTO_KERNEL = [5001]
+[INFO] 00:32:20:484 CPU/(8238:8238): Diccionario de vars, inicializado.
+[INFO] 00:36:43:931 CPU/(8327:8327): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 00:36:43:931 CPU/(8327:8327): IP_KERNEL = [10.0.2.15]
+[DEBUG] 00:36:43:931 CPU/(8327:8327): IP_UMV = [10.0.2.15]
+[DEBUG] 00:36:43:932 CPU/(8327:8327): PUERTO_UMV = [5005]
+[DEBUG] 00:36:43:932 CPU/(8327:8327): PUERTO_KERNEL = [5001]
+[INFO] 00:36:43:932 CPU/(8327:8327): Diccionario de vars, inicializado.
+[INFO] 00:38:57:526 CPU/(8419:8419): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 00:38:57:526 CPU/(8419:8419): IP_KERNEL = [10.0.2.15]
+[DEBUG] 00:38:57:527 CPU/(8419:8419): IP_UMV = [10.0.2.15]
+[DEBUG] 00:38:57:527 CPU/(8419:8419): PUERTO_UMV = [5005]
+[DEBUG] 00:38:57:527 CPU/(8419:8419): PUERTO_KERNEL = [5001]
+[INFO] 00:38:57:527 CPU/(8419:8419): Diccionario de vars, inicializado.
+[INFO] 00:39:13:435 CPU/(8421:8421): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 00:39:13:435 CPU/(8421:8421): IP_KERNEL = [10.0.2.15]
+[DEBUG] 00:39:13:435 CPU/(8421:8421): IP_UMV = [10.0.2.15]
+[DEBUG] 00:39:13:435 CPU/(8421:8421): PUERTO_UMV = [5005]
+[DEBUG] 00:39:13:435 CPU/(8421:8421): PUERTO_KERNEL = [5001]
+[INFO] 00:39:13:436 CPU/(8421:8421): Diccionario de vars, inicializado.
+[INFO] 00:39:20:1 CPU/(8429:8429): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 00:39:20:2 CPU/(8429:8429): IP_KERNEL = [10.0.2.15]
+[DEBUG] 00:39:20:2 CPU/(8429:8429): IP_UMV = [10.0.2.15]
+[DEBUG] 00:39:20:2 CPU/(8429:8429): PUERTO_UMV = [5005]
+[DEBUG] 00:39:20:2 CPU/(8429:8429): PUERTO_KERNEL = [5001]
+[INFO] 00:39:20:2 CPU/(8429:8429): Diccionario de vars, inicializado.
+[INFO] 00:39:23:352 CPU/(8431:8431): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 00:39:23:353 CPU/(8431:8431): IP_KERNEL = [10.0.2.15]
+[DEBUG] 00:39:23:354 CPU/(8431:8431): IP_UMV = [10.0.2.15]
+[DEBUG] 00:39:23:354 CPU/(8431:8431): PUERTO_UMV = [5005]
+[DEBUG] 00:39:23:354 CPU/(8431:8431): PUERTO_KERNEL = [5001]
+[INFO] 00:39:23:354 CPU/(8431:8431): Diccionario de vars, inicializado.
+[INFO] 00:51:49:150 CPU/(8702:8702): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 00:51:49:166 CPU/(8702:8702): IP_KERNEL = [10.0.2.15]
+[DEBUG] 00:51:49:166 CPU/(8702:8702): IP_UMV = [10.0.2.15]
+[DEBUG] 00:51:49:166 CPU/(8702:8702): PUERTO_UMV = [5005]
+[DEBUG] 00:51:49:166 CPU/(8702:8702): PUERTO_KERNEL = [5001]
+[INFO] 00:51:49:166 CPU/(8702:8702): Diccionario de vars, inicializado.
+[INFO] 00:51:56:772 CPU/(8712:8712): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 00:51:56:773 CPU/(8712:8712): IP_KERNEL = [10.0.2.15]
+[DEBUG] 00:51:56:773 CPU/(8712:8712): IP_UMV = [10.0.2.15]
+[DEBUG] 00:51:56:773 CPU/(8712:8712): PUERTO_UMV = [5005]
+[DEBUG] 00:51:56:773 CPU/(8712:8712): PUERTO_KERNEL = [5001]
+[INFO] 00:51:56:773 CPU/(8712:8712): Diccionario de vars, inicializado.
+[INFO] 00:59:12:302 CPU/(8816:8816): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 00:59:12:303 CPU/(8816:8816): IP_KERNEL = [10.0.2.15]
+[DEBUG] 00:59:12:303 CPU/(8816:8816): IP_UMV = [10.0.2.15]
+[DEBUG] 00:59:12:303 CPU/(8816:8816): PUERTO_UMV = [5005]
+[DEBUG] 00:59:12:303 CPU/(8816:8816): PUERTO_KERNEL = [5001]
+[INFO] 00:59:12:303 CPU/(8816:8816): Diccionario de vars, inicializado.
+[INFO] 01:16:27:902 CPU/(9054:9054): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:16:27:903 CPU/(9054:9054): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:16:27:903 CPU/(9054:9054): IP_UMV = [10.0.2.15]
+[DEBUG] 01:16:27:903 CPU/(9054:9054): PUERTO_UMV = [5005]
+[DEBUG] 01:16:27:903 CPU/(9054:9054): PUERTO_KERNEL = [5001]
+[INFO] 01:16:27:903 CPU/(9054:9054): Diccionario de vars, inicializado.
+[INFO] 01:21:28:184 CPU/(9259:9259): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:21:28:185 CPU/(9259:9259): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:21:28:185 CPU/(9259:9259): IP_UMV = [10.0.2.15]
+[DEBUG] 01:21:28:185 CPU/(9259:9259): PUERTO_UMV = [5005]
+[DEBUG] 01:21:28:185 CPU/(9259:9259): PUERTO_KERNEL = [5001]
+[INFO] 01:21:28:186 CPU/(9259:9259): Diccionario de vars, inicializado.
+[INFO] 01:22:02:842 CPU/(9293:9293): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:22:02:843 CPU/(9293:9293): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:22:02:843 CPU/(9293:9293): IP_UMV = [10.0.2.15]
+[DEBUG] 01:22:02:843 CPU/(9293:9293): PUERTO_UMV = [5005]
+[DEBUG] 01:22:02:843 CPU/(9293:9293): PUERTO_KERNEL = [5001]
+[INFO] 01:22:02:843 CPU/(9293:9293): Diccionario de vars, inicializado.
+[INFO] 01:22:33:58 CPU/(9304:9304): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:22:33:59 CPU/(9304:9304): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:22:33:59 CPU/(9304:9304): IP_UMV = [10.0.2.15]
+[DEBUG] 01:22:33:59 CPU/(9304:9304): PUERTO_UMV = [5005]
+[DEBUG] 01:22:33:59 CPU/(9304:9304): PUERTO_KERNEL = [5001]
+[INFO] 01:22:33:59 CPU/(9304:9304): Diccionario de vars, inicializado.
+[INFO] 01:26:01:603 CPU/(9393:9393): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:26:01:604 CPU/(9393:9393): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:26:01:604 CPU/(9393:9393): IP_UMV = [10.0.2.15]
+[DEBUG] 01:26:01:604 CPU/(9393:9393): PUERTO_UMV = [5005]
+[DEBUG] 01:26:01:604 CPU/(9393:9393): PUERTO_KERNEL = [5001]
+[INFO] 01:26:01:604 CPU/(9393:9393): Diccionario de vars, inicializado.
+[INFO] 01:26:13:397 CPU/(9403:9403): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:26:13:397 CPU/(9403:9403): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:26:13:397 CPU/(9403:9403): IP_UMV = [10.0.2.15]
+[DEBUG] 01:26:13:397 CPU/(9403:9403): PUERTO_UMV = [5005]
+[DEBUG] 01:26:13:397 CPU/(9403:9403): PUERTO_KERNEL = [5001]
+[INFO] 01:26:13:397 CPU/(9403:9403): Diccionario de vars, inicializado.
+[INFO] 13:55:05:518 CPU/(2549:2549): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 13:55:05:570 CPU/(2549:2549): IP_KERNEL = [10.0.2.15]
+[DEBUG] 13:55:05:571 CPU/(2549:2549): IP_UMV = [10.0.2.15]
+[DEBUG] 13:55:05:571 CPU/(2549:2549): PUERTO_UMV = [5005]
+[DEBUG] 13:55:05:572 CPU/(2549:2549): PUERTO_KERNEL = [5001]
+[INFO] 13:55:05:572 CPU/(2549:2549): Diccionario de vars, inicializado.
+[INFO] 13:55:13:182 CPU/(2555:2555): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 13:55:13:183 CPU/(2555:2555): IP_KERNEL = [10.0.2.15]
+[DEBUG] 13:55:13:183 CPU/(2555:2555): IP_UMV = [10.0.2.15]
+[DEBUG] 13:55:13:183 CPU/(2555:2555): PUERTO_UMV = [5005]
+[DEBUG] 13:55:13:183 CPU/(2555:2555): PUERTO_KERNEL = [5001]
+[INFO] 13:55:13:183 CPU/(2555:2555): Diccionario de vars, inicializado.
+[INFO] 13:55:35:334 CPU/(2569:2569): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 13:55:35:335 CPU/(2569:2569): IP_KERNEL = [10.0.2.15]
+[DEBUG] 13:55:35:335 CPU/(2569:2569): IP_UMV = [10.0.2.15]
+[DEBUG] 13:55:35:335 CPU/(2569:2569): PUERTO_UMV = [5005]
+[DEBUG] 13:55:35:335 CPU/(2569:2569): PUERTO_KERNEL = [5001]
+[INFO] 13:55:35:336 CPU/(2569:2569): Diccionario de vars, inicializado.
+[INFO] 14:01:43:461 CPU/(2680:2680): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:01:43:465 CPU/(2680:2680): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:01:43:466 CPU/(2680:2680): IP_UMV = [10.0.2.15]
+[DEBUG] 14:01:43:466 CPU/(2680:2680): PUERTO_UMV = [5005]
+[DEBUG] 14:01:43:466 CPU/(2680:2680): PUERTO_KERNEL = [5001]
+[INFO] 14:01:43:466 CPU/(2680:2680): Diccionario de vars, inicializado.
+[INFO] 14:07:56:78 CPU/(2822:2822): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:07:56:78 CPU/(2822:2822): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:07:56:78 CPU/(2822:2822): IP_UMV = [10.0.2.15]
+[DEBUG] 14:07:56:78 CPU/(2822:2822): PUERTO_UMV = [5005]
+[DEBUG] 14:07:56:79 CPU/(2822:2822): PUERTO_KERNEL = [5001]
+[INFO] 14:07:56:79 CPU/(2822:2822): Diccionario de vars, inicializado.
+[INFO] 14:13:11:228 CPU/(2952:2952): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:13:11:229 CPU/(2952:2952): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:13:11:229 CPU/(2952:2952): IP_UMV = [10.0.2.15]
+[DEBUG] 14:13:11:229 CPU/(2952:2952): PUERTO_UMV = [5005]
+[DEBUG] 14:13:11:229 CPU/(2952:2952): PUERTO_KERNEL = [5001]
+[INFO] 14:13:11:229 CPU/(2952:2952): Diccionario de vars, inicializado.
+[INFO] 14:16:51:336 CPU/(3084:3084): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:16:51:336 CPU/(3084:3084): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:16:51:336 CPU/(3084:3084): IP_UMV = [10.0.2.15]
+[DEBUG] 14:16:51:337 CPU/(3084:3084): PUERTO_UMV = [5005]
+[DEBUG] 14:16:51:337 CPU/(3084:3084): PUERTO_KERNEL = [5001]
+[INFO] 14:16:51:337 CPU/(3084:3084): Diccionario de vars, inicializado.
+[INFO] 14:25:23:676 CPU/(3153:3153): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:25:23:677 CPU/(3153:3153): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:25:23:677 CPU/(3153:3153): IP_UMV = [10.0.2.15]
+[DEBUG] 14:25:23:677 CPU/(3153:3153): PUERTO_UMV = [5005]
+[DEBUG] 14:25:23:677 CPU/(3153:3153): PUERTO_KERNEL = [5001]
+[INFO] 14:25:23:677 CPU/(3153:3153): Diccionario de vars, inicializado.
+[INFO] 14:27:18:973 CPU/(3222:3222): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:27:18:974 CPU/(3222:3222): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:27:18:974 CPU/(3222:3222): IP_UMV = [10.0.2.15]
+[DEBUG] 14:27:18:974 CPU/(3222:3222): PUERTO_UMV = [5005]
+[DEBUG] 14:27:18:974 CPU/(3222:3222): PUERTO_KERNEL = [5001]
+[INFO] 14:27:18:974 CPU/(3222:3222): Diccionario de vars, inicializado.
+[INFO] 14:45:19:627 CPU/(3576:3576): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:45:19:630 CPU/(3576:3576): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:45:19:630 CPU/(3576:3576): IP_UMV = [10.0.2.15]
+[DEBUG] 14:45:19:630 CPU/(3576:3576): PUERTO_UMV = [5005]
+[DEBUG] 14:45:19:630 CPU/(3576:3576): PUERTO_KERNEL = [5001]
+[INFO] 14:45:19:630 CPU/(3576:3576): Diccionario de vars, inicializado.
+[INFO] 14:46:12:38 CPU/(3589:3589): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:46:12:39 CPU/(3589:3589): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:46:12:39 CPU/(3589:3589): IP_UMV = [10.0.2.15]
+[DEBUG] 14:46:12:40 CPU/(3589:3589): PUERTO_UMV = [5005]
+[DEBUG] 14:46:12:40 CPU/(3589:3589): PUERTO_KERNEL = [5001]
+[INFO] 14:46:12:40 CPU/(3589:3589): Diccionario de vars, inicializado.
+[INFO] 14:51:35:673 CPU/(3692:3692): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:51:35:673 CPU/(3692:3692): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:51:35:674 CPU/(3692:3692): IP_UMV = [10.0.2.15]
+[DEBUG] 14:51:35:674 CPU/(3692:3692): PUERTO_UMV = [5005]
+[DEBUG] 14:51:35:674 CPU/(3692:3692): PUERTO_KERNEL = [5001]
+[INFO] 14:51:35:674 CPU/(3692:3692): Diccionario de vars, inicializado.
+[INFO] 14:54:32:450 CPU/(3763:3763): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:54:32:450 CPU/(3763:3763): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:54:32:450 CPU/(3763:3763): IP_UMV = [10.0.2.15]
+[DEBUG] 14:54:32:450 CPU/(3763:3763): PUERTO_UMV = [5005]
+[DEBUG] 14:54:32:450 CPU/(3763:3763): PUERTO_KERNEL = [5001]
+[INFO] 14:54:32:451 CPU/(3763:3763): Diccionario de vars, inicializado.
+[INFO] 14:55:29:262 CPU/(3793:3793): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:55:29:264 CPU/(3793:3793): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:55:29:264 CPU/(3793:3793): IP_UMV = [10.0.2.15]
+[DEBUG] 14:55:29:264 CPU/(3793:3793): PUERTO_UMV = [5005]
+[DEBUG] 14:55:29:264 CPU/(3793:3793): PUERTO_KERNEL = [5001]
+[INFO] 14:55:29:264 CPU/(3793:3793): Diccionario de vars, inicializado.
+[INFO] 14:55:52:672 CPU/(3835:3835): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:55:52:673 CPU/(3835:3835): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:55:52:673 CPU/(3835:3835): IP_UMV = [10.0.2.15]
+[DEBUG] 14:55:52:673 CPU/(3835:3835): PUERTO_UMV = [5005]
+[DEBUG] 14:55:52:673 CPU/(3835:3835): PUERTO_KERNEL = [5001]
+[INFO] 14:55:52:673 CPU/(3835:3835): Diccionario de vars, inicializado.
+[INFO] 14:57:09:801 CPU/(3882:3882): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:57:09:805 CPU/(3882:3882): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:57:09:805 CPU/(3882:3882): IP_UMV = [10.0.2.15]
+[DEBUG] 14:57:09:805 CPU/(3882:3882): PUERTO_UMV = [5005]
+[DEBUG] 14:57:09:805 CPU/(3882:3882): PUERTO_KERNEL = [5001]
+[INFO] 14:57:09:805 CPU/(3882:3882): Diccionario de vars, inicializado.
+[INFO] 16:46:56:534 CPU/(4197:4197): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 16:46:56:545 CPU/(4197:4197): IP_KERNEL = [10.0.2.15]
+[DEBUG] 16:46:56:545 CPU/(4197:4197): IP_UMV = [10.0.2.15]
+[DEBUG] 16:46:56:545 CPU/(4197:4197): PUERTO_UMV = [5005]
+[DEBUG] 16:46:56:545 CPU/(4197:4197): PUERTO_KERNEL = [5001]
+[INFO] 16:46:56:545 CPU/(4197:4197): Diccionario de vars, inicializado.
+[INFO] 16:47:31:884 CPU/(4209:4209): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 16:47:31:884 CPU/(4209:4209): IP_KERNEL = [10.0.2.15]
+[DEBUG] 16:47:31:884 CPU/(4209:4209): IP_UMV = [10.0.2.15]
+[DEBUG] 16:47:31:884 CPU/(4209:4209): PUERTO_UMV = [5005]
+[DEBUG] 16:47:31:884 CPU/(4209:4209): PUERTO_KERNEL = [5001]
+[INFO] 16:47:31:884 CPU/(4209:4209): Diccionario de vars, inicializado.
+[INFO] 17:07:07:319 CPU/(4741:4741): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:07:07:319 CPU/(4741:4741): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:07:07:319 CPU/(4741:4741): IP_UMV = [10.0.2.15]
+[DEBUG] 17:07:07:319 CPU/(4741:4741): PUERTO_UMV = [5005]
+[DEBUG] 17:07:07:319 CPU/(4741:4741): PUERTO_KERNEL = [5001]
+[INFO] 17:07:07:319 CPU/(4741:4741): Diccionario de vars, inicializado.
+[INFO] 17:21:10:243 CPU/(5120:5120): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:21:10:244 CPU/(5120:5120): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:21:10:244 CPU/(5120:5120): IP_UMV = [10.0.2.15]
+[DEBUG] 17:21:10:244 CPU/(5120:5120): PUERTO_UMV = [5005]
+[DEBUG] 17:21:10:244 CPU/(5120:5120): PUERTO_KERNEL = [5001]
+[INFO] 17:21:10:244 CPU/(5120:5120): Diccionario de vars, inicializado.
+[INFO] 17:22:55:37 CPU/(5155:5155): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:22:55:38 CPU/(5155:5155): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:22:55:38 CPU/(5155:5155): IP_UMV = [10.0.2.15]
+[DEBUG] 17:22:55:38 CPU/(5155:5155): PUERTO_UMV = [5005]
+[DEBUG] 17:22:55:38 CPU/(5155:5155): PUERTO_KERNEL = [5001]
+[INFO] 17:22:55:38 CPU/(5155:5155): Diccionario de vars, inicializado.
+[INFO] 17:29:07:728 CPU/(5374:5374): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:29:07:728 CPU/(5374:5374): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:29:07:728 CPU/(5374:5374): IP_UMV = [10.0.2.15]
+[DEBUG] 17:29:07:728 CPU/(5374:5374): PUERTO_UMV = [5005]
+[DEBUG] 17:29:07:728 CPU/(5374:5374): PUERTO_KERNEL = [5001]
+[INFO] 17:29:07:728 CPU/(5374:5374): Diccionario de vars, inicializado.
+[INFO] 17:30:07:288 CPU/(5416:5416): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:30:07:290 CPU/(5416:5416): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:30:07:290 CPU/(5416:5416): IP_UMV = [10.0.2.15]
+[DEBUG] 17:30:07:290 CPU/(5416:5416): PUERTO_UMV = [5005]
+[DEBUG] 17:30:07:290 CPU/(5416:5416): PUERTO_KERNEL = [5001]
+[INFO] 17:30:07:290 CPU/(5416:5416): Diccionario de vars, inicializado.
+[INFO] 17:31:36:516 CPU/(5491:5491): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:31:36:517 CPU/(5491:5491): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:31:36:517 CPU/(5491:5491): IP_UMV = [10.0.2.15]
+[DEBUG] 17:31:36:517 CPU/(5491:5491): PUERTO_UMV = [5005]
+[DEBUG] 17:31:36:517 CPU/(5491:5491): PUERTO_KERNEL = [5001]
+[INFO] 17:31:36:517 CPU/(5491:5491): Diccionario de vars, inicializado.
+[INFO] 17:37:57:619 CPU/(5571:5571): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:37:57:619 CPU/(5571:5571): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:37:57:619 CPU/(5571:5571): IP_UMV = [10.0.2.15]
+[DEBUG] 17:37:57:619 CPU/(5571:5571): PUERTO_UMV = [5005]
+[DEBUG] 17:37:57:619 CPU/(5571:5571): PUERTO_KERNEL = [5001]
+[INFO] 17:37:57:619 CPU/(5571:5571): Diccionario de vars, inicializado.
+[INFO] 17:53:01:533 CPU/(5950:5950): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:53:01:535 CPU/(5950:5950): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:53:01:535 CPU/(5950:5950): IP_UMV = [10.0.2.15]
+[DEBUG] 17:53:01:535 CPU/(5950:5950): PUERTO_UMV = [5005]
+[DEBUG] 17:53:01:535 CPU/(5950:5950): PUERTO_KERNEL = [5001]
+[INFO] 17:53:01:535 CPU/(5950:5950): Diccionario de vars, inicializado.
+[INFO] 17:53:38:684 CPU/(5965:5965): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 17:53:38:688 CPU/(5965:5965): IP_KERNEL = [10.0.2.15]
+[DEBUG] 17:53:38:688 CPU/(5965:5965): IP_UMV = [10.0.2.15]
+[DEBUG] 17:53:38:688 CPU/(5965:5965): PUERTO_UMV = [5005]
+[DEBUG] 17:53:38:688 CPU/(5965:5965): PUERTO_KERNEL = [5001]
+[INFO] 17:53:38:688 CPU/(5965:5965): Diccionario de vars, inicializado.
+[INFO] 21:37:25:601 CPU/(1894:1894): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:37:25:615 CPU/(1894:1894): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:37:25:615 CPU/(1894:1894): IP_UMV = [10.0.2.15]
+[DEBUG] 21:37:25:615 CPU/(1894:1894): PUERTO_UMV = [5005]
+[DEBUG] 21:37:25:615 CPU/(1894:1894): PUERTO_KERNEL = [5001]
+[INFO] 21:37:25:615 CPU/(1894:1894): Diccionario de vars, inicializado.
+[INFO] 21:42:26:117 CPU/(1981:1981): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:42:26:118 CPU/(1981:1981): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:42:26:118 CPU/(1981:1981): IP_UMV = [10.0.2.15]
+[DEBUG] 21:42:26:118 CPU/(1981:1981): PUERTO_UMV = [5005]
+[DEBUG] 21:42:26:118 CPU/(1981:1981): PUERTO_KERNEL = [5001]
+[INFO] 21:42:26:118 CPU/(1981:1981): Diccionario de vars, inicializado.
+[INFO] 21:42:41:907 CPU/(1993:1993): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:42:41:908 CPU/(1993:1993): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:42:41:908 CPU/(1993:1993): IP_UMV = [10.0.2.15]
+[DEBUG] 21:42:41:908 CPU/(1993:1993): PUERTO_UMV = [5005]
+[DEBUG] 21:42:41:908 CPU/(1993:1993): PUERTO_KERNEL = [5001]
+[INFO] 21:42:41:908 CPU/(1993:1993): Diccionario de vars, inicializado.
+[INFO] 21:45:10:520 CPU/(2100:2100): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:45:10:520 CPU/(2100:2100): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:45:10:520 CPU/(2100:2100): IP_UMV = [10.0.2.15]
+[DEBUG] 21:45:10:520 CPU/(2100:2100): PUERTO_UMV = [5005]
+[DEBUG] 21:45:10:520 CPU/(2100:2100): PUERTO_KERNEL = [5001]
+[INFO] 21:45:10:520 CPU/(2100:2100): Diccionario de vars, inicializado.
+[INFO] 21:45:25:108 CPU/(2113:2113): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:45:25:108 CPU/(2113:2113): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:45:25:108 CPU/(2113:2113): IP_UMV = [10.0.2.15]
+[DEBUG] 21:45:25:108 CPU/(2113:2113): PUERTO_UMV = [5005]
+[DEBUG] 21:45:25:108 CPU/(2113:2113): PUERTO_KERNEL = [5001]
+[INFO] 21:45:25:108 CPU/(2113:2113): Diccionario de vars, inicializado.
+[INFO] 21:46:41:329 CPU/(2221:2221): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:46:41:329 CPU/(2221:2221): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:46:41:329 CPU/(2221:2221): IP_UMV = [10.0.2.15]
+[DEBUG] 21:46:41:329 CPU/(2221:2221): PUERTO_UMV = [5005]
+[DEBUG] 21:46:41:329 CPU/(2221:2221): PUERTO_KERNEL = [5001]
+[INFO] 21:46:41:329 CPU/(2221:2221): Diccionario de vars, inicializado.
+[INFO] 21:48:14:769 CPU/(2282:2282): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:48:14:769 CPU/(2282:2282): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:48:14:769 CPU/(2282:2282): IP_UMV = [10.0.2.15]
+[DEBUG] 21:48:14:769 CPU/(2282:2282): PUERTO_UMV = [5005]
+[DEBUG] 21:48:14:769 CPU/(2282:2282): PUERTO_KERNEL = [5001]
+[INFO] 21:48:14:769 CPU/(2282:2282): Diccionario de vars, inicializado.
+[INFO] 21:49:54:359 CPU/(2342:2342): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:49:54:359 CPU/(2342:2342): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:49:54:359 CPU/(2342:2342): IP_UMV = [10.0.2.15]
+[DEBUG] 21:49:54:360 CPU/(2342:2342): PUERTO_UMV = [5005]
+[DEBUG] 21:49:54:360 CPU/(2342:2342): PUERTO_KERNEL = [5001]
+[INFO] 21:49:54:360 CPU/(2342:2342): Diccionario de vars, inicializado.
+[INFO] 21:50:06:850 CPU/(2351:2351): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:50:06:850 CPU/(2351:2351): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:50:06:850 CPU/(2351:2351): IP_UMV = [10.0.2.15]
+[DEBUG] 21:50:06:850 CPU/(2351:2351): PUERTO_UMV = [5005]
+[DEBUG] 21:50:06:850 CPU/(2351:2351): PUERTO_KERNEL = [5001]
+[INFO] 21:50:06:850 CPU/(2351:2351): Diccionario de vars, inicializado.
+[INFO] 21:57:28:821 CPU/(2624:2624): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 21:57:28:822 CPU/(2624:2624): IP_KERNEL = [10.0.2.15]
+[DEBUG] 21:57:28:822 CPU/(2624:2624): IP_UMV = [10.0.2.15]
+[DEBUG] 21:57:28:822 CPU/(2624:2624): PUERTO_UMV = [5005]
+[DEBUG] 21:57:28:822 CPU/(2624:2624): PUERTO_KERNEL = [5001]
+[INFO] 21:57:28:822 CPU/(2624:2624): Diccionario de vars, inicializado.
+[INFO] 22:12:19:262 CPU/(3030:3030): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:12:19:262 CPU/(3030:3030): IP_KERNEL = [10.0.2.15]
+[DEBUG] 22:12:19:262 CPU/(3030:3030): IP_UMV = [10.0.2.15]
+[DEBUG] 22:12:19:262 CPU/(3030:3030): PUERTO_UMV = [5005]
+[DEBUG] 22:12:19:262 CPU/(3030:3030): PUERTO_KERNEL = [5001]
+[INFO] 22:12:19:262 CPU/(3030:3030): Diccionario de vars, inicializado.
+[INFO] 22:12:34:774 CPU/(3040:3040): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:12:34:774 CPU/(3040:3040): IP_KERNEL = [10.0.2.15]
+[DEBUG] 22:12:34:774 CPU/(3040:3040): IP_UMV = [10.0.2.15]
+[DEBUG] 22:12:34:774 CPU/(3040:3040): PUERTO_UMV = [5005]
+[DEBUG] 22:12:34:774 CPU/(3040:3040): PUERTO_KERNEL = [5001]
+[INFO] 22:12:34:774 CPU/(3040:3040): Diccionario de vars, inicializado.
+[INFO] 22:12:57:819 CPU/(3054:3054): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:12:57:819 CPU/(3054:3054): IP_KERNEL = [10.0.2.15]
+[DEBUG] 22:12:57:819 CPU/(3054:3054): IP_UMV = [10.0.2.15]
+[DEBUG] 22:12:57:819 CPU/(3054:3054): PUERTO_UMV = [5005]
+[DEBUG] 22:12:57:819 CPU/(3054:3054): PUERTO_KERNEL = [5001]
+[INFO] 22:12:57:819 CPU/(3054:3054): Diccionario de vars, inicializado.
+[INFO] 22:13:29:263 CPU/(3097:3097): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:13:29:263 CPU/(3097:3097): IP_KERNEL = [10.0.2.15]
+[DEBUG] 22:13:29:263 CPU/(3097:3097): IP_UMV = [10.0.2.15]
+[DEBUG] 22:13:29:263 CPU/(3097:3097): PUERTO_UMV = [5005]
+[DEBUG] 22:13:29:263 CPU/(3097:3097): PUERTO_KERNEL = [5001]
+[INFO] 22:13:29:263 CPU/(3097:3097): Diccionario de vars, inicializado.
+[INFO] 22:13:57:839 CPU/(3143:3143): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 22:13:57:840 CPU/(3143:3143): IP_KERNEL = [10.0.2.15]
+[DEBUG] 22:13:57:840 CPU/(3143:3143): IP_UMV = [10.0.2.15]
+[DEBUG] 22:13:57:840 CPU/(3143:3143): PUERTO_UMV = [5005]
+[DEBUG] 22:13:57:840 CPU/(3143:3143): PUERTO_KERNEL = [5001]
+[INFO] 22:13:57:840 CPU/(3143:3143): Diccionario de vars, inicializado.
+[INFO] 23:11:28:151 CPU/(3524:3524): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 23:11:28:151 CPU/(3524:3524): IP_KERNEL = [10.0.2.15]
+[DEBUG] 23:11:28:151 CPU/(3524:3524): IP_UMV = [10.0.2.15]
+[DEBUG] 23:11:28:151 CPU/(3524:3524): PUERTO_UMV = [5005]
+[DEBUG] 23:11:28:151 CPU/(3524:3524): PUERTO_KERNEL = [5001]
+[INFO] 23:11:28:152 CPU/(3524:3524): Diccionario de vars, inicializado.
+[INFO] 23:11:42:251 CPU/(3534:3534): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 23:11:42:251 CPU/(3534:3534): IP_KERNEL = [10.0.2.15]
+[DEBUG] 23:11:42:251 CPU/(3534:3534): IP_UMV = [10.0.2.15]
+[DEBUG] 23:11:42:251 CPU/(3534:3534): PUERTO_UMV = [5005]
+[DEBUG] 23:11:42:252 CPU/(3534:3534): PUERTO_KERNEL = [5001]
+[INFO] 23:11:42:252 CPU/(3534:3534): Diccionario de vars, inicializado.
+[INFO] 01:39:06:988 CPU/(2592:2592): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:39:06:0 CPU/(2592:2592): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:39:06:0 CPU/(2592:2592): IP_UMV = [10.0.2.15]
+[DEBUG] 01:39:06:0 CPU/(2592:2592): PUERTO_UMV = [5005]
+[DEBUG] 01:39:06:0 CPU/(2592:2592): PUERTO_KERNEL = [5001]
+[INFO] 01:39:06:0 CPU/(2592:2592): Diccionario de vars, inicializado.
+[INFO] 01:39:42:989 CPU/(2605:2605): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 01:39:42:989 CPU/(2605:2605): IP_KERNEL = [10.0.2.15]
+[DEBUG] 01:39:42:989 CPU/(2605:2605): IP_UMV = [10.0.2.15]
+[DEBUG] 01:39:42:989 CPU/(2605:2605): PUERTO_UMV = [5005]
+[DEBUG] 01:39:42:989 CPU/(2605:2605): PUERTO_KERNEL = [5001]
+[INFO] 01:39:42:989 CPU/(2605:2605): Diccionario de vars, inicializado.
+[INFO] 03:17:57:598 CPU/(2007:2007): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 03:17:57:617 CPU/(2007:2007): IP_KERNEL = [10.0.2.15]
+[DEBUG] 03:17:57:618 CPU/(2007:2007): IP_UMV = [10.0.2.15]
+[DEBUG] 03:17:57:618 CPU/(2007:2007): PUERTO_UMV = [5005]
+[DEBUG] 03:17:57:618 CPU/(2007:2007): PUERTO_KERNEL = [5001]
+[INFO] 03:17:57:618 CPU/(2007:2007): Diccionario de vars, inicializado.
+[INFO] 03:18:55:263 CPU/(2052:2052): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 03:18:55:264 CPU/(2052:2052): IP_KERNEL = [10.0.2.15]
+[DEBUG] 03:18:55:264 CPU/(2052:2052): IP_UMV = [10.0.2.15]
+[DEBUG] 03:18:55:264 CPU/(2052:2052): PUERTO_UMV = [5005]
+[DEBUG] 03:18:55:264 CPU/(2052:2052): PUERTO_KERNEL = [5001]
+[INFO] 03:18:55:265 CPU/(2052:2052): Diccionario de vars, inicializado.
