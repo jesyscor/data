@@ -1,7 +1,7 @@
 estructurasDeSegmentos.d: ../estructurasDeSegmentos.c \
- /home/utnso/git/tp-2014-1c-david-y-goliat/UMV/algoritmosDeUbicacion.h \
- /home/utnso/git/tp-2014-1c-david-y-goliat/UMV/estructurasDeSegmentos.h
+ /root/git/data/UMV/algoritmosDeUbicacion.h \
+ /root/git/data/UMV/estructurasDeSegmentos.h
 
-/home/utnso/git/tp-2014-1c-david-y-goliat/UMV/algoritmosDeUbicacion.h:
+/root/git/data/UMV/algoritmosDeUbicacion.h:
 
-/home/utnso/git/tp-2014-1c-david-y-goliat/UMV/estructurasDeSegmentos.h:
+/root/git/data/UMV/estructurasDeSegmentos.h:

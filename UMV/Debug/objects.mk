@@ -4,5 +4,5 @@
 
 USER_OBJS :=
 
-LIBS := -lcommons -lpthread -lMiniGral_lib
+LIBS := -lMiniGral_lib -lcommons -lpthread
 

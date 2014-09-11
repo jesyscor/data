@@ -22,22 +22,26 @@ endif
 # Add inputs and outputs from these tool invocations to the build variables 
 
 # All Target
-all: UMV
+all: UMV-Process
+
+dependents:
+	-cd /root/git/data/MiniGral_lib/Debug && $(MAKE) clean all
 
 # Tool invocations
-UMV: $(OBJS) $(USER_OBJS)
+UMV-Process: $(OBJS) $(USER_OBJS) /root/git/data/MiniGral_lib/Debug/libMiniGral_lib.so
 	@echo 'Building target: $@'
 	@echo 'Invoking: GCC C Linker'
-	gcc -L/home/utnso/git/tp-2014-1c-david-y-goliat/MiniGral_lib/Debug -o "UMV" $(OBJS) $(USER_OBJS) $(LIBS)
+	gcc -L"/root/git/data/MiniGral_lib/Debug" -o "UMV-Process" $(OBJS) $(USER_OBJS) $(LIBS)
 	@echo 'Finished building target: $@'
 	@echo ' '
 
 # Other Targets
 clean:
-	-$(RM) $(OBJS)$(C_DEPS)$(EXECUTABLES) UMV
+	-$(RM) $(EXECUTABLES)$(OBJS)$(C_DEPS) UMV-Process
 	-@echo ' '
 
 .PHONY: all clean dependents
 .SECONDARY:
+/root/git/data/MiniGral_lib/Debug/libMiniGral_lib.so:
 
 -include ../makefile.targets

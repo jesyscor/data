@@ -16,7 +16,7 @@
 	#include <netinet/in.h>
 	#include <arpa/inet.h>
 	#include "PLP_Estructuras.h"
-	#include "Enviar_Recibir_Paquete.h"
+	#include <sockets/Enviar_Recibir_Paquete.h>
 	#include "commons/collections/dictionary.h"
 
 

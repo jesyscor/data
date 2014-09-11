@@ -24,20 +24,24 @@ endif
 # All Target
 all: Programa
 
+dependents:
+	-cd /root/git/data/MiniGral_lib/Debug && $(MAKE) all
+
 # Tool invocations
-Programa: $(OBJS) $(USER_OBJS)
+Programa: $(OBJS) $(USER_OBJS) /root/git/data/MiniGral_lib/Debug/libMiniGral_lib.so
 	@echo 'Building target: $@'
 	@echo 'Invoking: GCC C Linker'
-	gcc  -o "Programa" $(OBJS) $(USER_OBJS) $(LIBS)
+	gcc -L"/root/git/data/MiniGral_lib/Debug" -o "Programa" $(OBJS) $(USER_OBJS) $(LIBS)
 	@echo 'Finished building target: $@'
 	@echo ' '
 
 # Other Targets
 clean:
-	-$(RM) $(OBJS)$(C_DEPS)$(EXECUTABLES) Programa
+	-$(RM) $(EXECUTABLES)$(OBJS)$(C_DEPS) Programa
 	-@echo ' '
 
 .PHONY: all clean dependents
 .SECONDARY:
+/root/git/data/MiniGral_lib/Debug/libMiniGral_lib.so:
 
 -include ../makefile.targets

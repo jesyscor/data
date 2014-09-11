@@ -24,7 +24,7 @@
 	#include <signal.h>
 
 	#include <algoritmosDeUbicacion.h>
-	#include <Enviar_Recibir_Paquete.h>
+	#include <sockets/Enviar_Recibir_Paquete.h>
 	#include <PaquetesYOperaciones.h>
 
 	// Variables para sockets

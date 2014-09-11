@@ -24,20 +24,24 @@ endif
 # All Target
 all: Kernel
 
+dependents:
+	-cd /root/git/data/MiniGral_lib/Debug && $(MAKE) clean all
+
 # Tool invocations
-Kernel: $(OBJS) $(USER_OBJS)
+Kernel: $(OBJS) $(USER_OBJS) /root/git/data/MiniGral_lib/Debug/libMiniGral_lib.so
 	@echo 'Building target: $@'
 	@echo 'Invoking: GCC C Linker'
-	gcc  -o "Kernel" $(OBJS) $(USER_OBJS) $(LIBS)
+	gcc -L"/root/git/data/MiniGral_lib/Debug" -o "Kernel" $(OBJS) $(USER_OBJS) $(LIBS)
 	@echo 'Finished building target: $@'
 	@echo ' '
 
 # Other Targets
 clean:
-	-$(RM) $(OBJS)$(C_DEPS)$(EXECUTABLES) Kernel
+	-$(RM) $(EXECUTABLES)$(OBJS)$(C_DEPS) Kernel
 	-@echo ' '
 
 .PHONY: all clean dependents
 .SECONDARY:
+/root/git/data/MiniGral_lib/Debug/libMiniGral_lib.so:
 
 -include ../makefile.targets

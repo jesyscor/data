@@ -10,7 +10,7 @@
 
 #include <commons/string.h>
 
-#include "Enviar_Recibir_Paquete.h"
+#include <sockets/Enviar_Recibir_Paquete.h>
 #include "Estructuras_Auxiliares.h"
 
 typedef struct __attribute__((__packed__)) PaqueteSolicitudMemoria {

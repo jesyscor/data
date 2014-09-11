@@ -30,7 +30,7 @@
 	#include <commons/collections/queue.h>
 	#include <commons/log.h>
 
-	#include "Enviar_Recibir_Paquete.h"
+	#include <sockets/Enviar_Recibir_Paquete.h>
 	#include "PLP_Estructuras.h"
 	#include "Estructuras_Auxiliares.h"
 	#include "Colas_Operaciones.h"

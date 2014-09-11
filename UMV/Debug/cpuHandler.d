@@ -1,19 +1,18 @@
-cpuHandler.d: ../cpuHandler.c \
- /home/utnso/git/tp-2014-1c-david-y-goliat/UMV/cpuHandler.h \
- /home/utnso/git/tp-2014-1c-david-y-goliat/UMV/socket_CPU-UMV.h \
- /home/utnso/git/tp-2014-1c-david-y-goliat/UMV/PaquetesYOperaciones.h \
- /home/utnso/git/tp-2014-1c-david-y-goliat/MiniGral_lib/Sockets/Enviar_Recibir_Paquete.h \
- /home/utnso/git/tp-2014-1c-david-y-goliat/UMV/algoritmosDeUbicacion.h \
- /home/utnso/git/tp-2014-1c-david-y-goliat/UMV/estructurasDeSegmentos.h
+cpuHandler.d: ../cpuHandler.c /root/git/data/UMV/cpuHandler.h \
+ /root/git/data/UMV/socket_CPU-UMV.h \
+ /root/git/data/UMV/PaquetesYOperaciones.h \
+ /root/git/data/MiniGral_lib/sockets/Enviar_Recibir_Paquete.h \
+ /root/git/data/UMV/algoritmosDeUbicacion.h \
+ /root/git/data/UMV/estructurasDeSegmentos.h
 
-/home/utnso/git/tp-2014-1c-david-y-goliat/UMV/cpuHandler.h:
+/root/git/data/UMV/cpuHandler.h:
 
-/home/utnso/git/tp-2014-1c-david-y-goliat/UMV/socket_CPU-UMV.h:
+/root/git/data/UMV/socket_CPU-UMV.h:
 
-/home/utnso/git/tp-2014-1c-david-y-goliat/UMV/PaquetesYOperaciones.h:
+/root/git/data/UMV/PaquetesYOperaciones.h:
 
-/home/utnso/git/tp-2014-1c-david-y-goliat/MiniGral_lib/Sockets/Enviar_Recibir_Paquete.h:
+/root/git/data/MiniGral_lib/sockets/Enviar_Recibir_Paquete.h:
 
-/home/utnso/git/tp-2014-1c-david-y-goliat/UMV/algoritmosDeUbicacion.h:
+/root/git/data/UMV/algoritmosDeUbicacion.h:
 
-/home/utnso/git/tp-2014-1c-david-y-goliat/UMV/estructurasDeSegmentos.h:
+/root/git/data/UMV/estructurasDeSegmentos.h:

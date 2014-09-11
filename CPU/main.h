@@ -30,8 +30,9 @@
 	#include <commons/log.h>
 	#include <commons/config.h>
 
+
 	#include "Primitivas.h"
-	#include "Enviar_Recibir_Paquete.h"
+	#include <sockets/Enviar_Recibir_Paquete.h>
 	//#include "socket_Kernel-CPU.h"
 	//#include "socket_UMV-CPU.h"
 

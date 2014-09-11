@@ -9,10 +9,10 @@
 #define PCP_OPERACIONES_CPU_H_
 
 #include "PCP_Estructuras.h"
-#include "Enviar_Recibir_Paquete.h"
-#include "commons/collections/list.h"
+#include <sockets/Enviar_Recibir_Paquete.h>
+#include <commons/collections/list.h>
 #include "Colas_Operaciones.h"
-#include "commons/collections/dictionary.h"
+#include <commons/collections/dictionary.h>
 
 
 //Variables

@@ -23,6 +23,6 @@
 	#include <socket_CPU-UMV.h>
 	#include <pthread.h>
 	#include <algoritmosDeUbicacion.h>
-	#include <Enviar_Recibir_Paquete.h>
+	#include <sockets/Enviar_Recibir_Paquete.h>
 
 #endif /* CPUHANDLER_H_ */

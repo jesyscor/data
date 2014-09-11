@@ -15,7 +15,7 @@
 	#include <sys/socket.h>
 	#include <netinet/in.h>
 	#include <arpa/inet.h>
-	#include "Enviar_Recibir_Paquete.h"
+	#include <sockets/Enviar_Recibir_Paquete.h>
 	#include "PLP_Estructuras.h"
 	#include <parser/metadata_program.h>
 

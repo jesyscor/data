@@ -9,7 +9,7 @@
 #define SOCKET_CPU_UMV_H_
 
 	#include <PaquetesYOperaciones.h>
-	#include <Enviar_Recibir_Paquete.h>
+	#include <sockets/Enviar_Recibir_Paquete.h>
 
 	void *inicializar_SocketCPUUMV();
 	void cerrar_SocketCPUUMV();

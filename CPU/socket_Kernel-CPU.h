@@ -19,7 +19,7 @@
 	#include <unistd.h>
 	#include <string.h>
 
-	#include "Enviar_Recibir_Paquete.h"
+	#include <sockets/Enviar_Recibir_Paquete.h>
 	#include "PaquetesYOperaciones.h"
 
 	// Funciones PCP

@@ -11,7 +11,7 @@
 	#include <stdbool.h>
 	#include <commons/string.h>
 
-	#include "Enviar_Recibir_Paquete.h"
+	#include <sockets/Enviar_Recibir_Paquete.h>
 	#include "Estructuras_Auxiliares.h"
 
 	typedef enum Operaciones_PCP	{
