@@ -25,7 +25,7 @@ endif
 all: UMV-Process
 
 dependents:
-	-cd /root/git/data/MiniGral_lib/Debug && $(MAKE) clean all
+	-cd /root/git/data/MiniGral_lib/Debug && $(MAKE) all
 
 # Tool invocations
 UMV-Process: $(OBJS) $(USER_OBJS) /root/git/data/MiniGral_lib/Debug/libMiniGral_lib.so

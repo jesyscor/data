@@ -2946,3 +2946,11 @@
 [TRACE] 03:49:53:700 UMV/(3395:3395): Sockets a la escucha del Kernel.
 [TRACE] 03:49:53:701 UMV/(3395:3395): Sockets a la escucha de CPUs.
 [TRACE] 03:49:53:701 UMV/(3395:3395): Consola CMD interactiva, activada.
+[INFO] 14:18:56:38 UMV/(7820:7820): Parseo y Extraccion de valores de archivo de configuracion
+[INFO] 14:18:56:49 UMV/(7820:7820): SIZE_MEMORIA = [10244]
+[INFO] 14:18:56:49 UMV/(7820:7820): IP_UMV = [10.0.2.15]
+[INFO] 14:18:56:49 UMV/(7820:7820): PUERTO_KERNEL = [5002]
+[INFO] 14:18:56:49 UMV/(7820:7820): PUERTO_CPU = [5005]
+[TRACE] 14:18:56:49 UMV/(7820:7820): Esperando por conexiones entrantes.
+[TRACE] 14:18:56:49 UMV/(7820:7820): Sockets a la escucha del Kernel.
+[TRACE] 14:18:56:49 UMV/(7820:7820): Sockets a la escucha de CPUs.

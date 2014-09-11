@@ -22,22 +22,22 @@ endif
 # Add inputs and outputs from these tool invocations to the build variables 
 
 # All Target
-all: CPU
+all: CPU-Process
 
 dependents:
 	-cd /root/git/data/MiniGral_lib/Debug && $(MAKE) clean all
 
 # Tool invocations
-CPU: $(OBJS) $(USER_OBJS) /root/git/data/MiniGral_lib/Debug/libMiniGral_lib.so
+CPU-Process: $(OBJS) $(USER_OBJS) /root/git/data/MiniGral_lib/Debug/libMiniGral_lib.so
 	@echo 'Building target: $@'
 	@echo 'Invoking: GCC C Linker'
-	gcc -L"/root/git/data/MiniGral_lib/Debug" -o "CPU" $(OBJS) $(USER_OBJS) $(LIBS)
+	gcc -L"/root/git/data/MiniGral_lib/Debug" -o "CPU-Process" $(OBJS) $(USER_OBJS) $(LIBS)
 	@echo 'Finished building target: $@'
 	@echo ' '
 
 # Other Targets
 clean:
-	-$(RM) $(EXECUTABLES)$(OBJS)$(C_DEPS) CPU
+	-$(RM) $(EXECUTABLES)$(OBJS)$(C_DEPS) CPU-Process
 	-@echo ' '
 
 .PHONY: all clean dependents

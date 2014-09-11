@@ -4,5 +4,5 @@
 
 USER_OBJS :=
 
-LIBS := -lMiniGral_lib -lcommons
+LIBS := -lcommons -lMiniGral_lib
 

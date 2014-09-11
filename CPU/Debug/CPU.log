@@ -855,3 +855,9 @@
 [DEBUG] 03:18:55:264 CPU/(2052:2052): PUERTO_UMV = [5005]
 [DEBUG] 03:18:55:264 CPU/(2052:2052): PUERTO_KERNEL = [5001]
 [INFO] 03:18:55:265 CPU/(2052:2052): Diccionario de vars, inicializado.
+[INFO] 14:18:37:16 CPU/(7818:7818): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 14:18:37:23 CPU/(7818:7818): IP_KERNEL = [10.0.2.15]
+[DEBUG] 14:18:37:23 CPU/(7818:7818): IP_UMV = [10.0.2.15]
+[DEBUG] 14:18:37:23 CPU/(7818:7818): PUERTO_UMV = [5005]
+[DEBUG] 14:18:37:23 CPU/(7818:7818): PUERTO_KERNEL = [5001]
+[INFO] 14:18:37:23 CPU/(7818:7818): Diccionario de vars, inicializado.
