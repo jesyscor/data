@@ -56,6 +56,7 @@
 	void agregarProceso(int id_proceso);
 	void destruirProceso(int id_proceso);
 	void listarProcesos();
+	void mostrarContenido();
 
 	void agregarSegmento(int id_proceso, int base, int size, u_int32_t posicionMP);
 	//void listarSegmentos(FILE *output_dump, int id_proceso);

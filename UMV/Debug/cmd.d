@@ -1,6 +1,6 @@
-cmd.d: ../cmd.c /root/git/data/UMV/estructurasDeSegmentos.h \
- /root/git/data/UMV/algoritmosDeUbicacion.h
+cmd.d: ../cmd.c /home/utnso/git/data/UMV/estructurasDeSegmentos.h \
+ /home/utnso/git/data/UMV/algoritmosDeUbicacion.h
 
-/root/git/data/UMV/estructurasDeSegmentos.h:
+/home/utnso/git/data/UMV/estructurasDeSegmentos.h:
 
-/root/git/data/UMV/algoritmosDeUbicacion.h:
+/home/utnso/git/data/UMV/algoritmosDeUbicacion.h:

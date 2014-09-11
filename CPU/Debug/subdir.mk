@@ -26,7 +26,7 @@ C_DEPS += \
 %.o: ../%.c
 	@echo 'Building file: $<'
 	@echo 'Invoking: GCC C Compiler'
-	gcc -I"/root/git/data/MiniGral_lib" -I/usr/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/4.7/include -I/usr/lib/gcc/x86_64-linux-gnu/4.7/include-fixed -I/usr/include/x86_64-linux-gnu -I"/root/git/data/MiniGral_lib/sockets" -I"/root/git/data/MiniGral_lib/Debug/sockets" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@:%.o=%.d)" -o "$@" "$<"
+	gcc -I/usr/include -I/usr/local/include -I/usr/lib/gcc/i686-linux-gnu/4.7/include -I/usr/lib/gcc/i686-linux-gnu/4.7/include-fixed -I/usr/lib/gcc/i686-linux-gnu -I"/home/utnso/git/data/MiniGral_lib" -I"/home/utnso/git/data/MiniGral_lib/sockets" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@:%.o=%.d)" -o "$@" "$<"
 	@echo 'Finished building: $<'
 	@echo ' '
 

@@ -25,10 +25,10 @@ endif
 all: Programa-Process
 
 dependents:
-	-cd /root/git/data/MiniGral_lib/Debug && $(MAKE) all
+	-cd /home/utnso/git/data/MiniGral_lib/Debug && $(MAKE) clean all
 
 # Tool invocations
-Programa-Process: $(OBJS) $(USER_OBJS) /root/git/data/MiniGral_lib/Debug/libMiniGral_lib.so
+Programa-Process: $(OBJS) $(USER_OBJS) /home/utnso/git/data/MiniGral_lib/Debug/libMiniGral_lib.so
 	@echo 'Building target: $@'
 	@echo 'Invoking: GCC C Linker'
 	gcc -L/root/git/data/MiniGral_lib/Debug -o "Programa-Process" $(OBJS) $(USER_OBJS) $(LIBS)
@@ -37,11 +37,11 @@ Programa-Process: $(OBJS) $(USER_OBJS) /root/git/data/MiniGral_lib/Debug/libMini
 
 # Other Targets
 clean:
-	-$(RM) $(EXECUTABLES)$(OBJS)$(C_DEPS) Programa-Process
+	-$(RM) $(OBJS)$(C_DEPS)$(EXECUTABLES) Programa-Process
 	-@echo ' '
 
 .PHONY: all clean dependents
 .SECONDARY:
-/root/git/data/MiniGral_lib/Debug/libMiniGral_lib.so:
+/home/utnso/git/data/MiniGral_lib/Debug/libMiniGral_lib.so:
 
 -include ../makefile.targets

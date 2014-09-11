@@ -25,23 +25,23 @@ endif
 all: Kernel-Process
 
 dependents:
-	-cd /root/git/data/MiniGral_lib/Debug && $(MAKE) clean all
+	-cd /home/utnso/git/data/MiniGral_lib/Debug && $(MAKE) clean all
 
 # Tool invocations
-Kernel-Process: $(OBJS) $(USER_OBJS) /root/git/data/MiniGral_lib/Debug/libMiniGral_lib.so
+Kernel-Process: $(OBJS) $(USER_OBJS) /home/utnso/git/data/MiniGral_lib/Debug/libMiniGral_lib.so
 	@echo 'Building target: $@'
 	@echo 'Invoking: GCC C Linker'
-	gcc -L"/root/git/data/MiniGral_lib/Debug" -o "Kernel-Process" $(OBJS) $(USER_OBJS) $(LIBS)
+	gcc -L"/home/utnso/git/data/MiniGral_lib/Debug" -o "Kernel-Process" $(OBJS) $(USER_OBJS) $(LIBS)
 	@echo 'Finished building target: $@'
 	@echo ' '
 
 # Other Targets
 clean:
-	-$(RM) $(EXECUTABLES)$(OBJS)$(C_DEPS) Kernel-Process
+	-$(RM) $(OBJS)$(C_DEPS)$(EXECUTABLES) Kernel-Process
 	-@echo ' '
 
 .PHONY: all clean dependents
 .SECONDARY:
-/root/git/data/MiniGral_lib/Debug/libMiniGral_lib.so:
+/home/utnso/git/data/MiniGral_lib/Debug/libMiniGral_lib.so:
 
 -include ../makefile.targets

@@ -25,23 +25,23 @@ endif
 all: UMV-Process
 
 dependents:
-	-cd /root/git/data/MiniGral_lib/Debug && $(MAKE) all
+	-cd /home/utnso/git/data/MiniGral_lib/Debug && $(MAKE) all
 
 # Tool invocations
-UMV-Process: $(OBJS) $(USER_OBJS) /root/git/data/MiniGral_lib/Debug/libMiniGral_lib.so
+UMV-Process: $(OBJS) $(USER_OBJS) /home/utnso/git/data/MiniGral_lib/Debug/libMiniGral_lib.so
 	@echo 'Building target: $@'
 	@echo 'Invoking: GCC C Linker'
-	gcc -L"/root/git/data/MiniGral_lib/Debug" -o "UMV-Process" $(OBJS) $(USER_OBJS) $(LIBS)
+	gcc -L"/home/utnso/git/data/MiniGral_lib/Debug" -o "UMV-Process" $(OBJS) $(USER_OBJS) $(LIBS)
 	@echo 'Finished building target: $@'
 	@echo ' '
 
 # Other Targets
 clean:
-	-$(RM) $(EXECUTABLES)$(OBJS)$(C_DEPS) UMV-Process
+	-$(RM) $(OBJS)$(C_DEPS)$(EXECUTABLES) UMV-Process
 	-@echo ' '
 
 .PHONY: all clean dependents
 .SECONDARY:
-/root/git/data/MiniGral_lib/Debug/libMiniGral_lib.so:
+/home/utnso/git/data/MiniGral_lib/Debug/libMiniGral_lib.so:
 
 -include ../makefile.targets

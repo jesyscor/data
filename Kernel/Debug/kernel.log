@@ -5522,3 +5522,49 @@
 [INFO] 14:18:13:385 Kernel/(7804:7805): Se crean las estructuras necesarias del hilo.
 [TRACE] 14:18:13:385 Kernel/(7804:7806): INICIO de registro de actividades del Hilo PCP.
 [INFO] 14:18:13:385 Kernel/(7804:7806): Se crean las estructuras necesarias del hilo.
+[INFO] 15:02:04:229 Kernel/(2992:2992): Inicio de registro de actividades.
+[INFO] 15:02:04:230 Kernel/(2992:2992): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 15:02:04:230 Kernel/(2992:2992): COMPARTIDA [colas] = [0]
+[DEBUG] 15:02:04:230 Kernel/(2992:2992): COMPARTIDA [compartida] = [0]
+[DEBUG] 15:02:04:230 Kernel/(2992:2992): SEMAFORO [b] = [1]
+[DEBUG] 15:02:04:230 Kernel/(2992:2992): SEMAFORO [c] = [0]
+[DEBUG] 15:02:04:230 Kernel/(2992:2992): MULTIPROGRAMACION = [3]
+[DEBUG] 15:02:04:230 Kernel/(2992:2992): IP_KERNEL = [10.0.2.15]
+[DEBUG] 15:02:04:230 Kernel/(2992:2992): PUERTO_PROG = [5000]
+[DEBUG] 15:02:04:230 Kernel/(2992:2992): PUERTO_CPU = [5001]
+[DEBUG] 15:02:04:230 Kernel/(2992:2992): IP_UMV = [10.0.2.15]
+[DEBUG] 15:02:04:230 Kernel/(2992:2992): PUERTO_UMV = [5002]
+[DEBUG] 15:02:04:230 Kernel/(2992:2992): QUANTUM = [3]
+[DEBUG] 15:02:04:230 Kernel/(2992:2992): RETARDO = [1000]
+[DEBUG] 15:02:04:230 Kernel/(2992:2992): TAMANIO_STACK = [300]
+[INFO] 15:02:04:230 Kernel/(2992:2992): Se crean las estructuras necesarias del hilo.
+[TRACE] 15:02:04:234 Kernel/(2992:2994): INICIO de registro de actividades del Hilo PCP.
+[INFO] 15:02:04:234 Kernel/(2992:2994): Se crean las estructuras necesarias del hilo.
+[TRACE] 15:02:04:235 Kernel/(2992:2993): INICIO de registro de actividades del Hilo PLP.
+[INFO] 15:02:04:235 Kernel/(2992:2993): Se crean las estructuras necesarias del hilo.
+[INFO] 15:02:24:678 Kernel/(3008:3008): Inicio de registro de actividades.
+[INFO] 15:02:24:679 Kernel/(3008:3008): Parseo y Extraccion de valores de archivo de configuracion
+[DEBUG] 15:02:24:679 Kernel/(3008:3008): COMPARTIDA [colas] = [0]
+[DEBUG] 15:02:24:679 Kernel/(3008:3008): COMPARTIDA [compartida] = [0]
+[DEBUG] 15:02:24:679 Kernel/(3008:3008): SEMAFORO [b] = [1]
+[DEBUG] 15:02:24:679 Kernel/(3008:3008): SEMAFORO [c] = [0]
+[DEBUG] 15:02:24:679 Kernel/(3008:3008): MULTIPROGRAMACION = [3]
+[DEBUG] 15:02:24:679 Kernel/(3008:3008): IP_KERNEL = [10.0.2.15]
+[DEBUG] 15:02:24:679 Kernel/(3008:3008): PUERTO_PROG = [5000]
+[DEBUG] 15:02:24:679 Kernel/(3008:3008): PUERTO_CPU = [5001]
+[DEBUG] 15:02:24:679 Kernel/(3008:3008): IP_UMV = [10.0.2.15]
+[DEBUG] 15:02:24:679 Kernel/(3008:3008): PUERTO_UMV = [5002]
+[DEBUG] 15:02:24:679 Kernel/(3008:3008): QUANTUM = [3]
+[DEBUG] 15:02:24:680 Kernel/(3008:3008): RETARDO = [1000]
+[DEBUG] 15:02:24:680 Kernel/(3008:3008): TAMANIO_STACK = [300]
+[INFO] 15:02:24:680 Kernel/(3008:3008): Se crean las estructuras necesarias del hilo.
+[TRACE] 15:02:24:683 Kernel/(3008:3010): INICIO de registro de actividades del Hilo PCP.
+[INFO] 15:02:24:683 Kernel/(3008:3010): Se crean las estructuras necesarias del hilo.
+[TRACE] 15:02:24:684 Kernel/(3008:3009): INICIO de registro de actividades del Hilo PLP.
+[INFO] 15:02:24:684 Kernel/(3008:3009): Se crean las estructuras necesarias del hilo.
+[INFO] 15:02:24:694 Kernel/(3008:3009): Conexion a UMV establecida.
+[INFO] 15:02:26:581 Kernel/(3008:3009): PID recibido correctamente.
+[INFO] 15:02:26:665 Kernel/(3008:3009): Script recibido correctamente.
+[DEBUG] 15:02:27:36 Kernel/(3008:3009): Se agrego a cola_ready el programa [3012] con peso [69]
+[ERROR] 15:02:29:632 Kernel/(3008:3009): Fallo en la recepcion del PID. Se cierra la conexion.
+[INFO] 15:02:29:632 Kernel/(3008:3009): Script recibido correctamente.
