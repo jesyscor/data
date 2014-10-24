@@ -1,0 +1,62 @@
+-----
+DUDAS:
+-----
+
+-Un empleado puede tener diferentes roles para hoteles distintos ? rolesXusuariosXhotel ?
+UNO DE LOS AYUDANTES DIJO QUE MEDIO QUE SI PEROOOO SE ME HACE QUE NO !!! EN CASO DE SER ASI, EL STATUS DE ROLES DEBERIA ESTAR EN ESTA OTRA NUEVA ENTIDAD
+
+-seleccion acotada <> seleccion especial ? En la guia de ABM no se menciona la segunda...
+PERO PARECE QUE ESPECIAL ES PARA ELEGIR + 1 OPCION !!!
+
+-el status de un rol es por CADA persona o para TODAS las personas ? por ej si el rol recepcionista es 0, TODAS las personas se verian afectadas ?
+
+-localidad, pais de origen, nacionalidad ?
+ESTA BIEN QUE LO GUARDEMOS EN CTES?
+
+-tipo doc + nro doc DEBEN SER UNIQUES (pk ?? )
+AL PARECER HAY DUPLICADOS, POR LO QUE ME PARECE QUE NO !!!
+
+-hay necesidad de crear ACOMPAÑANTESxRESERVA? o se los registra en USUARIOS (desde el ABM de CLIENTES) ??
+
+-entidad HistorialClausuraHoteles ??
+QUE TENGA ATRIBUTOS COMO hotel_id (PK), fecha_inicio, fecha_fin, motivo !!!
+
+-entidad Estadia??
+HAY NECESIDAD ??
+
+
+-----
+NOTAS:
+-----
+* El script de migracion debe de tardar entre 1 min y 1 1/2 min
+* Indicar explicitamente el nombre del esquema siempre (squema.object)
+* Son 14/15 tablas aprox
+* Entregar los sources unicamente (El .exe NO !!!)
+* Usar la app como un singleton
+
+FECHAS ENTREGA:
+* 1 ENTREGA (12/11/2014)
+* 1 RECU 12/12/2014
+* 2 RECU 12/12/2014
+
+convert('fecha',)
+
+- el campo 'Hotel_recarga_estrella' es una cte que es EL MISMO para todos los hoteles (de distintas estrellas), por lo tanto uno de los objetivos es ver DONDE guardamos este valor (10)
+
+- regimen es por reserva y no por habitacion
+
+- la reserva solo puede ser cancelada por la persona que lo hizo.
+
+- Es necesario registrar que acompañantes ocupan cada habitacion pero NO en la facturacion.
+
+- Seria bueno saber que habitación consumió que cosa, o que servicio.
+
+-Imaginate la situación en donde se reúnen todos los admin y tienen que dar de alta a un nuevo admin para incorporar al plantel. Aca pueden pasar 2 cosas, que este nuevo empleado administre un hotel viejo, o que administre un hotel nuevo.
+La situación mas facil es que este nuevo admin, administre un hotel ya existente, que puede ser el mismo hotel que yo administro o no. Por ende creas el nuevo admin, le asignas el hotel y asunto solucionado.
+Ahora bien, la parte dificil, que pasa si el nuevo admin va a administrar un hotel nuevo? este hotel no existe, por ende hay que crearlo, este admin que esta haciendo el alta además de ingresar al nuevo empleado, da de alta al nuevo hotel.
+Pero tene en cuenta que un admin solo puede modificar datos del Hotel donde trabaja. Si ese Hotel no existe el admin puede crearlo, y solo podrá ser modificado por el user que luego tenga asignado
+
+- precio base (regimen) es por huesped x estadia (o sea por noche).
+PRECIO BASE * PORCENTUAL parece ser el calculo a hacer !!!
+
+-Que forma de pago se le debe atribuir a las facturas preexistentes? RESPUESTA = Efectivo dado que no tenias otros datos que acrediten mas formas de pago en la tabla maestra.
